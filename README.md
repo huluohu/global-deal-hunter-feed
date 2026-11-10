@@ -5,7 +5,7 @@
 ## 它是怎么工作的
 
 ```
-Muse（每 2 小时 AI 检索 + 提取，吃 Muse 额度）
+上游情报系统（每 2 小时检索全球公开来源，结构化提取并交叉核实）
     │  刷新后自动发布快照
     ▼
 本仓库 deals.json  ← 你在这里
@@ -33,7 +33,7 @@ https://cdn.jsdelivr.net/gh/huluohu/global-deal-hunter-feed@main/deals.json
 ```json
 {
   "generatedAt": "2026-11-10T06:23:47Z",
-  "source": "GLOBAL DEAL HUNTER · Muse Space",
+  "source": "GLOBAL DEAL HUNTER 情报中心",
   "version": 1,
   "count": 79,
   "deals": [ { "..." : "每条优惠的完整字段" } ]
