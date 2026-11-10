@@ -55,6 +55,8 @@ https://cdn.jsdelivr.net/gh/huluohu/global-deal-hunter-feed@main/deals.json
 
 https://hub.docker.com/r/fooololo/global-deal-hunter
 
+一键部署文件就在本仓库根目录的 `docker-compose.yml`：下载后只改 `ADMIN_PASSWORD` 和 `SECRET_KEY` 两处，执行 `docker compose up -d` 即可。
+
 部署时在 compose 里配置即可自动跟上本货架的更新：
 
 ```yaml
