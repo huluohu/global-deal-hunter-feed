@@ -57,12 +57,40 @@ https://hub.docker.com/r/fooololo/global-deal-hunter
 
 一键部署文件就在本仓库根目录的 `docker-compose.yml`：下载后只改 `ADMIN_PASSWORD` 和 `SECRET_KEY` 两处，执行 `docker compose up -d` 即可。
 
-部署时在 compose 里配置即可自动跟上本货架的更新：
+部署用的完整 compose（保存为 `docker-compose.yml`，只改 `ADMIN_PASSWORD` 和 `SECRET_KEY` 两处占位符，执行 `docker compose up -d` 即可；同一文件也放在本仓库根目录，可直接下载）：
 
 ```yaml
-environment:
-  FEED_URL: "https://raw.githubusercontent.com/huluohu/global-deal-hunter-feed/main/deals.json"
-  FEED_PULL_INTERVAL_HOURS: "2"
+services:
+  deal-hunter:
+    image: fooololo/global-deal-hunter:latest
+    container_name: global-deal-hunter
+    restart: unless-stopped
+    network_mode: bridge
+    environment:
+      ADMIN_USERNAME: "admin"
+      # 必改：换成你自己的密码（明文填这里即可，应用启动时自动哈希，不落盘）
+      ADMIN_PASSWORD: "改成你自己的密码"
+      # 必改：随机密钥，用 openssl rand -hex 32 生成一条粘贴进来
+      SECRET_KEY: "改成随机密钥"
+      # 拉取式同步：每 2 小时自动从数据货架拉取最新快照；不需要自动更新就删掉这两行
+      FEED_URL: "https://raw.githubusercontent.com/huluohu/global-deal-hunter-feed/main/deals.json"
+      FEED_PULL_INTERVAL_HOURS: "2"
+      # 直连 http 访问时保持 false；套上 HTTPS 反代后改成 "true"
+      COOKIE_SECURE: "false"
+    ports:
+      - "8000:8000"
+    volumes:
+      - deal_data:/data
+    read_only: true
+    tmpfs:
+      - /tmp
+    cap_drop:
+      - ALL
+    security_opt:
+      - no-new-privileges:true
+
+volumes:
+  deal_data:
 ```
 
 ## 更新节奏
