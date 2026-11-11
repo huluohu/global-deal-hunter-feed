@@ -1,8 +1,106 @@
 {
- "generatedAt": "2026-11-11T09:57:56Z",
+ "generatedAt": "2026-11-11T10:51:20Z",
  "source": "GLOBAL DEAL HUNTER 情报中心",
  "version": 1,
  "count": 167,
+ "categories": [
+  {
+   "key": "ai",
+   "zh": "AI 工具",
+   "en": "AI tools",
+   "tab": "ai"
+  },
+  {
+   "key": "crypto",
+   "zh": "Crypto",
+   "en": "Crypto",
+   "tab": "crypto"
+  },
+  {
+   "key": "bank",
+   "zh": "海外银行",
+   "en": "Overseas banks",
+   "tab": "bank"
+  },
+  {
+   "key": "vps",
+   "zh": "VPS 及云服务",
+   "en": "VPS & Cloud",
+   "tab": "vps"
+  },
+  {
+   "key": "cloud",
+   "zh": "VPS/云",
+   "en": "VPS/Cloud",
+   "tab": "vps"
+  },
+  {
+   "key": "ecommerce",
+   "zh": "电商购物",
+   "en": "E-commerce",
+   "tab": "shop"
+  },
+  {
+   "key": "membership",
+   "zh": "会员订阅",
+   "en": "Memberships",
+   "tab": "membership"
+  },
+  {
+   "key": "ucard",
+   "zh": "U 卡",
+   "en": "U-card",
+   "tab": "ucard"
+  },
+  {
+   "key": "software",
+   "zh": "软件服务",
+   "en": "Software",
+   "tab": "software"
+  },
+  {
+   "key": "travel",
+   "zh": "旅行出行",
+   "en": "Travel",
+   "tab": "travel"
+  },
+  {
+   "key": "food",
+   "zh": "美食外卖",
+   "en": "Food & Delivery",
+   "tab": "food"
+  },
+  {
+   "key": "education",
+   "zh": "教育课程",
+   "en": "Education",
+   "tab": "education"
+  },
+  {
+   "key": "entertainment",
+   "zh": "影音娱乐",
+   "en": "Entertainment",
+   "tab": "entertainment"
+  },
+  {
+   "key": "telecom",
+   "zh": "通信/eSIM",
+   "en": "Telecom",
+   "tab": "telecom"
+  },
+  {
+   "key": "lifestyle",
+   "zh": "生活服务",
+   "en": "Lifestyle",
+   "tab": "lifestyle"
+  },
+  {
+   "key": "other",
+   "zh": "其他",
+   "en": "Other",
+   "tab": "other"
+  }
+ ],
  "deals": [
   {
    "category": "crypto",
