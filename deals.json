@@ -1,8 +1,8 @@
 {
- "generatedAt": "2026-11-11T03:55:58.411747Z",
+ "generatedAt": "2026-11-11T03:58:20.984464Z",
  "source": "GLOBAL DEAL HUNTER 情报中心",
  "version": 1,
- "count": 149,
+ "count": 146,
  "deals": [
   {
    "category": "crypto",
@@ -2409,59 +2409,6 @@
    "valueTextZh": "",
    "valueUsd": null,
    "vendor": "GitHub",
-   "verified": true
-  },
-  {
-   "category": "crypto",
-   "conditions": "需在指定锁仓时间内锁仓 BTC；来源未注明其他资格、KYC 或分配细则，具体以活动页为准。",
-   "conditionsEn": "You must lock BTC during the specified lock-up period. Other eligibility, KYC or distribution details were not specified in the source. Please refer to the event page.",
-   "conditionsZh": "需在指定锁仓时间内锁仓 BTC；来源未注明其他资格、KYC 或分配细则，具体以活动页为准。",
-   "endsAt": "2026-11-05",
-   "firstSeenAt": "2026-11-10T17:34:34.751Z",
-   "freeType": "需要充值",
-   "lastVerifiedAt": "2026-11-11T01:35:11.863Z",
-   "market": "global",
-   "offer": "在 2026 年 11 月 1 日 17:00 至 11 月 5 日 17:00（UTC+8）期间锁仓 BTC，参与 PoolX 活动，瓜分 55,000 BGB 空投。",
-   "offerEn": "Lock BTC in PoolX from 17:00 on 1 November 2026 to 17:00 on 5 November 2026 (UTC+8) to share a 55,000 BGB airdrop.",
-   "offerZh": "在 2026 年 11 月 1 日 17:00 至 11 月 5 日 17:00（UTC+8）期间锁仓 BTC，参与 PoolX 活动，瓜分 55,000 BGB 空投。",
-   "officialUrl": "https://www.bitget.com/zh-CN/support/articles/12560603899277",
-   "regions": "来源未注明",
-   "regionsEn": "Not specified in source",
-   "regionsZh": "来源未注明",
-   "riskEn": "Locked assets may not be freely redeemable during the lock-up period. BGB prices are volatile, and airdrop distribution is subject to the rules on the event page.",
-   "riskNote": "锁仓期间资产可能无法自由赎回；BGB 价格存在波动风险，空投分配以活动页规则为准。",
-   "riskZh": "锁仓期间资产可能无法自由赎回；BGB 价格存在波动风险，空投分配以活动页规则为准。",
-   "saved": false,
-   "sourceName": "Bitget",
-   "sourceUrl": "https://www.bitget.com/zh-CN/support/articles/12560603899277",
-   "startsAt": "2026-11-01",
-   "status": "expired",
-   "steps": [
-    "打开官方链接，查看 PoolX 活动详情",
-    "注册/登录 Bitget 账户",
-    "在活动期间锁仓 BTC",
-    "按页面指引等待空投分配"
-   ],
-   "stepsEn": [
-    "Open the official link to view the PoolX event details",
-    "Register for or log in to your Bitget account",
-    "Lock BTC during the event period",
-    "Wait for the airdrop distribution as instructed on the page"
-   ],
-   "stepsZh": [
-    "打开官方链接，查看 PoolX 活动详情",
-    "注册/登录 Bitget 账户",
-    "在活动期间锁仓 BTC",
-    "按页面指引等待空投分配"
-   ],
-   "title": "Bitcoin（BTC）上线 Bitget PoolX：锁仓 BTC，得 55,000 BGB 空投",
-   "titleEn": "Bitcoin (BTC) Lists on Bitget PoolX: Lock BTC to Earn a 55,000 BGB Airdrop",
-   "titleZh": "Bitcoin（BTC）上线 Bitget PoolX：锁仓 BTC，得 55,000 BGB 空投",
-   "valueText": "55,000 BGB 空投",
-   "valueTextEn": "55,000 BGB airdrop",
-   "valueTextZh": "55,000 BGB 空投",
-   "valueUsd": null,
-   "vendor": "Bitget",
    "verified": true
   },
   {
@@ -5810,59 +5757,6 @@
    "verified": true
   },
   {
-   "category": "bank",
-   "conditions": "Mox 新用户；开设 Mox 账户时使用邀请码 SUMMER1200；具体领取条件来源未完整注明",
-   "conditionsEn": "For new Mox users; use invitation code SUMMER1200 when opening a Mox account; the source does not fully specify the exact claiming conditions.",
-   "conditionsZh": "Mox 新用户；开设 Mox 账户时使用邀请码 SUMMER1200；具体领取条件来源未完整注明",
-   "endsAt": "2025-07-03",
-   "firstSeenAt": "2026-11-10T07:31:32.794Z",
-   "freeType": "需要邀请",
-   "lastVerifiedAt": "2026-11-10T07:31:32.511Z",
-   "market": "asia",
-   "offer": "Mox 新用户开户时使用邀请码 SUMMER1200，可得 HKD 1,200 奖励",
-   "offerEn": "New Mox users can receive HKD 1,200 in rewards by using invitation code SUMMER1200 when opening an account.",
-   "offerZh": "Mox 新用户开户时使用邀请码 SUMMER1200，可得 HKD 1,200 奖励",
-   "officialUrl": "https://Mox.com/promotions/moxcash500/",
-   "regions": "中国香港",
-   "regionsEn": "Hong Kong, China",
-   "regionsZh": "中国香港",
-   "riskEn": "The page states the offer runs until 2025-07-03; check whether it is still valid before participating.",
-   "riskNote": "页面注明优惠至 2025-07-03，参与前需核对是否仍有效",
-   "riskZh": "页面注明优惠至 2025-07-03，参与前需核对是否仍有效",
-   "saved": false,
-   "sourceName": "Mox",
-   "sourceUrl": "https://Mox.com/promotions/moxcash500/",
-   "startsAt": null,
-   "status": "expired",
-   "steps": [
-    "打开官方链接",
-    "使用邀请码 SUMMER1200 开设 Mox 账户",
-    "按页面指引完成开户步骤",
-    "按页面指引领取 HKD 1,200 奖励"
-   ],
-   "stepsEn": [
-    "Open the official link",
-    "Open a Mox account using invitation code SUMMER1200",
-    "Complete the account-opening steps following the on-page instructions",
-    "Claim the HKD 1,200 reward following the on-page instructions"
-   ],
-   "stepsZh": [
-    "打开官方链接",
-    "使用邀请码 SUMMER1200 开设 Mox 账户",
-    "按页面指引完成开户步骤",
-    "按页面指引领取 HKD 1,200 奖励"
-   ],
-   "title": "Earning HKD1,200 rewards is simply easy! | Mox",
-   "titleEn": "Earning HKD1,200 rewards is simply easy! | Mox",
-   "titleZh": "赚取 HKD 1,200 奖励就是这么简单！| Mox",
-   "valueText": "HKD 1,200",
-   "valueTextEn": "HKD 1,200",
-   "valueTextZh": "HKD 1,200",
-   "valueUsd": null,
-   "vendor": "Mox",
-   "verified": true
-  },
-  {
    "category": "software",
    "conditions": "需购买指定华硕笔记本；优惠因地区、机型、SKU、零售商与购买时间而异。",
    "conditionsEn": "You need to purchase an eligible ASUS laptop; offers vary by region, model, SKU, retailer and purchase period.",
@@ -6069,56 +5963,6 @@
    "valueTextZh": "100 个免费韩国航班",
    "valueUsd": null,
    "vendor": "YouTrip",
-   "verified": true
-  },
-  {
-   "category": "other",
-   "conditions": "需亲临新加坡 Suntec City 现场参与；好礼包仅限前150名，先到先得",
-   "conditionsEn": "Must attend in person at Suntec City, Singapore; goodie bags are limited to the first 150 attendees, first come, first served",
-   "conditionsZh": "需亲临新加坡 Suntec City 现场参与；好礼包仅限前150名，先到先得",
-   "endsAt": "2026-10-18",
-   "firstSeenAt": "2026-11-10T01:34:32.618Z",
-   "freeType": "混合优惠",
-   "lastVerifiedAt": "2026-11-10T19:30:30.229Z",
-   "market": "asia",
-   "offer": "Klook Travel Fest 2026 在新加坡 Suntec City 举行：免费入场，迪士尼与环球影城（USJ）1-for-1 闪购，前150名可获好礼包。",
-   "offerEn": "Klook Travel Fest 2026 will be held at Suntec City, Singapore: free entry, 1-for-1 flash deals for Disneyland and Universal Studios Japan (USJ), and goodie bags for the first 150 attendees.",
-   "offerZh": "Klook Travel Fest 2026 在新加坡 Suntec City 举行：免费入场，迪士尼与环球影城（USJ）1-for-1 闪购，前150名可获好礼包。",
-   "officialUrl": "https://www.klook.com/en-SG/blog/klook-travel-fest-singapore-2026/",
-   "regions": "新加坡",
-   "regionsEn": "Singapore",
-   "regionsZh": "新加坡",
-   "riskEn": "On-site places and goodie bags are limited, first come, first served; flash deals may be subject to quantity/time limits",
-   "riskNote": "现场名额与好礼包有限，先到先得；闪购优惠可能有数量/时间限制",
-   "riskZh": "现场名额与好礼包有限，先到先得；闪购优惠可能有数量/时间限制",
-   "saved": false,
-   "sourceName": "misslobang.com",
-   "sourceUrl": "https://www.misslobang.com/article/klook-travel-fest-2026-suntec-city-flash-deals-oct-2026",
-   "startsAt": "2026-10-17",
-   "status": "expired",
-   "steps": [
-    "打开官方链接查看活动详情",
-    "于2026年10月17-18日前往新加坡 Suntec City 现场",
-    "免费入场并按现场指引参与1-for-1闪购"
-   ],
-   "stepsEn": [
-    "Open the official link to view event details",
-    "Go to Suntec City, Singapore in person on 17-18 Oct 2026",
-    "Enter for free and follow the on-site instructions to join the 1-for-1 flash deals"
-   ],
-   "stepsZh": [
-    "打开官方链接查看活动详情",
-    "于2026年10月17-18日前往新加坡 Suntec City 现场",
-    "免费入场并按现场指引参与1-for-1闪购"
-   ],
-   "title": "Klook Travel Fest 2026 at Suntec City, 17-18 Oct: Free Entry, 1-for-1 Disneyland and USJ Flash Deals, Goodie Bags for the First 150",
-   "titleEn": "Klook Travel Fest 2026 at Suntec City, 17-18 Oct: Free Entry, 1-for-1 Disneyland and USJ Flash Deals, Goodie Bags for the First 150",
-   "titleZh": "Klook Travel Fest 2026 在 Suntec City，10月17-18日：免费入场，Disneyland 与 USJ 1-for-1 闪购，前150名赠好礼包",
-   "valueText": "1-for-1 迪士尼/环球影城门票",
-   "valueTextEn": "1-for-1 Disneyland",
-   "valueTextZh": "1-for-1 迪士尼/环球影城门票",
-   "valueUsd": null,
-   "vendor": "Klook",
    "verified": true
   },
   {
