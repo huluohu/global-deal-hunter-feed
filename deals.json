@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-12T01:49:13Z",
+ "generatedAt": "2026-11-12T01:54:34Z",
  "source": "GLOBAL DEAL HUNTER 情报中心",
  "version": 1,
  "count": 404,
@@ -10322,7 +10322,7 @@
    "valueTextZh": "30,000 印尼盾",
    "valueUsd": null,
    "vendor": "Bank Syariah Indonesia (BSI)",
-   "verified": false,
+   "verified": true,
    "linkType": "official",
    "accessUrl": "https://www.bankbsi.co.id/index.php/promo/lakukan-transaksi-pertamamu-di-byond-by-bsi-dan-dapatkan-saldo-tabungan-senilai-rp30-ribu"
   },
