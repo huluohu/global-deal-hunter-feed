@@ -30,20 +30,90 @@ https://cdn.jsdelivr.net/gh/huluohu/global-deal-hunter-feed@main/deals.json
 
 ### 格式
 
+快照是单个 JSON 文件。顶层结构：
+
 ```json
 {
-  "generatedAt": "2026-11-12T01:54:47Z",
+  "generatedAt": "2026-11-12T02:49:49Z",
   "source": "GLOBAL DEAL HUNTER 情报中心",
   "version": 1,
-  "count": 379,
-  "categories": [ { "key": "...", "zh": "...", "en": "...", "tab": "..." } ],
-  "deals": [ { "..." : "每条优惠的完整字段" } ]
+  "count": 403,
+  "categories": [
+    { "key": "ai", "zh": "AI 工具", "en": "AI tools", "tab": "ai" }
+  ],
+  "deals": []
 }
 ```
 
-快照顶层带 `categories` 分类定义表（key/中英名/页签），下游看板据此动态渲染分类，不写死清单。
+- `categories` 是分类定义表，每项含 `key`、`zh`、`en`、`tab` 四个字段；下游看板据此动态渲染分类页签，不写死清单。
+- `deals` 是条目数组。单条结构如下（真实条目节选，字段名与取值均为实际格式）：
 
-每条优惠包含 14 个内容字段：名称、类别、厂商、优惠内容、实际价值、参与条件、适用地区、开始及截止时间、参与步骤、官方链接、信息来源、最后验证时间、风险提示，均有中英双语版本。另带机器字段：`market`（asia / global / western / other）、`freeType`（真正免费 / 免费试用 / 需要充值 / 需要交易量 / 需要邀请 / 混合优惠 / 折扣优惠 / 返现优惠）、`valueUsd`、`verified`（是否已在官方页核实，未核实的即「待核实」）、`status`（active / expired），以及打开链接字段 `accessUrl` 与 `linkType`（见下「链接口径」）。
+```json
+{
+  "title": "N26, your everyday bank",
+  "titleZh": "N26，您的日常银行",
+  "titleEn": "N26, your everyday bank",
+  "category": "bank",
+  "vendor": "N26",
+  "offer": "N26 gives you €20 welcome bonus.",
+  "offerZh": "N26 提供 20 欧元迎新奖励。",
+  "offerEn": "N26 gives you €20 welcome bonus.",
+  "conditions": "来源未注明",
+  "conditionsZh": "来源未注明",
+  "conditionsEn": "Not specified in the source",
+  "steps": ["Open the official link", "Register / log in to N26", "Follow the on-page instructions to claim the €20 welcome bonus"],
+  "stepsZh": ["打开官方链接", "注册/登录 N26", "按页面指引领取 20 欧元迎新奖励"],
+  "stepsEn": ["Open the official link", "Register / log in to N26", "Follow the on-page instructions to claim the €20 welcome bonus"],
+  "regions": "西班牙",
+  "regionsZh": "西班牙",
+  "regionsEn": "Spain",
+  "valueText": "€20",
+  "valueTextZh": "20 欧元",
+  "valueTextEn": "€20",
+  "valueUsd": null,
+  "freeType": "真正免费",
+  "officialUrl": "https://n26.com/en-es/affiliate-casilistaycasiguapa",
+  "sourceUrl": "https://n26.com/en-es/affiliate-casilistaycasiguapa",
+  "sourceName": "N26",
+  "accessUrl": "https://n26.com/en-es/affiliate-casilistaycasiguapa",
+  "linkType": "official",
+  "verified": true,
+  "status": "active",
+  "market": "western",
+  "startsAt": null,
+  "endsAt": null,
+  "firstSeenAt": "2026-11-10T13:32:58.575Z",
+  "lastVerifiedAt": "2026-11-11T19:32:40.215Z",
+  "riskNote": "",
+  "riskZh": "奖金资格与发放条件以页面条款为准；开户需要完成身份验证。",
+  "riskEn": "Bonus eligibility and payout conditions are subject to the terms on the page; identity verification is required to open the account."
+}
+```
+
+字段说明：
+
+| 字段 | 含义 |
+| --- | --- |
+| `title` / `titleZh` / `titleEn` | 名称：原文 + 中英双语 |
+| `category` | 类别 key，对应顶层 `categories` |
+| `vendor` | 厂商 / 平台名 |
+| `offer` / `offerZh` / `offerEn` | 优惠内容 |
+| `conditions` / `conditionsZh` / `conditionsEn` | 参与条件 |
+| `steps` / `stepsZh` / `stepsEn` | 参与步骤（字符串数组） |
+| `regions` / `regionsZh` / `regionsEn` | 适用地区 |
+| `valueText` / `valueTextZh` / `valueTextEn` | 价值的原文表述，如「€20」「省 $35/月」 |
+| `valueUsd` | 折算美元估值（数字或 null；奖池类为总奖池金额） |
+| `freeType` | 真正免费 / 免费试用 / 需要充值 / 需要交易量 / 需要邀请 / 混合优惠 / 折扣优惠 / 返现优惠 |
+| `officialUrl` | 官方活动页；为空表示暂无官方页，按来源页条目处理（见「链接口径」） |
+| `sourceUrl` / `sourceName` | 信息来源页与来源名 |
+| `accessUrl` | 实际打开链接：有官方页时为官方页，否则为来源页 |
+| `linkType` | `official`（官方页）或 `source`（来源页） |
+| `verified` | 是否已在官方页核实；`false` 即「待核实」 |
+| `status` | `active`（进行中）或 `expired`（已过期归档） |
+| `market` | `asia` / `global` / `western` / `other` |
+| `startsAt` / `endsAt` | 开始 / 截止时间（ISO 8601，未知为 null） |
+| `firstSeenAt` / `lastVerifiedAt` | 首次收录 / 最后核实时间 |
+| `riskNote` / `riskZh` / `riskEn` | 风险提示（原文 + 中英双语） |
 
 ### 数据口径
 
