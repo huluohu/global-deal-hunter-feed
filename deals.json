@@ -1,8 +1,8 @@
 {
- "generatedAt": "2026-11-12T05:54:35Z",
+ "generatedAt": "2026-11-12T06:21:57Z",
  "source": "GLOBAL DEAL HUNTER 情报中心",
  "version": 1,
- "count": 456,
+ "count": 453,
  "categories": [
   {
    "key": "ai",
@@ -5371,61 +5371,6 @@
    ]
   },
   {
-   "category": "membership",
-   "conditions": "来源未注明具体套餐与适用地区；付款前需核对联名权益、使用设备和续费规则",
-   "conditionsEn": "Specific plans and applicable regions not specified in the source; check co-branded benefits, eligible devices and renewal terms before paying.",
-   "conditionsZh": "来源未注明具体套餐与适用地区；付款前需核对联名权益、使用设备和续费规则",
-   "endsAt": null,
-   "firstSeenAt": "2026-11-12T05:31:44.553Z",
-   "freeType": "折扣优惠",
-   "lastVerifiedAt": "2026-11-12T05:31:43.692Z",
-   "market": "asia",
-   "offer": "双11期间百度网盘会员半价",
-   "offerEn": "Baidu Netdisk membership at half price during Double 11",
-   "offerZh": "双11期间百度网盘会员半价",
-   "officialUrl": "",
-   "regions": "来源未注明",
-   "regionsEn": "Not specified in source",
-   "regionsZh": "来源未注明",
-   "riskEn": "Check renewal and auto-renewal terms; the actual price is as shown at checkout.",
-   "riskNote": "注意核对续费规则与自动续费；实际价格以下单页为准",
-   "riskZh": "注意核对续费规则与自动续费；实际价格以下单页为准",
-   "saved": false,
-   "sourceName": "maxiaobang.com",
-   "sourceUrl": "https://www.maxiaobang.com/19075.html",
-   "startsAt": null,
-   "status": "active",
-   "steps": [
-    "打开来源链接",
-    "找到百度网盘会员入口",
-    "按页面指引完成充值"
-   ],
-   "stepsEn": [
-    "Open the source link",
-    "Find the Baidu Netdisk membership entry",
-    "Follow the page instructions to complete the top-up"
-   ],
-   "stepsZh": [
-    "打开来源链接",
-    "找到百度网盘会员入口",
-    "按页面指引完成充值"
-   ],
-   "title": "双11会员充值低价清单",
-   "titleEn": "Double 11 Membership Top-Up Low-Price List",
-   "titleZh": "双11会员充值低价清单",
-   "valueText": "半价",
-   "valueTextEn": "50% OFF",
-   "valueTextZh": "半价",
-   "valueUsd": null,
-   "vendor": "百度网盘",
-   "verified": false,
-   "linkType": "source",
-   "accessUrl": "https://www.maxiaobang.com/19075.html",
-   "regionCodes": [
-    "unspecified"
-   ]
-  },
-  {
    "category": "lifestyle",
    "conditions": "Sign up through the referral link on this page. Other eligibility details not specified in source.",
    "conditionsEn": "Sign up through the referral link on this page. Other eligibility details not specified in source.",
@@ -9533,116 +9478,6 @@
    "accessUrl": "https://utravel.com.hk/news/detail/20110421/%E9%A6%99%E6%B8%AF%E8%88%AA%E7%A9%BA%E6%8E%A8%E9%99%90%E6%99%82%E5%84%AA%E6%83%A0-%E4%BA%BA%E5%90%8C%E8%A1%8C%E6%A9%9F%E7%A5%A8-%E6%8A%98-%E5%86%8D%E9%80%81%E5%85%8D%E8%B2%BBsim%E5%8D%A1",
    "regionCodes": [
     "hk"
-   ]
-  },
-  {
-   "category": "membership",
-   "conditions": "来源未注明单项资格；各单品活动规则、价格与库存以京东、天猫等官方/旗舰店活动页为准",
-   "conditionsEn": "No per-item eligibility is stated in the source; each item's rules, price and stock are subject to the official / flagship store deal pages on JD, Tmall and other platforms",
-   "conditionsZh": "来源未注明单项资格；各单品活动规则、价格与库存以京东、天猫等官方/旗舰店活动页为准",
-   "endsAt": null,
-   "firstSeenAt": "2026-11-11T12:02:15.011Z",
-   "freeType": "折扣优惠",
-   "lastVerifiedAt": "2026-11-12T03:31:57.438Z",
-   "market": "asia",
-   "offer": "双11大促精选合集：汇总全网视频 VIP、网盘会员与软件的打折活动，涉及京东、天猫等平台的商家促销。",
-   "offerEn": "A curated Double 11 sale roundup collecting discounts on video VIP memberships, cloud-drive memberships and software across platforms including JD and Tmall.",
-   "offerZh": "双11大促精选合集：汇总全网视频 VIP、网盘会员与软件的打折活动，涉及京东、天猫等平台的商家促销。",
-   "officialUrl": "",
-   "regions": "中国大陆",
-   "regionsEn": "Chinese mainland",
-   "regionsZh": "中国大陆",
-   "riskEn": "Roundup prices and availability change quickly during Double 11; memberships may auto-renew, so verify the final price and renewal terms at checkout.",
-   "riskNote": "合集内价格与库存在双11期间变化较快；会员类商品可能自动续费，结算时请核对最终价格与续费条款。",
-   "riskZh": "合集内价格与库存在双11期间变化较快；会员类商品可能自动续费，结算时请核对最终价格与续费条款。",
-   "saved": false,
-   "sourceName": "iplaysoft.com",
-   "sourceUrl": "https://www.iplaysoft.com/1111.html",
-   "startsAt": null,
-   "status": "active",
-   "steps": [
-    "打开活动链接",
-    "在合集中挑选视频 VIP、网盘会员或软件促销单品",
-    "跳转到对应商家活动页按指引下单并确认结算价"
-   ],
-   "stepsEn": [
-    "Open the deal link",
-    "Pick a video VIP, cloud-drive membership or software deal from the roundup",
-    "Go to the corresponding merchant deal page, follow its instructions and confirm the checkout price"
-   ],
-   "stepsZh": [
-    "打开活动链接",
-    "在合集中挑选视频 VIP、网盘会员或软件促销单品",
-    "跳转到对应商家活动页按指引下单并确认结算价"
-   ],
-   "title": "双 11 打折好价整理！全网视频 VIP / 网盘会员 / 软件打折都在这了…",
-   "titleEn": "Double 11 Discount Roundup: Video VIP, Cloud-Drive Memberships & Software Deals",
-   "titleZh": "双 11 打折好价整理！全网视频 VIP / 网盘会员 / 软件打折都在这了…",
-   "valueText": "",
-   "valueTextEn": "",
-   "valueTextZh": "",
-   "valueUsd": null,
-   "vendor": "Multiple merchants on JD, Tmall and others",
-   "verified": false,
-   "linkType": "source",
-   "accessUrl": "https://www.iplaysoft.com/1111.html",
-   "regionCodes": [
-    "cn"
-   ]
-  },
-  {
-   "category": "membership",
-   "conditions": "清单共 67 款会员年卡/权益类好价，购买渠道为京东自营或品牌官方旗舰店；双11期间价格持续变动，清单价格为整理时所见价格，以结算页为准",
-   "conditionsEn": "The list covers 67 membership annual-card / benefit deals sold via JD self-operated stores or brand official flagship stores; prices keep changing during Double 11 and listed prices were those seen when compiled, subject to checkout",
-   "conditionsZh": "清单共 67 款会员年卡/权益类好价，购买渠道为京东自营或品牌官方旗舰店；双11期间价格持续变动，清单价格为整理时所见价格，以结算页为准",
-   "endsAt": null,
-   "firstSeenAt": "2026-11-11T12:02:14.988Z",
-   "freeType": "折扣优惠",
-   "lastVerifiedAt": "2026-11-12T03:31:57.438Z",
-   "market": "asia",
-   "offer": "双11期间整理 67 款会员年卡 / 权益类好价，均为京东自营或品牌官方旗舰店渠道，涵盖视频、生活等会员年卡。",
-   "offerEn": "A Double 11 list of 67 membership annual-card and benefit deals, all via JD self-operated stores or brand official flagship stores, covering video, lifestyle and other annual memberships.",
-   "offerZh": "双11期间整理 67 款会员年卡 / 权益类好价，均为京东自营或品牌官方旗舰店渠道，涵盖视频、生活等会员年卡。",
-   "officialUrl": "",
-   "regions": "中国大陆",
-   "regionsEn": "Chinese mainland",
-   "regionsZh": "中国大陆",
-   "riskEn": "Double 11 prices fluctuate and stock may be limited; annual cards may auto-renew, so check renewal and activation terms before buying.",
-   "riskNote": "双11价格波动且库存可能有限；年卡可能涉及自动续费，购买前请确认续费与激活条款。",
-   "riskZh": "双11价格波动且库存可能有限；年卡可能涉及自动续费，购买前请确认续费与激活条款。",
-   "saved": false,
-   "sourceName": "apple-lab.cn",
-   "sourceUrl": "https://www.apple-lab.cn/%e5%8f%8c11%e8%bf%9b%e8%a1%8c%e4%b8%ad%ef%bc%9a67%e6%ac%be%e4%bc%9a%e5%91%98%e5%b9%b4%e5%8d%a1%e5%a5%bd%e4%bb%b7%e6%b8%85%e5%8d%95/",
-   "startsAt": null,
-   "status": "active",
-   "steps": [
-    "打开活动链接",
-    "在 67 款会员年卡清单中挑选需要的会员",
-    "通过清单中的京东自营或品牌官方旗舰店链接下单并确认结算价"
-   ],
-   "stepsEn": [
-    "Open the deal link",
-    "Pick the membership you need from the list of 67 annual cards",
-    "Order via the JD self-operated or brand official flagship store link in the list and confirm the checkout price"
-   ],
-   "stepsZh": [
-    "打开活动链接",
-    "在 67 款会员年卡清单中挑选需要的会员",
-    "通过清单中的京东自营或品牌官方旗舰店链接下单并确认结算价"
-   ],
-   "title": "双11进行中：67款会员年卡好价清单",
-   "titleEn": "Double 11 in Progress: 67 Membership Annual Card Deals",
-   "titleZh": "双11进行中：67款会员年卡好价清单",
-   "valueText": "",
-   "valueTextEn": "",
-   "valueTextZh": "",
-   "valueUsd": null,
-   "vendor": "JD.com and brand official flagship stores",
-   "verified": false,
-   "linkType": "source",
-   "accessUrl": "https://www.apple-lab.cn/%e5%8f%8c11%e8%bf%9b%e8%a1%8c%e4%b8%ad%ef%bc%9a67%e6%ac%be%e4%bc%9a%e5%91%98%e5%b9%b4%e5%8d%a1%e5%a5%bd%e4%bb%b7%e6%b8%85%e5%8d%95/",
-   "regionCodes": [
-    "cn"
    ]
   },
   {
