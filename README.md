@@ -34,10 +34,10 @@ https://cdn.jsdelivr.net/gh/huluohu/global-deal-hunter-feed@main/deals.json
 
 ```json
 {
-  "generatedAt": "2026-11-12T02:49:49Z",
+  "generatedAt": "2026-11-12T03:54:49Z",
   "source": "GLOBAL DEAL HUNTER 情报中心",
   "version": 1,
-  "count": 403,
+  "count": 440,
   "categories": [
     { "key": "ai", "zh": "AI 工具", "en": "AI tools", "tab": "ai" }
   ],
@@ -117,7 +117,7 @@ https://cdn.jsdelivr.net/gh/huluohu/global-deal-hunter-feed@main/deals.json
 
 ### 数据口径
 
-- 覆盖类目（17 类）：AI 工具、Crypto、海外银行、VPS 及云服务、云服务、电商购物、会员订阅、中国平台、U 卡、软件、旅行出行、美食外卖、教育课程、影音娱乐、通信、生活服务、其他。其中电商、旅行、外卖、教育、娱乐、通信、生活 7 类为常驻核心类目，全球英文＋亚洲英文＋亚洲中文三路检索；亚洲来源单独加强采集。
+- 覆盖类目（17 类）：AI 工具、Crypto、海外银行、VPS 及云服务、VPS/云、电商购物、会员订阅、中国平台、U 卡、软件服务、旅行出行、美食外卖、教育课程、影音娱乐、通信/eSIM、生活服务、其他。其中电商、旅行、外卖、教育、娱乐、通信、生活 7 类为常驻核心类目，全球英文＋亚洲英文＋亚洲中文三路检索；亚洲来源单独加强采集。
 - 会员订阅专盯 11 个品牌官方会员页（爱奇艺、腾讯视频、优酷、QQ 音乐、网易云音乐、Apple、YouTube、Google One、Spotify、Microsoft、Adobe）：每轮直接抓官方页，只收页面原文写明的试用、首月价、年付折扣、学生价等常驻优惠。
 - 中国平台专盯京东、阿里系（淘宝、天猫、闲鱼、支付宝）与拼多多：每轮常驻采集，分五层挖掘——平台活动、商家活动（旗舰店品牌日/店铺券）、商品好价（具体单品带到手价）、捡漏（清仓/神价/叠券玩法）、0day（标错价/券 bug，一律待核实并注明可能砍单）；闲鱼只收平台官方活动，个人卖家的二手挂单不算优惠、不收录。
 - 链接口径：`officialUrl` 只放活动主办方官网的真实活动页。追溯不到官方页的，不冒充、不剔除，降级为来源页条目：`officialUrl` 为空、`linkType` 为 `source`、`accessUrl` 指向来源资讯页、`verified` 为 false。有官方链接时 `linkType` 为 `official`、`accessUrl` 即官方页。发布前另有程序化链接审计逐条复核，失效（404/410）、停放域名、新闻/聚合页冒充官方链接的会被剔除或改指。
