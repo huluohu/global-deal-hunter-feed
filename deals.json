@@ -1,8 +1,8 @@
 {
- "generatedAt": "2026-11-12T01:54:34Z",
+ "generatedAt": "2026-11-12T02:49:49Z",
  "source": "GLOBAL DEAL HUNTER 情报中心",
  "version": 1,
- "count": 404,
+ "count": 403,
  "categories": [
   {
    "key": "ai",
@@ -48,7 +48,7 @@
   },
   {
    "key": "cnplatform",
-   "zh": "国内平台",
+   "zh": "中国平台",
    "en": "China Platforms",
    "tab": "cnplatform"
   },
@@ -10322,7 +10322,7 @@
    "valueTextZh": "30,000 印尼盾",
    "valueUsd": null,
    "vendor": "Bank Syariah Indonesia (BSI)",
-   "verified": true,
+   "verified": false,
    "linkType": "official",
    "accessUrl": "https://www.bankbsi.co.id/index.php/promo/lakukan-transaksi-pertamamu-di-byond-by-bsi-dan-dapatkan-saldo-tabungan-senilai-rp30-ribu"
   },
@@ -11230,58 +11230,6 @@
    "verified": true,
    "linkType": "official",
    "accessUrl": "https://my.trip.com/sale/w/3b1txl1yyxqonhbn/mydouble11mega-flight.html?locale=en-MY&transparentBar=1&wkp=1&Allianceid=1027674&SID=2904979&utm_campaign=1805&trip_sub1=01a1be91a6a6796a8ed390c01a96f501&trip_sub2=103949"
-  },
-  {
-   "category": "travel",
-   "conditions": "僅限指定出發日；部分行程價格需洽客服，其他條件來源未注明。",
-   "conditionsEn": "Selected departure dates only; prices for some tours require contacting customer service, and other terms are not specified in the source.",
-   "conditionsZh": "僅限指定出發日；部分行程價格需洽客服，其他條件來源未注明。",
-   "endsAt": null,
-   "firstSeenAt": "2026-11-10T17:34:33.985Z",
-   "freeType": "折扣优惠",
-   "lastVerifiedAt": "2026-11-11T13:32:43.629Z",
-   "market": "asia",
-   "offer": "東南旅遊清倉特惠旅行團推出東南亞限量優惠：星宇航空直飛清邁雙城 5 日遊，指定日第二人省 $2,000；另有指定日一口價優惠。",
-   "offerEn": "Southeast Travel's clearance tour sale offers limited Southeast Asia deals, including a 5-day Starlux Airlines direct-flight tour to Chiang Mai, with the second traveller saving $2,000 on selected dates, plus flat-price offers on selected dates.",
-   "offerZh": "東南旅遊清倉特惠旅行團推出東南亞限量優惠：星宇航空直飛清邁雙城 5 日遊，指定日第二人省 $2,000；另有指定日一口價優惠。",
-   "officialUrl": "https://settour.com.tw/act/mkt/giftwine/clearancesale.html?a=ADV0000001405&s=21869",
-   "regions": "東南亞（泰國清邁、曼谷、芭達雅等）",
-   "regionsEn": "Southeast Asia (Chiang Mai, Bangkok and Pattaya, Thailand, etc.)",
-   "regionsZh": "東南亞（泰國清邁、曼谷、芭達雅等）",
-   "riskEn": "Offers are limited to selected dates and availability; confirm the itinerary and change and cancellation rules before booking.",
-   "riskNote": "優惠僅限指定日期與名額，預訂前請確認行程內容與退改規定。",
-   "riskZh": "優惠僅限指定日期與名額，預訂前請確認行程內容與退改規定。",
-   "saved": false,
-   "sourceName": "東南旅遊",
-   "sourceUrl": "https://settour.com.tw/act/mkt/giftwine/clearancesale.html?a=ADV0000001405&s=21869",
-   "startsAt": null,
-   "status": "active",
-   "steps": [
-    "打開官方連結",
-    "進入清倉特惠旅行團頁面",
-    "選擇指定日的東南亞行程並按頁面指引預訂，或洽客服確認"
-   ],
-   "stepsEn": [
-    "Open the official link",
-    "Go to the clearance special tour sale page",
-    "Choose a Southeast Asia tour on a selected date and book following the instructions on the page, or contact customer service to confirm"
-   ],
-   "stepsZh": [
-    "打開官方連結",
-    "進入清倉特惠旅行團頁面",
-    "選擇指定日的東南亞行程並按頁面指引預訂，或洽客服確認"
-   ],
-   "title": "清倉特惠旅行團",
-   "titleEn": "Clearance Special Tour Sale",
-   "titleZh": "清倉特惠旅行團",
-   "valueText": "第二人省 $2,000",
-   "valueTextEn": "$2,000 off 2nd traveller",
-   "valueTextZh": "第二人省 $2,000",
-   "valueUsd": null,
-   "vendor": "東南旅遊",
-   "verified": true,
-   "linkType": "official",
-   "accessUrl": "https://settour.com.tw/act/mkt/giftwine/clearancesale.html?a=ADV0000001405&s=21869"
   },
   {
    "category": "travel",
