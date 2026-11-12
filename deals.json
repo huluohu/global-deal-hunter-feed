@@ -1,8 +1,8 @@
 {
- "generatedAt": "2026-11-12T09:54:36Z",
+ "generatedAt": "2026-11-12T10:31:15Z",
  "source": "GLOBAL DEAL HUNTER 情报中心",
  "version": 1,
- "count": 454,
+ "count": 433,
  "categories": [
   {
    "key": "ai",
@@ -2094,64 +2094,6 @@
    ]
   },
   {
-   "category": "cnplatform",
-   "conditions": "App 内领取/需登录；适用于家电、手机、数码等品类，可叠加平台满减、店铺券与国补，来源未注明其他门槛",
-   "conditionsEn": "App-only claim / sign-in required; applies to home appliances, phones, digital products and similar categories, stackable with platform discounts, store coupons and national subsidy; no other thresholds stated in the source",
-   "conditionsZh": "App 内领取/需登录；适用于家电、手机、数码等品类，可叠加平台满减、店铺券与国补，来源未注明其他门槛",
-   "endsAt": null,
-   "firstSeenAt": "2026-11-12T05:31:44.581Z",
-   "freeType": "混合优惠",
-   "lastVerifiedAt": "2026-11-12T09:35:30.701Z",
-   "market": "asia",
-   "offer": "2026京东双11大促，家电手机数码消费券与国补叠加，平台满减、店铺券、无门槛红包、PLUS权益多层叠加，单件最高省¥1500。",
-   "offerEn": "2026 JD Double 11 sale: stack home appliance, phone and digital coupons with the national subsidy, plus platform discounts, store coupons, no-threshold red packets and PLUS benefits; save up to ¥1,500 on a single item.",
-   "offerZh": "2026京东双11大促，家电手机数码消费券与国补叠加，平台满减、店铺券、无门槛红包、PLUS权益多层叠加，单件最高省¥1500。",
-   "officialUrl": "",
-   "regions": "中国大陆",
-   "regionsEn": "Mainland China",
-   "regionsZh": "中国大陆",
-   "riskEn": "",
-   "riskNote": "",
-   "riskZh": "",
-   "saved": false,
-   "sourceName": "laitimes.com",
-   "sourceUrl": "https://www.laitimes.com/article/7bgli_7rstu.html",
-   "startsAt": null,
-   "status": "active",
-   "steps": [
-    "打开京东App",
-    "搜索【红包500】进入双11红包会场",
-    "领取无门槛红包与优惠券",
-    "按需申领家电、手机、数码国补并叠加下单"
-   ],
-   "stepsEn": [
-    "Open the JD App",
-    "Search [红包500] to enter the Double 11 red packet event",
-    "Claim the no-threshold red packet and coupons",
-    "Apply for the home appliance, phone or digital national subsidy as needed and stack the discounts at checkout"
-   ],
-   "stepsZh": [
-    "打开京东App",
-    "搜索【红包500】进入双11红包会场",
-    "领取无门槛红包与优惠券",
-    "按需申领家电、手机、数码国补并叠加下单"
-   ],
-   "title": "2026 京东双11大促",
-   "titleEn": "2026 JD Double 11 Sale",
-   "titleZh": "2026 京东双11大促",
-   "valueText": "单件最高省 ¥1500",
-   "valueTextEn": "Save up to ¥1",
-   "valueTextZh": "单件最高省 ¥1500",
-   "valueUsd": 208.33,
-   "vendor": "京东",
-   "verified": false,
-   "linkType": "source",
-   "accessUrl": "https://www.laitimes.com/article/7bgli_7rstu.html",
-   "regionCodes": [
-    "cn"
-   ]
-  },
-  {
    "category": "cloud",
    "conditions": "For new users; specific eligibility and token terms are not specified in the source.",
    "conditionsEn": "For new users; specific eligibility and token terms are not specified in the source.",
@@ -3621,64 +3563,6 @@
    ]
   },
   {
-   "category": "telecom",
-   "conditions": "双十一限时优惠；通过推荐码 AAK8 购买指定活动套餐；携号转网才可获赠 $30 话费；具体适用套餐与条款以活动页面为准。",
-   "conditionsEn": "Double 11 limited-time offer; buy a designated promo plan with referral code AAK8; porting in is required for the $30 credit; see the promo page for eligible plans and terms.",
-   "conditionsZh": "双十一限时优惠；通过推荐码 AAK8 购买指定活动套餐；携号转网才可获赠 $30 话费；具体适用套餐与条款以活动页面为准。",
-   "endsAt": null,
-   "firstSeenAt": "2026-11-10T13:32:57.970Z",
-   "freeType": "混合优惠",
-   "lastVerifiedAt": "2026-11-12T09:35:30.701Z",
-   "market": "western",
-   "offer": "ENC Mobile 双十一限时优惠：5GB 套餐低至 $12.5/月，Unlimited 无限流量套餐低至 $20/月；通过推荐码 AAK8 购买指定活动套餐，携号转网再送 $30 话费。",
-   "offerEn": "ENC Mobile Double 11 limited-time offer: 5GB plan from $12.5/month and Unlimited plan from $20/month; buy a designated promo plan with referral code AAK8 and port in to get an extra $30 credit.",
-   "offerZh": "ENC Mobile 双十一限时优惠：5GB 套餐低至 $12.5/月，Unlimited 无限流量套餐低至 $20/月；通过推荐码 AAK8 购买指定活动套餐，携号转网再送 $30 话费。",
-   "officialUrl": "",
-   "regions": "美国",
-   "regionsEn": "United States",
-   "regionsZh": "美国",
-   "riskEn": "Port-in and plan terms apply; check network coverage, plan details and renewal terms before switching.",
-   "riskNote": "需满足携号转网等条件；办理前确认网络覆盖、套餐详情与续费条款。",
-   "riskZh": "需满足携号转网等条件；办理前确认网络覆盖、套餐详情与续费条款。",
-   "saved": false,
-   "sourceName": "uscreditcards101.com",
-   "sourceUrl": "https://www.uscreditcards101.com/zh/cn/article/enc-mobile-double-11-promo/",
-   "startsAt": null,
-   "status": "active",
-   "steps": [
-    "打开官方链接",
-    "选择 5GB 或 Unlimited 等指定活动套餐",
-    "使用推荐码 AAK8 下单",
-    "按页面指引完成携号转网，领取 $30 话费"
-   ],
-   "stepsEn": [
-    "Open the official link",
-    "Choose a designated promo plan such as 5GB or Unlimited",
-    "Place the order with referral code AAK8",
-    "Follow the page instructions to port in your number and claim the $30 credit"
-   ],
-   "stepsZh": [
-    "打开官方链接",
-    "选择 5GB 或 Unlimited 等指定活动套餐",
-    "使用推荐码 AAK8 下单",
-    "按页面指引完成携号转网，领取 $30 话费"
-   ],
-   "title": "ENC Mobile 双十一优惠：Unlimited 仅 $20/月，携号转网再送 $30 话费！",
-   "titleEn": "ENC Mobile Double 11 Promo: Unlimited Only $20/Month, Port In and Get $30 Credit",
-   "titleZh": "ENC Mobile 双十一优惠：Unlimited 仅 $20/月，携号转网再送 $30 话费！",
-   "valueText": "$30 credit",
-   "valueTextEn": "$30 credit",
-   "valueTextZh": "$30 话费",
-   "valueUsd": 30,
-   "vendor": "ENC Mobile",
-   "verified": false,
-   "linkType": "source",
-   "accessUrl": "https://www.uscreditcards101.com/zh/cn/article/enc-mobile-double-11-promo/",
-   "regionCodes": [
-    "us"
-   ]
-  },
-  {
    "category": "software",
    "conditions": "Limited to the first 100 customers; the offer ends after the 100th customer.",
    "conditionsEn": "Limited to the first 100 customers; the offer ends after the 100th customer.",
@@ -3734,64 +3618,6 @@
    "accessUrl": "https://devknife.app/pricing",
    "regionCodes": [
     "unspecified"
-   ]
-  },
-  {
-   "category": "cnplatform",
-   "conditions": "无门槛、无需凑单，限单件百亿补贴活动商品；每天上午10点、晚8点两波补货，当天24点作废；App 内领取/需登录；来源未注明会员限定。",
-   "conditionsEn": "No threshold and no minimum spend; for a single Hundred-Billion Subsidy item only. Restocked at 10:00 a.m. and 8:00 p.m. daily and expires at midnight the same day. App-only claim / sign-in required. No membership restriction stated in the source.",
-   "conditionsZh": "无门槛、无需凑单，限单件百亿补贴活动商品；每天上午10点、晚8点两波补货，当天24点作废；App 内领取/需登录；来源未注明会员限定。",
-   "endsAt": null,
-   "firstSeenAt": "2026-11-12T03:09:58.782Z",
-   "freeType": "折扣优惠",
-   "lastVerifiedAt": "2026-11-12T09:35:30.701Z",
-   "market": "asia",
-   "offer": "百亿补贴频道无门槛9折金刚券，无需凑单，单件活动商品在补贴基础上再享9折；双11加放¥200数码金刚券，可叠国补、88券与消费券。",
-   "offerEn": "A no-threshold 10% off Diamond Coupon in the Hundred-Billion Subsidy channel: no minimum spend, a single eligible item gets an extra 10% off on top of the subsidy. During Double 11, an additional ¥200 digital Diamond Coupon is available and stacks with national subsidies, 88 coupons and consumption vouchers.",
-   "offerZh": "百亿补贴频道无门槛9折金刚券，无需凑单，单件活动商品在补贴基础上再享9折；双11加放¥200数码金刚券，可叠国补、88券与消费券。",
-   "officialUrl": "",
-   "regions": "中国大陆",
-   "regionsEn": "Mainland China",
-   "regionsZh": "中国大陆",
-   "riskEn": "Diamond Coupons expire at midnight on the day they are claimed; each restock is limited and available while stocks last.",
-   "riskNote": "金刚券当天24点作废，过期失效；每波补货数量有限，抢完即止。",
-   "riskZh": "金刚券当天24点作废，过期失效；每波补货数量有限，抢完即止。",
-   "saved": false,
-   "sourceName": "post.smzdm.com",
-   "sourceUrl": "https://post.smzdm.com/p/az8o8nnn/",
-   "startsAt": null,
-   "status": "active",
-   "steps": [
-    "打开淘宝App，进入百亿补贴频道",
-    "在上午10点或晚8点领取金刚券（双11数码金刚券¥200）",
-    "选择单件百亿补贴活动商品",
-    "结算时使用金刚券，并叠加国补、88券或消费券，当天24点前下单"
-   ],
-   "stepsEn": [
-    "Open the Taobao app and enter the Hundred-Billion Subsidy channel",
-    "Claim a Diamond Coupon at 10:00 a.m. or 8:00 p.m. (¥200 digital Diamond Coupon during Double 11)",
-    "Choose a single eligible Hundred-Billion Subsidy item",
-    "Apply the Diamond Coupon at checkout, stack it with national subsidy, 88 coupons or consumption vouchers, and place the order before midnight the same day"
-   ],
-   "stepsZh": [
-    "打开淘宝App，进入百亿补贴频道",
-    "在上午10点或晚8点领取金刚券（双11数码金刚券¥200）",
-    "选择单件百亿补贴活动商品",
-    "结算时使用金刚券，并叠加国补、88券或消费券，当天24点前下单"
-   ],
-   "title": "淘宝百亿补贴金刚券",
-   "titleEn": "Taobao Hundred-Billion Subsidy Diamond Coupon",
-   "titleZh": "淘宝百亿补贴金刚券",
-   "valueText": "¥200 数码金刚券",
-   "valueTextEn": "¥200 Digital Diamond Cou",
-   "valueTextZh": "¥200 数码金刚券",
-   "valueUsd": 27.78,
-   "vendor": "淘宝",
-   "verified": false,
-   "linkType": "source",
-   "accessUrl": "https://post.smzdm.com/p/az8o8nnn/",
-   "regionCodes": [
-    "cn"
    ]
   },
   {
@@ -5261,64 +5087,6 @@
    ]
   },
   {
-   "category": "cnplatform",
-   "conditions": "限香港收货地址；App内领取/需登录",
-   "conditionsEn": "Hong Kong delivery address only; App-only claim / sign-in required",
-   "conditionsZh": "限香港收货地址；App内领取/需登录",
-   "endsAt": null,
-   "firstSeenAt": "2026-11-12T01:48:05.725Z",
-   "freeType": "折扣优惠",
-   "lastVerifiedAt": "2026-11-12T09:35:30.701Z",
-   "market": "asia",
-   "offer": "满¥88减¥8，优惠码 TAOBAOHK8；官方立减约85折起、0门槛包邮",
-   "offerEn": "¥8 off on orders over ¥88 with promo code TAOBAOHK8; official instant discounts from around 15% off, with free shipping with no minimum spend",
-   "offerZh": "满¥88减¥8，优惠码 TAOBAOHK8；官方立减约85折起、0门槛包邮",
-   "officialUrl": "",
-   "regions": "香港",
-   "regionsEn": "Hong Kong",
-   "regionsZh": "香港",
-   "riskEn": "First come, first served; offer ends when the quota is exhausted.",
-   "riskNote": "",
-   "riskZh": "先到先得，额满即止",
-   "saved": false,
-   "sourceName": "finance01.com",
-   "sourceUrl": "https://www.finance01.com/tao-bao-deal/",
-   "startsAt": null,
-   "status": "active",
-   "steps": [
-    "打开淘宝App并登录",
-    "进入双11香港站活动页或结算页",
-    "输入优惠码 TAOBAOHK8",
-    "确认订单满¥88后结算享减¥8"
-   ],
-   "stepsEn": [
-    "Open the Taobao app and sign in",
-    "Go to the Double 11 Hong Kong event page or checkout page",
-    "Enter promo code TAOBAOHK8",
-    "Confirm the order totals at least ¥88 and check out to save ¥8"
-   ],
-   "stepsZh": [
-    "打开淘宝App并登录",
-    "进入双11香港站活动页或结算页",
-    "输入优惠码 TAOBAOHK8",
-    "确认订单满¥88后结算享减¥8"
-   ],
-   "title": "淘宝双11香港站优惠码",
-   "titleEn": "Taobao Double 11 Hong Kong Promo Code",
-   "titleZh": "淘宝双11香港站优惠码",
-   "valueText": "满¥88减¥8",
-   "valueTextEn": "¥8 off on orders over ¥8",
-   "valueTextZh": "满¥88减¥8",
-   "valueUsd": 1.11,
-   "vendor": "淘宝",
-   "verified": false,
-   "linkType": "source",
-   "accessUrl": "https://www.finance01.com/tao-bao-deal/",
-   "regionCodes": [
-    "hk"
-   ]
-  },
-  {
    "category": "cloud",
    "conditions": "Applies to Porkbun orders and domain transfers, on top of first-year sale prices. The source excerpt does not show the full promo code, so follow the instructions on the linked page.",
    "conditionsEn": "Applies to Porkbun orders and domain transfers, on top of first-year sale prices. The source excerpt does not show the full promo code, so follow the instructions on the linked page.",
@@ -5374,61 +5142,6 @@
    "accessUrl": "https://costgoat.com/deals/porkbun.com",
    "regionCodes": [
     "unspecified"
-   ]
-  },
-  {
-   "category": "cnplatform",
-   "conditions": "App 内领取/需登录；来源未注明具体优惠力度、门槛与适用品类，以活动页为准",
-   "conditionsEn": "App-only claim / sign-in required; the source did not state the specific discount amount, threshold, or eligible categories — see the event page for details.",
-   "conditionsZh": "App 内领取/需登录；来源未注明具体优惠力度、门槛与适用品类，以活动页为准",
-   "endsAt": null,
-   "firstSeenAt": "2026-11-12T09:35:32.455Z",
-   "freeType": "折扣优惠",
-   "lastVerifiedAt": "2026-11-12T09:35:30.701Z",
-   "market": "asia",
-   "offer": "双十一大促期间，拼多多奔富品牌专享优惠上线，涉及Bin 704、FWT 543等产区产品",
-   "offerEn": "During the Double 11 promotion, Penfolds launched a brand-exclusive offer on Pinduoduo, covering products including Bin 704 and FWT 543.",
-   "offerZh": "双十一大促期间，拼多多奔富品牌专享优惠上线，涉及Bin 704、FWT 543等产区产品",
-   "officialUrl": "",
-   "regions": "中国大陆",
-   "regionsEn": "Mainland China",
-   "regionsZh": "中国大陆",
-   "riskEn": "",
-   "riskNote": "",
-   "riskZh": "",
-   "saved": false,
-   "sourceName": "post.smzdm.com",
-   "sourceUrl": "https://post.smzdm.com/p/ak8loerk/",
-   "startsAt": null,
-   "status": "active",
-   "steps": [
-    "打开拼多多App，登录账号",
-    "进入奔富品牌专享优惠活动页",
-    "浏览Bin 704、FWT 543等相关产品并按活动页指引下单"
-   ],
-   "stepsEn": [
-    "Open the Pinduoduo app and sign in.",
-    "Go to the Penfolds brand-exclusive offer page.",
-    "Browse related products such as Bin 704 and FWT 543 and follow the event page to place an order."
-   ],
-   "stepsZh": [
-    "打开拼多多App，登录账号",
-    "进入奔富品牌专享优惠活动页",
-    "浏览Bin 704、FWT 543等相关产品并按活动页指引下单"
-   ],
-   "title": "拼多多｜奔富双十一官方优惠 品牌专享优惠",
-   "titleEn": "Pinduoduo | Penfolds Double 11 Official Offer – Brand-Exclusive Promotion",
-   "titleZh": "拼多多｜奔富双十一官方优惠 品牌专享优惠",
-   "valueText": "品牌专享优惠",
-   "valueTextEn": "Brand-exclusive offer",
-   "valueTextZh": "品牌专享优惠",
-   "valueUsd": null,
-   "vendor": "奔富 Penfolds",
-   "verified": false,
-   "linkType": "source",
-   "accessUrl": "https://post.smzdm.com/p/ak8loerk/",
-   "regionCodes": [
-    "cn"
    ]
   },
   {
@@ -5818,64 +5531,6 @@
    "accessUrl": "https://www.gate.com/announcements/article/102618",
    "regionCodes": [
     "unspecified"
-   ]
-  },
-  {
-   "category": "membership",
-   "conditions": "双11大促期间；爱奇艺黄金VIP年卡加赠京东PLUS年卡；来源未注明其他资格限制。",
-   "conditionsEn": "Available during the Double 11 promotion; the iQIYI Gold VIP annual card includes a JD PLUS annual card; no other eligibility restrictions were stated in the source.",
-   "conditionsZh": "双11大促期间；爱奇艺黄金VIP年卡加赠京东PLUS年卡；来源未注明其他资格限制。",
-   "endsAt": null,
-   "firstSeenAt": "2026-11-12T09:35:31.590Z",
-   "freeType": "折扣优惠",
-   "lastVerifiedAt": "2026-11-12T09:35:30.701Z",
-   "market": "asia",
-   "offer": "双11期间，爱奇艺黄金VIP年卡加赠京东PLUS年卡，售价168元。",
-   "offerEn": "During Double 11, an iQIYI Gold VIP annual card comes with a complimentary JD PLUS annual card for ¥168.",
-   "offerZh": "双11期间，爱奇艺黄金VIP年卡加赠京东PLUS年卡，售价168元。",
-   "officialUrl": "",
-   "regions": "中国大陆",
-   "regionsEn": "Chinese mainland",
-   "regionsZh": "中国大陆",
-   "riskEn": "The promotion is nearing its end, so prices and benefits may change at any time; check the renewal rules and gifted benefits before purchasing.",
-   "riskNote": "大促临近尾声，价格与权益可能随时变动；购买前请核对续费规则与赠送权益。",
-   "riskZh": "大促临近尾声，价格与权益可能随时变动；购买前请核对续费规则与赠送权益。",
-   "saved": false,
-   "sourceName": "softdaba.com",
-   "sourceUrl": "https://www.softdaba.com/1111-hui-yuan-nian-ka-cu-xiao-shou/",
-   "startsAt": null,
-   "status": "active",
-   "steps": [
-    "打开来源链接",
-    "找到爱奇艺黄金VIP年卡加赠京东PLUS年卡的购买入口",
-    "按页面指引完成下单",
-    "确认爱奇艺会员与赠送的京东PLUS权益已到账"
-   ],
-   "stepsEn": [
-    "Open the source link",
-    "Find the purchase entry for the iQIYI Gold VIP annual card with a JD PLUS annual card",
-    "Complete the purchase by following the on-page instructions",
-    "Confirm that the iQIYI membership and the gifted JD PLUS benefits have been activated"
-   ],
-   "stepsZh": [
-    "打开来源链接",
-    "找到爱奇艺黄金VIP年卡加赠京东PLUS年卡的购买入口",
-    "按页面指引完成下单",
-    "确认爱奇艺会员与赠送的京东PLUS权益已到账"
-   ],
-   "title": "双11爱奇艺黄金VIP年卡加赠京东PLUS年卡",
-   "titleEn": "Double 11: iQIYI Gold VIP Annual Card with JD PLUS Annual Card",
-   "titleZh": "双11爱奇艺黄金VIP年卡加赠京东PLUS年卡",
-   "valueText": "¥168 双年卡",
-   "valueTextEn": "¥168 for 2 annual cards",
-   "valueTextZh": "¥168 双年卡",
-   "valueUsd": null,
-   "vendor": "爱奇艺",
-   "verified": false,
-   "linkType": "source",
-   "accessUrl": "https://www.softdaba.com/1111-hui-yuan-nian-ka-cu-xiao-shou/",
-   "regionCodes": [
-    "cn"
    ]
   },
   {
@@ -6439,64 +6094,6 @@
    ]
   },
   {
-   "category": "membership",
-   "conditions": "双11期间；来源未注明半价对应的具体套餐与原价，以购买页实时价格为准；付款前核对联名权益、使用设备和续费规则。",
-   "conditionsEn": "Available during Double 11; the source does not specify the exact plan or original price for the half-price offer, so the price on the purchase page applies; check the bundled benefits, supported devices and renewal rules before paying.",
-   "conditionsZh": "双11期间；来源未注明半价对应的具体套餐与原价，以购买页实时价格为准；付款前核对联名权益、使用设备和续费规则。",
-   "endsAt": null,
-   "firstSeenAt": "2026-11-12T05:31:44.553Z",
-   "freeType": "折扣优惠",
-   "lastVerifiedAt": "2026-11-12T09:35:30.701Z",
-   "market": "asia",
-   "offer": "双11期间，百度网盘会员半价；来源同时整理了爱奇艺、腾讯视频、夸克网盘、网易云音乐和 WPS 的会员入口，付款前需核对联名权益、使用设备和续费规则。",
-   "offerEn": "During Double 11, Baidu Netdisk membership is half price. The source also lists membership entries for iQIYI, Tencent Video, Quark Netdisk, NetEase Cloud Music and WPS; check the bundled benefits, supported devices and renewal rules before paying.",
-   "offerZh": "双11期间，百度网盘会员半价；来源同时整理了爱奇艺、腾讯视频、夸克网盘、网易云音乐和 WPS 的会员入口，付款前需核对联名权益、使用设备和续费规则。",
-   "officialUrl": "",
-   "regions": "中国大陆",
-   "regionsEn": "Chinese mainland",
-   "regionsZh": "中国大陆",
-   "riskEn": "Promotional prices may change at any time; check the renewal rules and membership benefits before purchasing.",
-   "riskNote": "大促价格可能随时变动；购买前请核对续费规则与会员权益。",
-   "riskZh": "大促价格可能随时变动；购买前请核对续费规则与会员权益。",
-   "saved": false,
-   "sourceName": "maxiaobang.com",
-   "sourceUrl": "https://www.maxiaobang.com/19075.html",
-   "startsAt": null,
-   "status": "active",
-   "steps": [
-    "打开来源链接",
-    "找到百度网盘会员半价入口",
-    "按页面指引完成购买",
-    "购买前核对联名权益、使用设备和续费规则"
-   ],
-   "stepsEn": [
-    "Open the source link",
-    "Find the Baidu Netdisk membership half-price entry",
-    "Complete the purchase by following the on-page instructions",
-    "Check the bundled benefits, supported devices and renewal rules before paying"
-   ],
-   "stepsZh": [
-    "打开来源链接",
-    "找到百度网盘会员半价入口",
-    "按页面指引完成购买",
-    "购买前核对联名权益、使用设备和续费规则"
-   ],
-   "title": "双11百度网盘半价",
-   "titleEn": "Double 11: Baidu Netdisk at 50% Off",
-   "titleZh": "双11百度网盘半价",
-   "valueText": "半价",
-   "valueTextEn": "50% OFF",
-   "valueTextZh": "半价",
-   "valueUsd": null,
-   "vendor": "百度网盘",
-   "verified": false,
-   "linkType": "source",
-   "accessUrl": "https://www.maxiaobang.com/19075.html",
-   "regionCodes": [
-    "cn"
-   ]
-  },
-  {
    "category": "lifestyle",
    "conditions": "Sign up through the referral link on this page. Other eligibility details not specified in source.",
    "conditionsEn": "Sign up through the referral link on this page. Other eligibility details not specified in source.",
@@ -6886,122 +6483,6 @@
   },
   {
    "category": "cnplatform",
-   "conditions": "来源未注明",
-   "conditionsEn": "Not specified in the source",
-   "conditionsZh": "来源未注明",
-   "endsAt": null,
-   "firstSeenAt": "2026-11-12T03:36:32.926Z",
-   "freeType": "折扣优惠",
-   "lastVerifiedAt": "2026-11-12T09:35:30.701Z",
-   "market": "asia",
-   "offer": "天猫双11官方立减叠加消费券，到手价低至7.2折",
-   "offerEn": "Tmall Double 11 official instant discount, stackable with coupons, with final prices as low as 72% of the original price.",
-   "offerZh": "天猫双11官方立减叠加消费券，到手价低至7.2折",
-   "officialUrl": "",
-   "regions": "中国大陆",
-   "regionsEn": "Mainland China",
-   "regionsZh": "中国大陆",
-   "riskEn": "The final price depends on stacking multiple discounts; the actual discount is shown at checkout.",
-   "riskNote": "",
-   "riskZh": "到手价需叠加多重优惠，实际折扣以结算页为准",
-   "saved": false,
-   "sourceName": "post.smzdm.com",
-   "sourceUrl": "https://post.smzdm.com/p/anv92px2/",
-   "startsAt": "2026-10-20",
-   "status": "active",
-   "steps": [
-    "打开天猫Patagonia官方旗舰店双11活动页",
-    "登录淘宝/天猫账号",
-    "选择参与官方立减的商品",
-    "叠加消费券后按到手价下单结算"
-   ],
-   "stepsEn": [
-    "Open the Tmall Patagonia Official Flagship Store Double 11 event page",
-    "Sign in to your Taobao/Tmall account",
-    "Choose products participating in the official instant discount",
-    "Apply coupons and check out at the final price"
-   ],
-   "stepsZh": [
-    "打开天猫Patagonia官方旗舰店双11活动页",
-    "登录淘宝/天猫账号",
-    "选择参与官方立减的商品",
-    "叠加消费券后按到手价下单结算"
-   ],
-   "title": "天猫｜Patagonia官方旗舰店双11官方立减活动",
-   "titleEn": "Tmall | Patagonia Official Flagship Store Double 11 Official Discount Event",
-   "titleZh": "天猫｜Patagonia官方旗舰店双11官方立减活动",
-   "valueText": "低至 7.2 折",
-   "valueTextEn": "As low as 72% of price",
-   "valueTextZh": "低至 7.2 折",
-   "valueUsd": null,
-   "vendor": "巴塔哥尼亚",
-   "verified": false,
-   "linkType": "source",
-   "accessUrl": "https://post.smzdm.com/p/anv92px2/",
-   "regionCodes": [
-    "cn"
-   ]
-  },
-  {
-   "category": "cnplatform",
-   "conditions": "来源未注明",
-   "conditionsEn": "Not specified in the source",
-   "conditionsZh": "来源未注明",
-   "endsAt": null,
-   "firstSeenAt": "2026-11-12T03:36:32.912Z",
-   "freeType": "混合优惠",
-   "lastVerifiedAt": "2026-11-12T09:35:30.701Z",
-   "market": "asia",
-   "offer": "天猫官方旗舰店10月20日晚开抢，爆款低至三折，并有限量0元购",
-   "offerEn": "The Tmall official flagship store launches on the evening of October 20, with bestsellers as low as 30% of the original price and a limited 0-yuan purchase offer.",
-   "offerZh": "天猫官方旗舰店10月20日晚开抢，爆款低至三折，并有限量0元购",
-   "officialUrl": "",
-   "regions": "中国大陆",
-   "regionsEn": "Mainland China",
-   "regionsZh": "中国大陆",
-   "riskEn": "Limited 0-yuan offer, while stocks last; please check the final price before ordering.",
-   "riskNote": "限量0元购，抢完即止；下单前请核对实际到手价",
-   "riskZh": "限量0元购，抢完即止；下单前请核对实际到手价",
-   "saved": false,
-   "sourceName": "post.smzdm.com",
-   "sourceUrl": "https://post.smzdm.com/p/a70pmgro/",
-   "startsAt": "2026-10-20",
-   "status": "active",
-   "steps": [
-    "打开天猫施耐德官方旗舰店双11活动页",
-    "登录淘宝/天猫账号",
-    "选择参与活动的家装电气爆款",
-    "按活动价下单结算，限量0元购先到先得"
-   ],
-   "stepsEn": [
-    "Open the Tmall Schneider Official Flagship Store Double 11 event page",
-    "Sign in to your Taobao/Tmall account",
-    "Choose participating home electrical bestsellers",
-    "Check out at the promotional price; the limited 0-yuan offer is first come, first served"
-   ],
-   "stepsZh": [
-    "打开天猫施耐德官方旗舰店双11活动页",
-    "登录淘宝/天猫账号",
-    "选择参与活动的家装电气爆款",
-    "按活动价下单结算，限量0元购先到先得"
-   ],
-   "title": "天猫｜施耐德官方旗舰店双11家装电气活动",
-   "titleEn": "Tmall | Schneider Official Flagship Store Double 11 Home Electrical Event",
-   "titleZh": "天猫｜施耐德官方旗舰店双11家装电气活动",
-   "valueText": "爆款低至 3 折",
-   "valueTextEn": "Bestsellers as low as 30",
-   "valueTextZh": "爆款低至 3 折",
-   "valueUsd": null,
-   "vendor": "施耐德",
-   "verified": false,
-   "linkType": "source",
-   "accessUrl": "https://post.smzdm.com/p/a70pmgro/",
-   "regionCodes": [
-    "cn"
-   ]
-  },
-  {
-   "category": "cnplatform",
    "conditions": "月卡首单限定；限时至14日；其他资格来源未注明",
    "conditionsEn": "Limited to first monthly-card orders; limited-time offer until the 14th; other eligibility not stated in the source.",
    "conditionsZh": "月卡首单限定；限时至14日；其他资格来源未注明",
@@ -7166,64 +6647,6 @@
    "accessUrl": "https://classpass.com/refer/3P7HGT22",
    "regionCodes": [
     "unspecified"
-   ]
-  },
-  {
-   "category": "cnplatform",
-   "conditions": "由广东、浙江、上海、江苏、山东、四川、重庆、陕西、吉林、新疆、宁夏发放，全国可用；App 内领取/需登录；适用品类与叠加规则以活动页为准，来源未注明会员限定。",
-   "conditionsEn": "Issued by Guangdong, Zhejiang, Shanghai, Jiangsu, Shandong, Sichuan, Chongqing, Shaanxi, Jilin, Xinjiang and Ningxia; usable nationwide. App-only claim / sign-in required. Eligible categories and stacking rules are subject to the event page; no membership restriction stated in the source.",
-   "conditionsZh": "由广东、浙江、上海、江苏、山东、四川、重庆、陕西、吉林、新疆、宁夏发放，全国可用；App 内领取/需登录；适用品类与叠加规则以活动页为准，来源未注明会员限定。",
-   "endsAt": null,
-   "firstSeenAt": "2026-11-12T03:09:58.769Z",
-   "freeType": "折扣优惠",
-   "lastVerifiedAt": "2026-11-12T09:35:30.701Z",
-   "market": "asia",
-   "offer": "11省市政府消费券至高补贴25%，不限地域、全国可用，可与天猫双11优惠叠加，部分商品低至6折，覆盖家电、手机数码、服饰美妆、运动户外、黄金饰品及宠物用品等。",
-   "offerEn": "Government consumption vouchers from 11 provinces and cities offer subsidies of up to 25%, usable nationwide with no regional restriction, and stackable with Tmall Double 11 offers; some products are as low as 60% of the original price, covering home appliances, phones and digital products, apparel, beauty, sports and outdoors, gold jewellery and pet supplies.",
-   "offerZh": "11省市政府消费券至高补贴25%，不限地域、全国可用，可与天猫双11优惠叠加，部分商品低至6折，覆盖家电、手机数码、服饰美妆、运动户外、黄金饰品及宠物用品等。",
-   "officialUrl": "",
-   "regions": "中国大陆（广东、浙江、上海、江苏、山东、四川、重庆、陕西、吉林、新疆、宁夏发放，全国可用）",
-   "regionsEn": "Mainland China (issued in Guangdong, Zhejiang, Shanghai, Jiangsu, Shandong, Sichuan, Chongqing, Shaanxi, Jilin, Xinjiang and Ningxia; usable nationwide)",
-   "regionsZh": "中国大陆（广东、浙江、上海、江苏、山东、四川、重庆、陕西、吉林、新疆、宁夏发放，全国可用）",
-   "riskEn": "Eligible scope and stacking rules are subject to the event page.",
-   "riskNote": "适用范围与叠加规则以活动页实际显示为准。",
-   "riskZh": "适用范围与叠加规则以活动页实际显示为准。",
-   "saved": false,
-   "sourceName": "sohu.com",
-   "sourceUrl": "https://www.sohu.com/a/1093763451_355158",
-   "startsAt": null,
-   "status": "active",
-   "steps": [
-    "打开淘宝App，进入天猫双11政府消费券活动页",
-    "领取对应省市的政府消费券",
-    "选购家电、手机数码等适用品类商品",
-    "结算时叠加政府消费券与双11优惠下单"
-   ],
-   "stepsEn": [
-    "Open the Taobao app and enter the Tmall Double 11 government consumption voucher event page",
-    "Claim the government consumption voucher for the issuing province or city",
-    "Choose eligible products such as home appliances, phones and digital products",
-    "Stack the government voucher with Double 11 offers at checkout and place the order"
-   ],
-   "stepsZh": [
-    "打开淘宝App，进入天猫双11政府消费券活动页",
-    "领取对应省市的政府消费券",
-    "选购家电、手机数码等适用品类商品",
-    "结算时叠加政府消费券与双11优惠下单"
-   ],
-   "title": "山东等11省市天猫双11政府消费券",
-   "titleEn": "Tmall Double 11 Government Consumption Vouchers from 11 Provinces and Cities including Shandong",
-   "titleZh": "山东等11省市天猫双11政府消费券",
-   "valueText": "政府消费券至高补贴 25%",
-   "valueTextEn": "Government vouchers: up",
-   "valueTextZh": "政府消费券至高补贴 25%",
-   "valueUsd": null,
-   "vendor": "天猫",
-   "verified": false,
-   "linkType": "source",
-   "accessUrl": "https://www.sohu.com/a/1093763451_355158",
-   "regionCodes": [
-    "cn"
    ]
   },
   {
@@ -7512,65 +6935,6 @@
   },
   {
    "category": "cnplatform",
-   "conditions": "适用于淘宝/天猫双 11；需在下单时输入优惠码；部分优惠与指定信用卡或支付方式有关，具体优惠码、门槛与适用范围以页面为准。",
-   "conditionsEn": "Applies to the Taobao/Tmall Double 11 event; enter a promo code at checkout; some offers are linked to selected credit cards or payment methods; specific codes, thresholds and scope are subject to the page.",
-   "conditionsZh": "适用于淘宝/天猫双 11；需在下单时输入优惠码；部分优惠与指定信用卡或支付方式有关，具体优惠码、门槛与适用范围以页面为准。",
-   "endsAt": null,
-   "firstSeenAt": "2026-11-12T03:09:58.206Z",
-   "freeType": "折扣优惠",
-   "lastVerifiedAt": "2026-11-12T09:35:30.701Z",
-   "market": "asia",
-   "offer": "2026 淘宝双 11（天猫通用）优惠码合集：活动 10 月 15 日 20:00 开启预售，下单时输入优惠码可享折扣，页面亦整理了指定信用卡、AlipayHK、PayMe 等支付优惠与免运费信息。",
-   "offerEn": "2026 Taobao Double 11 (also valid on Tmall) promo code collection: presales start at 8:00 p.m. on 15 October. Enter a promo code at checkout for a discount; the page also covers offers for selected credit cards, AlipayHK, PayMe and free shipping.",
-   "offerZh": "2026 淘宝双 11（天猫通用）优惠码合集：活动 10 月 15 日 20:00 开启预售，下单时输入优惠码可享折扣，页面亦整理了指定信用卡、AlipayHK、PayMe 等支付优惠与免运费信息。",
-   "officialUrl": "",
-   "regions": "中国大陆、中国香港",
-   "regionsEn": "Mainland China, Hong Kong, China",
-   "regionsZh": "中国大陆、中国香港",
-   "riskEn": "Promo codes may have expiry dates and usage thresholds; the actual discount is as shown at checkout.",
-   "riskNote": "优惠码可能有时效与使用门槛，实际优惠以结算页为准。",
-   "riskZh": "优惠码可能有时效与使用门槛，实际优惠以结算页为准。",
-   "saved": false,
-   "sourceName": "mrmiles.hk",
-   "sourceUrl": "https://www.mrmiles.hk/taobao-code/",
-   "startsAt": "2026-10-15",
-   "status": "active",
-   "steps": [
-    "打开官方链接，查看淘宝双 11 优惠码合集",
-    "选择适用的淘宝/天猫优惠码",
-    "在淘宝下单时输入优惠码",
-    "按页面指引选择适用的支付方式完成付款"
-   ],
-   "stepsEn": [
-    "Open the official link and view the Taobao Double 11 promo code collection",
-    "Choose an applicable Taobao/Tmall promo code",
-    "Enter the promo code when placing an order on Taobao",
-    "Follow the page guidance to choose an applicable payment method and complete payment"
-   ],
-   "stepsZh": [
-    "打开官方链接，查看淘宝双 11 优惠码合集",
-    "选择适用的淘宝/天猫优惠码",
-    "在淘宝下单时输入优惠码",
-    "按页面指引选择适用的支付方式完成付款"
-   ],
-   "title": "淘寶雙 11 優惠碼",
-   "titleEn": "Taobao Double 11 Promo Codes",
-   "titleZh": "淘寶雙 11 優惠碼",
-   "valueText": "",
-   "valueTextEn": "",
-   "valueTextZh": "",
-   "valueUsd": null,
-   "vendor": "淘宝",
-   "verified": false,
-   "linkType": "source",
-   "accessUrl": "https://www.mrmiles.hk/taobao-code/",
-   "regionCodes": [
-    "cn",
-    "hk"
-   ]
-  },
-  {
-   "category": "cnplatform",
    "conditions": "无门槛大额红包每日可领；数码3C国补封顶¥500；以旧换新补贴需符合页面条件，来源未注明更细的资格限制",
    "conditionsEn": "No-threshold large red packets can be claimed daily; the national subsidy for digital/3C products is capped at ¥500; trade-in subsidies are subject to page terms, and no finer eligibility details are stated in the source",
    "conditionsZh": "无门槛大额红包每日可领；数码3C国补封顶¥500；以旧换新补贴需符合页面条件，来源未注明更细的资格限制",
@@ -7849,64 +7213,6 @@
   },
   {
    "category": "cnplatform",
-   "conditions": "88VIP专属券限88VIP会员；App内领取/需登录；其他资格来源未注明",
-   "conditionsEn": "88VIP-exclusive coupons are for 88VIP members only; App-only claim / sign-in required; other eligibility not stated in the source",
-   "conditionsZh": "88VIP专属券限88VIP会员；App内领取/需登录；其他资格来源未注明",
-   "endsAt": null,
-   "firstSeenAt": "2026-11-12T01:48:05.711Z",
-   "freeType": "混合优惠",
-   "lastVerifiedAt": "2026-11-12T09:35:30.701Z",
-   "market": "asia",
-   "offer": "官方立减15%打底，叠加超级红包、88VIP专属券、跨店满减及国家以旧换新补贴",
-   "offerEn": "15% official instant discount as a base, stackable with Super Red Packets, 88VIP-exclusive coupons, cross-store discounts and national trade-in subsidies",
-   "offerZh": "官方立减15%打底，叠加超级红包、88VIP专属券、跨店满减及国家以旧换新补贴",
-   "officialUrl": "",
-   "regions": "中国大陆",
-   "regionsEn": "Mainland China",
-   "regionsZh": "中国大陆",
-   "riskEn": "Final stacking rules are shown at checkout.",
-   "riskNote": "",
-   "riskZh": "优惠叠加规则以结算页为准",
-   "saved": false,
-   "sourceName": "feng.ifeng.com",
-   "sourceUrl": "https://feng.ifeng.com/c/8xF40ehuo6X",
-   "startsAt": "2026-10-15",
-   "status": "active",
-   "steps": [
-    "打开淘宝或天猫App并登录",
-    "进入双11活动页领取超级红包",
-    "88VIP会员领取专属券",
-    "选购参与官方立减的商品，结算时叠加优惠"
-   ],
-   "stepsEn": [
-    "Open the Taobao or Tmall app and sign in",
-    "Go to the Double 11 event page and claim the Super Red Packet",
-    "88VIP members claim their exclusive coupons",
-    "Shop for items eligible for the official discount and stack the offers at checkout"
-   ],
-   "stepsZh": [
-    "打开淘宝或天猫App并登录",
-    "进入双11活动页领取超级红包",
-    "88VIP会员领取专属券",
-    "选购参与官方立减的商品，结算时叠加优惠"
-   ],
-   "title": "淘宝天猫双11",
-   "titleEn": "Taobao and Tmall Double 11 Festival",
-   "titleZh": "淘宝天猫双11",
-   "valueText": "官方立减15%",
-   "valueTextEn": "15% official instant dis",
-   "valueTextZh": "官方立减15%",
-   "valueUsd": null,
-   "vendor": "天猫",
-   "verified": false,
-   "linkType": "source",
-   "accessUrl": "https://feng.ifeng.com/c/8xF40ehuo6X",
-   "regionCodes": [
-    "cn"
-   ]
-  },
-  {
-   "category": "cnplatform",
    "conditions": "需在京东 App 搜索【领券 010】领券；适用于手机、电脑、平板、家电等品类；具体券面、门槛与国补规则以页面为准。",
    "conditionsEn": "Search [领券 010] in the JD app to claim coupons; applies to phones, computers, tablets, appliances and other categories; coupon values, thresholds and national subsidy rules are subject to the page.",
    "conditionsZh": "需在京东 App 搜索【领券 010】领券；适用于手机、电脑、平板、家电等品类；具体券面、门槛与国补规则以页面为准。",
@@ -7959,64 +7265,6 @@
    "verified": false,
    "linkType": "source",
    "accessUrl": "https://feng.ifeng.com/c/8xQmeceFWUZ",
-   "regionCodes": [
-    "cn"
-   ]
-  },
-  {
-   "category": "cnplatform",
-   "conditions": "App 内领取/需登录；每天可领一次，来源未注明其他门槛",
-   "conditionsEn": "App-only claim / sign-in required; claimable once a day; no other thresholds stated in the source",
-   "conditionsZh": "App 内领取/需登录；每天可领一次，来源未注明其他门槛",
-   "endsAt": null,
-   "firstSeenAt": "2026-11-12T01:48:05.683Z",
-   "freeType": "混合优惠",
-   "lastVerifiedAt": "2026-11-12T09:35:30.701Z",
-   "market": "asia",
-   "offer": "双11期间打开京东App搜索【福利333】进入全品类优惠券会场，每天可领一次无门槛红包与消费券补贴。",
-   "offerEn": "During Double 11, open the JD App and search [福利333] to enter the all-category coupon event; claim a no-threshold red packet and consumption coupons once a day.",
-   "offerZh": "双11期间打开京东App搜索【福利333】进入全品类优惠券会场，每天可领一次无门槛红包与消费券补贴。",
-   "officialUrl": "",
-   "regions": "中国大陆",
-   "regionsEn": "Mainland China",
-   "regionsZh": "中国大陆",
-   "riskEn": "Specific amounts and benefits are subject to what is shown in the App.",
-   "riskNote": "",
-   "riskZh": "具体金额与权益以App内实际显示为准",
-   "saved": false,
-   "sourceName": "feng.ifeng.com",
-   "sourceUrl": "https://feng.ifeng.com/c/8xwJH83G2yZ",
-   "startsAt": null,
-   "status": "active",
-   "steps": [
-    "打开京东App",
-    "搜索【福利333】进入双11全品类优惠券会场",
-    "每天领取一次无门槛红包与消费券补贴",
-    "下单时使用已领取的优惠"
-   ],
-   "stepsEn": [
-    "Open the JD App",
-    "Search [福利333] to enter the Double 11 all-category coupon event",
-    "Claim the no-threshold red packet and consumption coupons once a day",
-    "Use the claimed benefits when placing an order"
-   ],
-   "stepsZh": [
-    "打开京东App",
-    "搜索【福利333】进入双11全品类优惠券会场",
-    "每天领取一次无门槛红包与消费券补贴",
-    "下单时使用已领取的优惠"
-   ],
-   "title": "京东双十一全品类红包",
-   "titleEn": "JD Double 11 All-Category Red Packet",
-   "titleZh": "京东双十一全品类红包",
-   "valueText": "无门槛红包/消费券",
-   "valueTextEn": "No-threshold red packet",
-   "valueTextZh": "无门槛红包/消费券",
-   "valueUsd": null,
-   "vendor": "京东",
-   "verified": false,
-   "linkType": "source",
-   "accessUrl": "https://feng.ifeng.com/c/8xwJH83G2yZ",
    "regionCodes": [
     "cn"
    ]
@@ -8474,62 +7722,6 @@
    "accessUrl": "https://blog.enzocreative.me/perks/2026-11-04-jetpac-eterna-free-esim/",
    "regionCodes": [
     "global"
-   ]
-  },
-  {
-   "category": "travel",
-   "conditions": "适用于大中华区及日本、韩国、东南亚指定凯悦酒店；具体加赠规则、适用酒店与购买渠道以页面为准；其他资格来源未注明。",
-   "conditionsEn": "Eligible at designated Hyatt hotels in Greater China, Japan, South Korea and Southeast Asia; bonus rules, eligible hotels and purchase channels per the offer page; other eligibility not specified in the source.",
-   "conditionsZh": "适用于大中华区及日本、韩国、东南亚指定凯悦酒店；具体加赠规则、适用酒店与购买渠道以页面为准；其他资格来源未注明。",
-   "endsAt": null,
-   "firstSeenAt": "2026-11-11T23:33:07.702Z",
-   "freeType": "折扣优惠",
-   "lastVerifiedAt": "2026-11-11T23:33:06.742Z",
-   "market": "asia",
-   "offer": "一年一度的「凯悦心」双11特卖开始：大中华区及日本、韩国、东南亚等海外指定凯悦旗下酒店可用，每颗100元，并加赠额外积分和房晚；买分促销享20%优惠进行中。",
-   "offerEn": "The annual 「凯悦心」 Double 11 sale is on: designated Hyatt hotels in Greater China, Japan, South Korea, Southeast Asia and other overseas locations are eligible, at 100 yuan each, with bonus points and nights; a points-purchase promotion offers 20% off.",
-   "offerZh": "一年一度的「凯悦心」双11特卖开始：大中华区及日本、韩国、东南亚等海外指定凯悦旗下酒店可用，每颗100元，并加赠额外积分和房晚；买分促销享20%优惠进行中。",
-   "officialUrl": "",
-   "regions": "中国大中华区、日本、韩国、东南亚",
-   "regionsEn": "Greater China, Japan, South Korea, Southeast Asia",
-   "regionsZh": "中国大中华区、日本、韩国、东南亚",
-   "riskEn": "Bonus points and nights rules and points-purchase scope are subject to the official page.",
-   "riskNote": "加赠积分与房晚规则及买分使用范围以官方页面为准。",
-   "riskZh": "加赠积分与房晚规则及买分使用范围以官方页面为准。",
-   "saved": false,
-   "sourceName": "travelideas.cn",
-   "sourceUrl": "https://travelideas.cn/index.php/2026/11/15426/",
-   "startsAt": null,
-   "status": "active",
-   "steps": [
-    "打开官方链接",
-    "查看双11特卖与买分页面",
-    "按页面指引预订或购买"
-   ],
-   "stepsEn": [
-    "Open the official link",
-    "Check the Double 11 sale and points-purchase pages",
-    "Book or purchase as directed on the page"
-   ],
-   "stepsZh": [
-    "打开官方链接",
-    "查看双11特卖与买分页面",
-    "按页面指引预订或购买"
-   ],
-   "title": "2026年「凯悦心」双十一特惠每颗100元，还有加赠额外积分和房晚；买分促销享20%优惠进行中！",
-   "titleEn": "2026 「凯悦心」 Double 11 Sale: 100 Yuan Each, Plus Bonus Points and Nights; Points Purchase 20% Off",
-   "titleZh": "2026年「凯悦心」双十一特惠每颗100元，还有加赠额外积分和房晚；买分促销享20%优惠进行中！",
-   "valueText": "买分 20% 优惠",
-   "valueTextEn": "20% off points purchase",
-   "valueTextZh": "买分 20% 优惠",
-   "valueUsd": null,
-   "vendor": "Hyatt",
-   "verified": false,
-   "linkType": "source",
-   "accessUrl": "https://travelideas.cn/index.php/2026/11/15426/",
-   "regionCodes": [
-    "jp",
-    "kr"
    ]
   },
   {
@@ -9650,61 +8842,6 @@
   },
   {
    "category": "membership",
-   "conditions": "需通过网易云蓝V旗舰店活动页购买；来源未注明新老用户等其他资格限制",
-   "conditionsEn": "Must be purchased via the NetEase Cloud Music blue-V flagship store activity page; the source does not state other eligibility limits such as new-user status",
-   "conditionsZh": "需通过网易云蓝V旗舰店活动页购买；来源未注明新老用户等其他资格限制",
-   "endsAt": null,
-   "firstSeenAt": "2026-11-11T15:33:56.698Z",
-   "freeType": "折扣优惠",
-   "lastVerifiedAt": "2026-11-12T01:48:04.687Z",
-   "market": "asia",
-   "offer": "网易云蓝V旗舰店活动页挂出网易云音乐黑胶会员年卡98元，并加赠88天。",
-   "offerEn": "The NetEase Cloud Music blue-V flagship store activity page lists the Vinyl VIP annual card at ¥98, plus 88 extra days.",
-   "offerZh": "网易云蓝V旗舰店活动页挂出网易云音乐黑胶会员年卡98元，并加赠88天。",
-   "officialUrl": "",
-   "regions": "来源未注明",
-   "regionsEn": "Not stated in source",
-   "regionsZh": "来源未注明",
-   "riskEn": "The same annual card is listed elsewhere from ¥40 to ¥298; unverified ultra-low-price channels may be bait — stick to the flagship store channel",
-   "riskNote": "市面同款年卡报价40元至298元不等，未经核实的超低价渠道可能存在钓鱼风险，建议只走旗舰店渠道",
-   "riskZh": "市面同款年卡报价40元至298元不等，未经核实的超低价渠道可能存在钓鱼风险，建议只走旗舰店渠道",
-   "saved": false,
-   "sourceName": "post.smzdm.com",
-   "sourceUrl": "https://post.smzdm.com/p/ae6qep5z/",
-   "startsAt": null,
-   "status": "active",
-   "steps": [
-    "打开来源链接，查看黑胶会员年卡渠道对比",
-    "前往网易云蓝V旗舰店活动页",
-    "确认98元年卡及加赠88天后下单"
-   ],
-   "stepsEn": [
-    "Open the source link and read the Vinyl VIP annual card channel comparison",
-    "Go to the NetEase Cloud Music blue-V flagship store activity page",
-    "Confirm the ¥98 annual card with 88 bonus days, then place the order"
-   ],
-   "stepsZh": [
-    "打开来源链接，查看黑胶会员年卡渠道对比",
-    "前往网易云蓝V旗舰店活动页",
-    "确认98元年卡及加赠88天后下单"
-   ],
-   "title": "网易云黑胶年卡双11渠道：旗舰店98元年卡加赠88天",
-   "titleEn": "NetEase Vinyl VIP Annual Card Double 11 Channels: ¥98 Annual Card plus 88 Days at Flagship Store",
-   "titleZh": "网易云黑胶年卡双11渠道：旗舰店98元年卡加赠88天",
-   "valueText": "¥98年卡+赠88天",
-   "valueTextEn": "¥98/yr + 88 days free",
-   "valueTextZh": "¥98年卡+赠88天",
-   "valueUsd": null,
-   "vendor": "网易云音乐",
-   "verified": false,
-   "linkType": "source",
-   "accessUrl": "https://post.smzdm.com/p/ae6qep5z/",
-   "regionCodes": [
-    "unspecified"
-   ]
-  },
-  {
-   "category": "membership",
    "conditions": "Not specified in source",
    "conditionsEn": "Not specified in source",
    "conditionsZh": "来源未注明",
@@ -10322,65 +9459,6 @@
    ]
   },
   {
-   "category": "cloud",
-   "conditions": "来源未注明资格限制；优惠按年付/多年付等购买时长执行，机房与配置不同价格不同。",
-   "conditionsEn": "Source does not specify eligibility restrictions; offers depend on purchase term (annual/multi-year), and prices vary by data centre and configuration.",
-   "conditionsZh": "来源未注明资格限制；优惠按年付/多年付等购买时长执行，机房与配置不同价格不同。",
-   "endsAt": null,
-   "firstSeenAt": "2026-11-11T12:02:15.554Z",
-   "freeType": "折扣优惠",
-   "lastVerifiedAt": "2026-11-12T01:34:28.414Z",
-   "market": "asia",
-   "offer": "双十一促销：全场云服务器低至2.2折，买1年送2个月，买3年送1年；独立服务器3~6折，可选香港和美国机房，含DDoS高防，买半年送1个月，买1年送2个月；海外云服务器年付低至12元/月，独立服务器380元/月起。",
-   "offerEn": "Double 11 promotion: cloud servers from 22% of the original price, buy 1 year get 2 months free, buy 3 years get 1 year free; dedicated servers at 30%-60% of the original price, with Hong Kong and US data centres and DDoS protection, buy 6 months get 1 month free, buy 1 year get 2 months free; overseas cloud servers from CNY 12/month for annual plans, dedicated servers from CNY 380/month.",
-   "offerZh": "双十一促销：全场云服务器低至2.2折，买1年送2个月，买3年送1年；独立服务器3~6折，可选香港和美国机房，含DDoS高防，买半年送1个月，买1年送2个月；海外云服务器年付低至12元/月，独立服务器380元/月起。",
-   "officialUrl": "",
-   "regions": "中国香港、美国",
-   "regionsEn": "Hong Kong, China; United States",
-   "regionsZh": "中国香港、美国",
-   "riskEn": "Prices vary widely by configuration; confirm the final price and bonus period before ordering.",
-   "riskNote": "不同配置价格差异较大，下单前请核对最终价格与赠送时长。",
-   "riskZh": "不同配置价格差异较大，下单前请核对最终价格与赠送时长。",
-   "saved": false,
-   "sourceName": "zyhot.com",
-   "sourceUrl": "https://www.zyhot.com/archives/4329.html",
-   "startsAt": null,
-   "status": "active",
-   "steps": [
-    "打开来源链接查看活动详情",
-    "选择云服务器或独立服务器及香港/美国机房与配置",
-    "按年付/多年付等优惠时长选择套餐",
-    "按页面指引完成注册与支付"
-   ],
-   "stepsEn": [
-    "Open the source link to view the promotion details",
-    "Choose a cloud or dedicated server, data centre in Hong Kong or the US, and configuration",
-    "Select an annual or multi-year plan to apply the offer",
-    "Follow the page instructions to register and pay"
-   ],
-   "stepsZh": [
-    "打开来源链接查看活动详情",
-    "选择云服务器或独立服务器及香港/美国机房与配置",
-    "按年付/多年付等优惠时长选择套餐",
-    "按页面指引完成注册与支付"
-   ],
-   "title": "恒创科技双11出海狂欢：海外云服务器年付2.2折低至12元/月，独立服务器 380元/月起",
-   "titleEn": "HengHost Double 11 Overseas Sale: Overseas Cloud Servers From 22% of Original Price for Annual Plans, From CNY 12/Month; Dedicated Servers From CNY 380/Month",
-   "titleZh": "恒创科技双11出海狂欢：海外云服务器年付2.2折低至12元/月，独立服务器 380元/月起",
-   "valueText": "年付2.2折起",
-   "valueTextEn": "From 78% OFF annual",
-   "valueTextZh": "年付2.2折起",
-   "valueUsd": null,
-   "vendor": "恒创科技",
-   "verified": false,
-   "linkType": "source",
-   "accessUrl": "https://www.zyhot.com/archives/4329.html",
-   "regionCodes": [
-    "hk",
-    "us"
-   ]
-  },
-  {
    "category": "education",
    "conditions": "來源未註明",
    "conditionsEn": "Not specified in the source",
@@ -10653,64 +9731,6 @@
    "accessUrl": "https://store.playstation.com/en-us/concept/10015296",
    "regionCodes": [
     "sg"
-   ]
-  },
-  {
-   "category": "travel",
-   "conditions": "88VIP users can use large threshold coupons up to ¥1,111 off; 13 flash-sale sessions on 11 November; specific products, inventory and store terms are as shown on the activity page, full rules not stated in source.",
-   "conditionsEn": "88VIP users can use large threshold coupons up to ¥1,111 off; 13 flash-sale sessions on 11 November; specific products, inventory and store terms are as shown on the activity page, full rules not stated in source.",
-   "conditionsZh": "88VIP用户可享满减大额券最高减1111元；11月11日有13场限时秒杀；具体商品、库存和门店条款以活动页为准，来源未注明完整规则。",
-   "endsAt": null,
-   "firstSeenAt": "2026-11-11T12:02:14.189Z",
-   "freeType": "混合优惠",
-   "lastVerifiedAt": "2026-11-12T03:31:57.438Z",
-   "market": "asia",
-   "offer": "Fliggy Double 11 items from 50% off, some flash sales as low as ¥0.1; 88VIP coupons up to ¥1,111 off; 13 flash-sale sessions on 11 November including Disney tickets and hotel packages; popular vacation hotel packages for 2 nights from ¥799.",
-   "offerEn": "Fliggy Double 11 items from 50% off, some flash sales as low as ¥0.1; 88VIP coupons up to ¥1,111 off; 13 flash-sale sessions on 11 November including Disney tickets and hotel packages; popular vacation hotel packages for 2 nights from ¥799.",
-   "offerZh": "飞猪双11活动商品5折起，部分低至0.1元秒杀；88VIP满减大额券最高减1111元；11月11日13场大牌秒杀包括迪士尼门票、酒店套餐等；热门度假酒店套餐2晚低至799元。",
-   "officialUrl": "",
-   "regions": "China",
-   "regionsEn": "China",
-   "regionsZh": "中国",
-   "riskEn": "Flash-sale stock is very limited and prepaid hotel packages may have date, refund and surcharge restrictions; check package terms before buying.",
-   "riskNote": "Flash-sale stock is very limited and prepaid hotel packages may have date, refund and surcharge restrictions; check package terms before buying.",
-   "riskZh": "秒杀库存非常有限，预付酒店套餐可能有日期、退款和加价限制；购买前请确认套餐条款。",
-   "saved": false,
-   "sourceName": "btiii.com",
-   "sourceUrl": "https://www.btiii.com/article/13697",
-   "startsAt": null,
-   "status": "active",
-   "steps": [
-    "打开来源链接",
-    "前往飞猪双11活动页",
-    "领取适用的88VIP满减券或选择5折起商品",
-    "在11月11日秒杀场次下单并确认最终价格"
-   ],
-   "stepsEn": [
-    "Open the source link",
-    "Go to the Fliggy Double 11 activity page",
-    "Claim applicable 88VIP coupons or choose items from 50% off",
-    "Order during the 11 November flash-sale sessions and check the final price"
-   ],
-   "stepsZh": [
-    "打开来源链接",
-    "前往飞猪双11活动页",
-    "领取适用的88VIP满减券或选择5折起商品",
-    "在11月11日秒杀场次下单并确认最终价格"
-   ],
-   "title": "飞猪双11最后一轮抄底！开元森泊5折抢，沙漠星星酒店爆款返场",
-   "titleEn": "Fliggy Double 11 Final Round: Kaiyuan Senbo from 50% Off and Desert Star Hotel Returns",
-   "titleZh": "飞猪双11最后一轮抄底！开元森泊5折抢，沙漠星星酒店爆款返场",
-   "valueText": "5折起",
-   "valueTextEn": "From 50% off",
-   "valueTextZh": "5折起",
-   "valueUsd": null,
-   "vendor": "飞猪",
-   "verified": false,
-   "linkType": "source",
-   "accessUrl": "https://www.btiii.com/article/13697",
-   "regionCodes": [
-    "other"
    ]
   },
   {
@@ -11827,6 +10847,64 @@
    "verified": true,
    "linkType": "official",
    "accessUrl": "http://aws.amazon.com/education/awseducate/?ef_id=cj0kcqiaire5bhcnarisam53k1hoqtpvxbaxvpmtpeixbbjz328bezkxs73lq0kylflkpboegqnls1aaasckealw_wcb:g:s&gclid=cj0kcqiaire5bhcnarisam53k1hoqtpvxbaxvpmtpeixbbjz328bezkxs73lq0kylflkpboegqnls1aaasckealw_wcb&s_kwcid=al!4422!3!653411893185!p!!g!!aws%20for%20education!19919601774!149165404513&sc_channel=ps&trk=17b44afd-9e3f-446f-b48b-0ff46b8958a8",
+   "regionCodes": [
+    "unspecified"
+   ]
+  },
+  {
+   "category": "ai",
+   "conditions": "仅限学生。来源未注明具体的学生验证方式、适用地区或续费安排。",
+   "conditionsEn": "Students only. Source does not state the exact student-verification method, applicable region, or renewal terms.",
+   "conditionsZh": "仅限学生。来源未注明具体的学生验证方式、适用地区或续费安排。",
+   "endsAt": null,
+   "firstSeenAt": "2026-11-11T09:34:06.065Z",
+   "freeType": "免费试用",
+   "lastVerifiedAt": "2026-11-11T09:34:05.753Z",
+   "market": "asia",
+   "offer": "学生可免费领取豆包订阅 3 个月。",
+   "offerEn": "Students can get a free Doubao subscription for 3 months.",
+   "offerZh": "学生可免费领取豆包订阅 3 个月。",
+   "officialUrl": "https://help.openai.com/en/articles/20001493-chatgpt-back-to-school-offer-for-students",
+   "regions": "来源未注明",
+   "regionsEn": "Not specified in source",
+   "regionsZh": "来源未注明",
+   "riskEn": "The free period may end or renew at the regular price after 3 months; check the renewal terms.",
+   "riskNote": "免费期结束后可能恢复原价或自动续费，请注意到期时间。",
+   "riskZh": "免费期结束后可能恢复原价或自动续费，请注意到期时间。",
+   "saved": false,
+   "sourceName": "acmefree.com",
+   "sourceUrl": "https://www.acmefree.com/posts/ai-membership-price-comparison-2026/",
+   "startsAt": null,
+   "status": "active",
+   "steps": [
+    "打开优惠汇总页面",
+    "按页面指引进入豆包学生优惠",
+    "完成学生身份验证",
+    "注册/登录后领取免费 3 个月订阅"
+   ],
+   "stepsEn": [
+    "Open the offer summary page",
+    "Follow the on-page guidance to the Doubao student offer",
+    "Complete student verification",
+    "Register / sign in and claim the free 3-month subscription"
+   ],
+   "stepsZh": [
+    "打开优惠汇总页面",
+    "按页面指引进入豆包学生优惠",
+    "完成学生身份验证",
+    "注册/登录后领取免费 3 个月订阅"
+   ],
+   "title": "豆包学生免费订阅 3 个月",
+   "titleEn": "Doubao Free Student Subscription for 3 Months",
+   "titleZh": "豆包学生免费订阅 3 个月",
+   "valueText": "免费 3 个月",
+   "valueTextEn": "3 months free",
+   "valueTextZh": "免费 3 个月",
+   "valueUsd": null,
+   "vendor": "豆包",
+   "verified": true,
+   "linkType": "official",
+   "accessUrl": "https://help.openai.com/en/articles/20001493-chatgpt-back-to-school-offer-for-students",
    "regionCodes": [
     "unspecified"
    ]
@@ -15819,61 +14897,6 @@
    ]
   },
   {
-   "category": "travel",
-   "conditions": "僅限指定出發日；部分行程價格需洽客服，其他條件來源未注明。",
-   "conditionsEn": "Selected departure dates only; prices for some tours require contacting customer service, and other terms are not specified in the source.",
-   "conditionsZh": "僅限指定出發日；部分行程價格需洽客服，其他條件來源未注明。",
-   "endsAt": null,
-   "firstSeenAt": "2026-11-10T17:34:33.985Z",
-   "freeType": "折扣优惠",
-   "lastVerifiedAt": "2026-11-11T13:32:43.629Z",
-   "market": "asia",
-   "offer": "東南旅遊清倉特惠旅行團推出東南亞限量優惠：星宇航空直飛清邁雙城 5 日遊，指定日第二人省 $2,000；另有指定日一口價優惠。",
-   "offerEn": "Southeast Travel's clearance tour sale offers limited Southeast Asia deals, including a 5-day Starlux Airlines direct-flight tour to Chiang Mai, with the second traveller saving $2,000 on selected dates, plus flat-price offers on selected dates.",
-   "offerZh": "東南旅遊清倉特惠旅行團推出東南亞限量優惠：星宇航空直飛清邁雙城 5 日遊，指定日第二人省 $2,000；另有指定日一口價優惠。",
-   "officialUrl": "https://settour.com.tw/act/mkt/giftwine/clearancesale.html?a=ADV0000001405&s=21869",
-   "regions": "東南亞（泰國清邁、曼谷、芭達雅等）",
-   "regionsEn": "Southeast Asia (Chiang Mai, Bangkok and Pattaya, Thailand, etc.)",
-   "regionsZh": "東南亞（泰國清邁、曼谷、芭達雅等）",
-   "riskEn": "Offers are limited to selected dates and availability; confirm the itinerary and change and cancellation rules before booking.",
-   "riskNote": "優惠僅限指定日期與名額，預訂前請確認行程內容與退改規定。",
-   "riskZh": "優惠僅限指定日期與名額，預訂前請確認行程內容與退改規定。",
-   "saved": false,
-   "sourceName": "東南旅遊",
-   "sourceUrl": "https://settour.com.tw/act/mkt/giftwine/clearancesale.html?a=ADV0000001405&s=21869",
-   "startsAt": null,
-   "status": "active",
-   "steps": [
-    "打開官方連結",
-    "進入清倉特惠旅行團頁面",
-    "選擇指定日的東南亞行程並按頁面指引預訂，或洽客服確認"
-   ],
-   "stepsEn": [
-    "Open the official link",
-    "Go to the clearance special tour sale page",
-    "Choose a Southeast Asia tour on a selected date and book following the instructions on the page, or contact customer service to confirm"
-   ],
-   "stepsZh": [
-    "打開官方連結",
-    "進入清倉特惠旅行團頁面",
-    "選擇指定日的東南亞行程並按頁面指引預訂，或洽客服確認"
-   ],
-   "title": "清倉特惠旅行團",
-   "titleEn": "Clearance Special Tour Sale",
-   "titleZh": "清倉特惠旅行團",
-   "valueText": "第二人省 $2,000",
-   "valueTextEn": "$2,000 off 2nd traveller",
-   "valueTextZh": "第二人省 $2,000",
-   "valueUsd": null,
-   "vendor": "東南旅遊",
-   "verified": true,
-   "linkType": "official",
-   "accessUrl": "https://settour.com.tw/act/mkt/giftwine/clearancesale.html?a=ADV0000001405&s=21869",
-   "regionCodes": [
-    "th"
-   ]
-  },
-  {
    "category": "ucard",
    "conditions": "需申请并获批信用卡；来源未注明消费要求、年费与具体条款。",
    "conditionsEn": "Card application and approval are required; the spending requirement, annual fee and full terms were not stated in the source.",
@@ -16262,61 +15285,6 @@
    "accessUrl": "https://blog.ittellyou.com/43894.html",
    "regionCodes": [
     "th"
-   ]
-  },
-  {
-   "category": "education",
-   "conditions": "仅面向中国大陆地区用户；来源未注明其他条件。",
-   "conditionsEn": "Only for users in Mainland China; no other conditions specified in the source.",
-   "conditionsZh": "仅面向中国大陆地区用户；来源未注明其他条件。",
-   "endsAt": null,
-   "firstSeenAt": "2026-11-10T15:34:15.026Z",
-   "freeType": "折扣优惠",
-   "lastVerifiedAt": "2026-11-12T07:29:34.434Z",
-   "market": "asia",
-   "offer": "LabEx 针对中国大陆地区用户推出双十一特惠活动，价格与黑色星期五相同，是全年唯一一次集中促销，也是全年折扣力度最大的一次。",
-   "offerEn": "LabEx has launched an exclusive Double 11 promotion for users in Mainland China, priced the same as Black Friday. It is the year's only concentrated promotion and offers the largest discount of the year.",
-   "offerZh": "LabEx 针对中国大陆地区用户推出双十一特惠活动，价格与黑色星期五相同，是全年唯一一次集中促销，也是全年折扣力度最大的一次。",
-   "officialUrl": "",
-   "regions": "中国大陆",
-   "regionsEn": "Mainland China",
-   "regionsZh": "中国大陆",
-   "riskEn": "",
-   "riskNote": "",
-   "riskZh": "",
-   "saved": false,
-   "sourceName": "fast.v2ex.com",
-   "sourceUrl": "https://fast.v2ex.com/t/1253996",
-   "startsAt": null,
-   "status": "active",
-   "steps": [
-    "打开官方链接",
-    "注册或登录 LabEx 账号",
-    "按页面指引参与双十一特惠活动"
-   ],
-   "stepsEn": [
-    "Open the official link",
-    "Register for or log in to a LabEx account",
-    "Follow the instructions on the page to join the Double 11 promotion"
-   ],
-   "stepsZh": [
-    "打开官方链接",
-    "注册或登录 LabEx 账号",
-    "按页面指引参与双十一特惠活动"
-   ],
-   "title": "[LabEx] 面向 Linux，DevOps，网络安全初学者的双十一特惠活动",
-   "titleEn": "[LabEx] Double 11 Special Offer for Beginners in Linux, DevOps and Cybersecurity",
-   "titleZh": "[LabEx] 面向 Linux，DevOps，网络安全初学者的双十一特惠活动",
-   "valueText": "",
-   "valueTextEn": "",
-   "valueTextZh": "",
-   "valueUsd": null,
-   "vendor": "LabEx",
-   "verified": false,
-   "linkType": "source",
-   "accessUrl": "https://fast.v2ex.com/t/1253996",
-   "regionCodes": [
-    "cn"
    ]
   },
   {
@@ -20245,64 +19213,6 @@
   },
   {
    "category": "ecommerce",
-   "conditions": "Source does not state eligibility or specific discount rates.",
-   "conditionsEn": "Source does not state eligibility or specific discount rates.",
-   "conditionsZh": "来源未注明参与资格或具体折扣幅度。",
-   "endsAt": null,
-   "firstSeenAt": "2026-11-10T11:30:53.705Z",
-   "freeType": "折扣优惠",
-   "lastVerifiedAt": "2026-11-11T23:29:10.254Z",
-   "market": "asia",
-   "offer": "Coupang's Double Eleven Sale discounts about 17,000 popular imported products.",
-   "offerEn": "Coupang's Double Eleven Sale discounts about 17,000 popular imported products.",
-   "offerZh": "Coupang 双十一大促对约 1.7 万件热门进口商品进行打折。",
-   "officialUrl": "",
-   "regions": "South Korea",
-   "regionsEn": "South Korea",
-   "regionsZh": "韩国",
-   "riskEn": "Specific discount rates are not stated in the source; check each product's final price on Coupang.",
-   "riskNote": "Specific discount rates are not stated in the source; check each product's final price on Coupang.",
-   "riskZh": "来源未注明具体折扣幅度，请在 Coupang 核对每件商品的最终价格。",
-   "saved": false,
-   "sourceName": "en.sedaily.com",
-   "sourceUrl": "https://en.sedaily.com/business/2026/11/01/coupang-launches-double-eleven-sale-on-17000-imported",
-   "startsAt": null,
-   "status": "active",
-   "steps": [
-    "Open the official link",
-    "Go to Coupang and find the Double Eleven Sale",
-    "Browse the discounted imported products",
-    "Add items to the cart and confirm the price at checkout"
-   ],
-   "stepsEn": [
-    "Open the official link",
-    "Go to Coupang and find the Double Eleven Sale",
-    "Browse the discounted imported products",
-    "Add items to the cart and confirm the price at checkout"
-   ],
-   "stepsZh": [
-    "打开官方链接",
-    "进入 Coupang 找到双十一大促",
-    "浏览打折的进口商品",
-    "将商品加入购物车并在结账时确认价格"
-   ],
-   "title": "Coupang Launches Double Eleven Sale on 17,000 Imported Products",
-   "titleEn": "Coupang Launches Double Eleven Sale on 17,000 Imported Products",
-   "titleZh": "Coupang 推出双十一大促：1.7 万件进口商品",
-   "valueText": "",
-   "valueTextEn": "",
-   "valueTextZh": "",
-   "valueUsd": null,
-   "vendor": "Coupang",
-   "verified": false,
-   "linkType": "source",
-   "accessUrl": "https://en.sedaily.com/business/2026/11/01/coupang-launches-double-eleven-sale-on-17000-imported",
-   "regionCodes": [
-    "kr"
-   ]
-  },
-  {
-   "category": "ecommerce",
    "conditions": "Wow membership required; discount applies to selected products. Source did not state the event end date.",
    "conditionsEn": "Wow membership required; discount applies to selected products. Source did not state the event end date.",
    "conditionsZh": "需为 Wow 会员；折扣适用于指定商品。来源未注明活动截止日期。",
@@ -23686,61 +22596,6 @@
    "conditionsEn": "Not specified in the source",
    "conditionsZh": "来源未注明",
    "endsAt": null,
-   "firstSeenAt": "2026-11-10T01:34:21.242Z",
-   "freeType": "真正免费",
-   "lastVerifiedAt": "2026-11-12T05:30:10.029Z",
-   "market": "asia",
-   "offer": "火山引擎在双11期间推出免费 Token 活动，具体 Token 数量来源未注明。",
-   "offerEn": "Volcengine is running a free Token campaign during Double 11; the specific number of Tokens is not specified in the source.",
-   "offerZh": "火山引擎在双11期间推出免费 Token 活动，具体 Token 数量来源未注明。",
-   "officialUrl": "",
-   "regions": "来源未注明",
-   "regionsEn": "Not specified in the source",
-   "regionsZh": "来源未注明",
-   "riskEn": "The number, validity period and scope of use of the free Tokens are not specified in the source; confirm the campaign rules before claiming, as expired Tokens may become invalid.",
-   "riskNote": "免费 Token 的数量、有效期和使用范围来源未注明，领取前应确认活动规则，过期 Token 可能失效。",
-   "riskZh": "免费 Token 的数量、有效期和使用范围来源未注明，领取前应确认活动规则，过期 Token 可能失效。",
-   "saved": false,
-   "sourceName": "post.smzdm.com",
-   "sourceUrl": "https://post.smzdm.com/p/a6z42x4n/",
-   "startsAt": null,
-   "status": "active",
-   "steps": [
-    "打开链接查看免费权益清单中火山引擎条目",
-    "按清单指引前往火山引擎双11活动页面",
-    "注册/登录后按页面指引领取免费 Token"
-   ],
-   "stepsEn": [
-    "Open the link and check the Volcengine entry in the free benefits list",
-    "Follow the list's instructions to go to the Volcengine Double 11 campaign page",
-    "After registering / logging in, follow the instructions on the page to claim free Tokens"
-   ],
-   "stepsZh": [
-    "打开链接查看免费权益清单中火山引擎条目",
-    "按清单指引前往火山引擎双11活动页面",
-    "注册/登录后按页面指引领取免费 Token"
-   ],
-   "title": "火山引擎双11免费 Token 活动",
-   "titleEn": "Volcengine Double 11 Free Token Campaign",
-   "titleZh": "火山引擎双11免费 Token 活动",
-   "valueText": "",
-   "valueTextEn": "",
-   "valueTextZh": "",
-   "valueUsd": null,
-   "vendor": "火山引擎",
-   "verified": false,
-   "linkType": "source",
-   "accessUrl": "https://post.smzdm.com/p/a6z42x4n/",
-   "regionCodes": [
-    "unspecified"
-   ]
-  },
-  {
-   "category": "ai",
-   "conditions": "来源未注明",
-   "conditionsEn": "Not specified in the source",
-   "conditionsZh": "来源未注明",
-   "endsAt": null,
    "firstSeenAt": "2026-11-10T01:34:21.221Z",
    "freeType": "真正免费",
    "lastVerifiedAt": "2026-11-12T03:31:57.438Z",
@@ -24909,61 +23764,6 @@
    "accessUrl": "http://www.itpeixun.cc/show-56817.html",
    "regionCodes": [
     "unspecified"
-   ]
-  },
-  {
-   "category": "cloud",
-   "conditions": "双11专场活动；续费同价；来源未注明其他资格条件。",
-   "conditionsEn": "Double 11 promotion; renewal at the same price; no other eligibility conditions specified in the source.",
-   "conditionsZh": "双11专场活动；续费同价；来源未注明其他资格条件。",
-   "endsAt": null,
-   "firstSeenAt": "2026-11-10T01:31:35.846Z",
-   "freeType": "折扣优惠",
-   "lastVerifiedAt": "2026-11-12T05:30:10.029Z",
-   "market": "asia",
-   "offer": "双11期间，阿里云 ECS 经济型 e 99 套餐 99 元/年，续费同价。",
-   "offerEn": "During Double 11, the Alibaba Cloud ECS Economy e 99 Plan is CNY 99/year, with renewal at the same price.",
-   "offerZh": "双11期间，阿里云 ECS 经济型 e 99 套餐 99 元/年，续费同价。",
-   "officialUrl": "",
-   "regions": "中国大陆",
-   "regionsEn": "Chinese mainland",
-   "regionsZh": "中国大陆",
-   "riskEn": "Paid plan; check the renewal terms.",
-   "riskNote": "付费产品，请留意续费规则。",
-   "riskZh": "付费产品，请留意续费规则。",
-   "saved": false,
-   "sourceName": "wehosts.cn",
-   "sourceUrl": "https://wehosts.cn/article/cloud-server-double11-2026",
-   "startsAt": null,
-   "status": "active",
-   "steps": [
-    "打开链接页面。",
-    "注册 / 登录阿里云账号。",
-    "按页面指引购买 ECS 经济型 e 99 套餐。"
-   ],
-   "stepsEn": [
-    "Open the linked page.",
-    "Register / sign in to an Alibaba Cloud account.",
-    "Purchase the ECS Economy e 99 Plan following the instructions on the page."
-   ],
-   "stepsZh": [
-    "打开链接页面。",
-    "注册 / 登录阿里云账号。",
-    "按页面指引购买 ECS 经济型 e 99 套餐。"
-   ],
-   "title": "阿里云 ECS 经济型 e 99 套餐",
-   "titleEn": "Alibaba Cloud ECS Economy e 99 Plan",
-   "titleZh": "阿里云 ECS 经济型 e 99 套餐",
-   "valueText": "99 元/年",
-   "valueTextEn": "CNY 99/year",
-   "valueTextZh": "99 元/年",
-   "valueUsd": null,
-   "vendor": "阿里云",
-   "verified": false,
-   "linkType": "source",
-   "accessUrl": "https://wehosts.cn/article/cloud-server-double11-2026",
-   "regionCodes": [
-    "cn"
    ]
   },
   {
