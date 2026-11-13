@@ -1,8 +1,8 @@
 {
- "generatedAt": "2026-11-13T11:54:43Z",
+ "generatedAt": "2026-11-13T13:54:50Z",
  "source": "GLOBAL DEAL HUNTER 情报中心",
  "version": 1,
- "count": 356,
+ "count": 364,
  "categories": [
   {
    "key": "ai",
@@ -681,7 +681,7 @@
    "endsAt": null,
    "firstSeenAt": "2026-11-11T07:34:28.127Z",
    "freeType": "混合优惠",
-   "lastVerifiedAt": "2026-11-12T11:29:20.573Z",
+   "lastVerifiedAt": "2026-11-13T13:29:08.842Z",
    "market": "global",
    "offer": "Up to $25,000 in startup credits with a 12-month runway, plus $30/month free forever.",
    "offerEn": "Up to $25,000 in startup credits with a 12-month runway, plus $30/month free forever.",
@@ -7702,6 +7702,64 @@
    ]
   },
   {
+   "category": "food",
+   "conditions": "Minimum spend of $60 per transaction; Scan-To-Pay with SimplyGo is required; only at Chinatown and Changi outlets",
+   "conditionsEn": "Minimum spend of $60 per transaction; Scan-To-Pay with SimplyGo is required; only at Chinatown and Changi outlets",
+   "conditionsZh": "单次消费满 $60；需使用 SimplyGo 扫码支付；仅限牛车水与樟宜门店",
+   "endsAt": "2026-12-31",
+   "firstSeenAt": "2026-11-13T01:38:52.045Z",
+   "freeType": "返现优惠",
+   "lastVerifiedAt": "2026-11-13T03:32:13.781Z",
+   "market": "asia",
+   "offer": "Enjoy 5% cashback and complimentary Salted Egg Chips when you Scan-To-Pay with a minimum spend of $60 at Chinatown and Changi outlets",
+   "offerEn": "Enjoy 5% cashback and complimentary Salted Egg Chips when you Scan-To-Pay with a minimum spend of $60 at Chinatown and Changi outlets",
+   "offerZh": "在牛车水与樟宜门店扫码支付满 $60，可享 5% 返现及免费咸蛋薯片",
+   "officialUrl": "",
+   "regions": "Singapore",
+   "regionsEn": "Singapore",
+   "regionsZh": "新加坡",
+   "riskEn": "Cashback terms and free-gift availability are subject to the promotion terms",
+   "riskNote": "Cashback terms and free-gift availability are subject to the promotion terms",
+   "riskZh": "返现规则与免费赠品供应以活动条款为准",
+   "saved": false,
+   "sourceName": "sg.everydayonsales.com",
+   "sourceUrl": "https://sg.everydayonsales.com/15-october-31-december-2026-simplygo-x-yum-cha-singapore-enjoy-5-cashback-free-salted-egg-chips-when-you-scan-to-pay-with-a-minimum-spend-of-60-at-chinatown-and-changi-outlets/",
+   "startsAt": "2026-10-15",
+   "status": "active",
+   "steps": [
+    "Visit a Yum Cha outlet in Chinatown or Changi",
+    "Spend at least $60",
+    "Pay by Scan-To-Pay with SimplyGo",
+    "Receive 5% cashback and the free Salted Egg Chips"
+   ],
+   "stepsEn": [
+    "Visit a Yum Cha outlet in Chinatown or Changi",
+    "Spend at least $60",
+    "Pay by Scan-To-Pay with SimplyGo",
+    "Receive 5% cashback and the free Salted Egg Chips"
+   ],
+   "stepsZh": [
+    "前往牛车水或樟宜的 Yum Cha 门店",
+    "消费满 $60",
+    "使用 SimplyGo 扫码支付",
+    "领取 5% 返现及免费咸蛋薯片"
+   ],
+   "title": "SimplyGo x Yum Cha Singapore: Enjoy 5% Cashback & Free Salted Egg Chips When You Scan-To-Pay with a Minimum Spend of $60 at Chinatown and Changi Outlets",
+   "titleEn": "SimplyGo x Yum Cha Singapore: Enjoy 5% Cashback & Free Salted Egg Chips When You Scan-To-Pay with a Minimum Spend of $60 at Chinatown and Changi Outlets",
+   "titleZh": "SimplyGo x Yum Cha 新加坡：扫码支付满 $60 享 5% 返现及免费咸蛋薯片",
+   "valueText": "5% cashback",
+   "valueTextEn": "5% cashback",
+   "valueTextZh": "5% 返现",
+   "valueUsd": null,
+   "vendor": "SimplyGo x Yum Cha",
+   "verified": false,
+   "linkType": "source",
+   "accessUrl": "https://sg.everydayonsales.com/15-october-31-december-2026-simplygo-x-yum-cha-singapore-enjoy-5-cashback-free-salted-egg-chips-when-you-scan-to-pay-with-a-minimum-spend-of-60-at-chinatown-and-changi-outlets/",
+   "regionCodes": [
+    "sg"
+   ]
+  },
+  {
    "category": "entertainment",
    "conditions": "仅限 O2 Priority 会员；新兑换码自 11 月 6 日起每周发放，来源未注明其他限制。",
    "conditionsEn": "O2 Priority members only; new codes drop weekly from 6 November. No other restrictions stated in the source.",
@@ -8542,6 +8600,61 @@
    ]
   },
   {
+   "category": "bank",
+   "conditions": "Customers who open a new account and pay a water bill on PVConnect; other eligibility details were not stated in the source.",
+   "conditionsEn": "Customers who open a new account and pay a water bill on PVConnect; other eligibility details were not stated in the source.",
+   "conditionsZh": "需新开账户并在 PVConnect 缴纳水费；来源未注明其他资格细则。",
+   "endsAt": null,
+   "firstSeenAt": "2026-11-12T15:34:10.443Z",
+   "freeType": "混合优惠",
+   "lastVerifiedAt": "2026-11-13T02:49:52.011Z",
+   "market": "asia",
+   "offer": "Customers have a chance to receive offers of up to 80,000 VND when opening a new account and paying a water bill conveniently on PVConnect.",
+   "offerEn": "Customers have a chance to receive offers of up to 80,000 VND when opening a new account and paying a water bill conveniently on PVConnect.",
+   "offerZh": "客户新开账户并在 PVConnect 便捷缴纳水费，有机会获得最高 80,000 越南盾优惠。",
+   "officialUrl": "",
+   "regions": "Vietnam",
+   "regionsEn": "Vietnam",
+   "regionsZh": "越南",
+   "riskEn": "This is a third-party news source, not the bank's official page; the offer amount, quota and validity are subject to PVConnect / the bank's final terms.",
+   "riskNote": "This is a third-party news source, not the bank's official page; the offer amount, quota and validity are subject to PVConnect / the bank's final terms.",
+   "riskZh": "此为第三方新闻来源，非银行官方页面；优惠金额、名额与有效期以 PVConnect／银行最终条款为准。",
+   "saved": false,
+   "sourceName": "nguoiduatin.vn",
+   "sourceUrl": "https://www.nguoiduatin.vn/thanh-toan-tien-nuoc-thuan-tien-tren-pvconnect-uu-dai-toi-80000-dong-204261112112816049.htm",
+   "startsAt": null,
+   "status": "active",
+   "steps": [
+    "Open the source link and read the offer details",
+    "Open a new account on PVConnect",
+    "Pay a water bill on PVConnect as instructed to receive the offer"
+   ],
+   "stepsEn": [
+    "Open the source link and read the offer details",
+    "Open a new account on PVConnect",
+    "Pay a water bill on PVConnect as instructed to receive the offer"
+   ],
+   "stepsZh": [
+    "打开来源链接，查看优惠详情",
+    "在 PVConnect 新开账户",
+    "按指引在 PVConnect 缴纳水费以获得优惠"
+   ],
+   "title": "Thanh toán tiền nước thuận tiện trên PVConnect, ưu đãi tới 80.000 đồng",
+   "titleEn": "Pay water bills conveniently on PVConnect, get up to VND 80,000 in offers",
+   "titleZh": "在 PVConnect 便捷缴纳水费，优惠最高达 80,000 越南盾",
+   "valueText": "Up to 80,000 VND",
+   "valueTextEn": "Up to 80,000 VND",
+   "valueTextZh": "最高 80,000 越南盾",
+   "valueUsd": null,
+   "vendor": "PVConnect",
+   "verified": false,
+   "linkType": "source",
+   "accessUrl": "https://www.nguoiduatin.vn/thanh-toan-tien-nuoc-thuan-tien-tren-pvconnect-uu-dai-toi-80000-dong-204261112112816049.htm",
+   "regionCodes": [
+    "vn"
+   ]
+  },
+  {
    "category": "cloud",
    "conditions": "完全免费，无月费；美国节点，1G NVMe 硬盘、每月 50G 流量，DirectAdmin 面板，免费 SSL；其他资格与限制来源未注明。",
    "conditionsEn": "Completely free with no monthly fee; US hosting with 1GB NVMe storage, 50GB of traffic per month, a DirectAdmin panel, and free SSL; other eligibility and limits are not specified in the source.",
@@ -8817,6 +8930,64 @@
    "accessUrl": "https://classpass.com/refer/G1STIM9B17",
    "regionCodes": [
     "unspecified"
+   ]
+  },
+  {
+   "category": "food",
+   "conditions": "Available for foodpanda delivery in Singapore; promotion runs 2-29 November 2026; other terms not specified in the source.",
+   "conditionsEn": "Available for foodpanda delivery in Singapore; promotion runs 2-29 November 2026; other terms not specified in the source.",
+   "conditionsZh": "仅限新加坡地区通过 foodpanda 外卖下单；活动时间为2026年11月2日至29日；来源未注明其他条件。",
+   "endsAt": "2026-11-29",
+   "firstSeenAt": "2026-11-12T11:31:07.123Z",
+   "freeType": "折扣优惠",
+   "lastVerifiedAt": "2026-11-13T07:33:23.197Z",
+   "market": "asia",
+   "offer": "From 2 to 29 November 2026, Yakiniku LIKE Singapore offers $6 off foodpanda delivery orders, with delivery from $2.99.",
+   "offerEn": "From 2 to 29 November 2026, Yakiniku LIKE Singapore offers $6 off foodpanda delivery orders, with delivery from $2.99.",
+   "offerZh": "2026年11月2日至29日，新加坡 Yakiniku LIKE 通过 foodpanda 外卖立减 $6，配送费 $2.99 起。",
+   "officialUrl": "",
+   "regions": "Singapore",
+   "regionsEn": "Singapore",
+   "regionsZh": "新加坡",
+   "riskEn": "Offer is valid only during 2-29 November 2026 and for foodpanda delivery.",
+   "riskNote": "Offer is valid only during 2-29 November 2026 and for foodpanda delivery.",
+   "riskZh": "优惠仅在2026年11月2日至29日期间、通过 foodpanda 外卖有效。",
+   "saved": false,
+   "sourceName": "sg.everydayonsales.com",
+   "sourceUrl": "https://sg.everydayonsales.com/2-29-november-2026-yakiniku-like-singapore-6-off-foodpanda-delivery-promotion-enjoy-your-favourite-japanese-bbq-at-home-from-2-99-delivery/",
+   "startsAt": "2026-11-02",
+   "status": "active",
+   "steps": [
+    "Open the official link",
+    "Open foodpanda and find Yakiniku LIKE Singapore",
+    "Place a delivery order during the promotion period",
+    "Apply the $6-off promotion at checkout if shown"
+   ],
+   "stepsEn": [
+    "Open the official link",
+    "Open foodpanda and find Yakiniku LIKE Singapore",
+    "Place a delivery order during the promotion period",
+    "Apply the $6-off promotion at checkout if shown"
+   ],
+   "stepsZh": [
+    "打开官方链接",
+    "打开 foodpanda，找到新加坡 Yakiniku LIKE",
+    "在活动期间下外卖订单",
+    "结账时按页面显示使用 $6 优惠"
+   ],
+   "title": "2-29 November 2026: Yakiniku LIKE Singapore $6 OFF Foodpanda Delivery Promotion – Enjoy Your Favourite Japanese BBQ at Home from $2.99 Delivery",
+   "titleEn": "2-29 November 2026: Yakiniku LIKE Singapore $6 OFF Foodpanda Delivery Promotion – Enjoy Your Favourite Japanese BBQ at Home from $2.99 Delivery",
+   "titleZh": "2026年11月2-29日：新加坡 Yakiniku LIKE foodpanda 外卖立减 $6，配送费 $2.99 起",
+   "valueText": "$6 off",
+   "valueTextEn": "$6 off",
+   "valueTextZh": "立减 $6",
+   "valueUsd": null,
+   "vendor": "Yakiniku LIKE",
+   "verified": false,
+   "linkType": "source",
+   "accessUrl": "https://sg.everydayonsales.com/2-29-november-2026-yakiniku-like-singapore-6-off-foodpanda-delivery-promotion-enjoy-your-favourite-japanese-bbq-at-home-from-2-99-delivery/",
+   "regionCodes": [
+    "sg"
    ]
   },
   {
@@ -9099,6 +9270,61 @@
    "accessUrl": "https://www.hkexpress.com/en/Offers/campaigns/13_anniversary",
    "regionCodes": [
     "other"
+   ]
+  },
+  {
+   "category": "ecommerce",
+   "conditions": "需购买指定 Intel 笔记本套装；来源未注明其他资格条件。",
+   "conditionsEn": "Purchase of a qualifying Intel notebook bundle is required; no other eligibility conditions specified in the source.",
+   "conditionsZh": "需购买指定 Intel 笔记本套装；来源未注明其他资格条件。",
+   "endsAt": "2026-11-15",
+   "firstSeenAt": "2026-11-12T09:35:31.765Z",
+   "freeType": "混合优惠",
+   "lastVerifiedAt": "2026-11-12T23:33:55.821Z",
+   "market": "asia",
+   "offer": "Buy a qualifying Intel notebook bundle at Challenger Singapore and get a FREE 15.6-inch portable monitor.",
+   "offerEn": "Buy a qualifying Intel notebook bundle at Challenger Singapore and get a FREE 15.6-inch portable monitor.",
+   "offerZh": "在新加坡 Challenger 购买指定 Intel 笔记本套装，可免费获赠一台 15.6 英寸便携显示器。",
+   "officialUrl": "",
+   "regions": "新加坡",
+   "regionsEn": "Singapore",
+   "regionsZh": "新加坡",
+   "riskEn": "The gift applies to qualifying bundles only; details are subject to the page / store.",
+   "riskNote": "赠品仅适用于指定套装，详情以页面/门店为准。",
+   "riskZh": "赠品仅适用于指定套装，详情以页面/门店为准。",
+   "saved": false,
+   "sourceName": "sg.everydayonsales.com",
+   "sourceUrl": "https://sg.everydayonsales.com/tag/intel-notebook-deals/",
+   "startsAt": "2026-11-05",
+   "status": "active",
+   "steps": [
+    "打开链接查看促销详情",
+    "选购指定 Intel 笔记本套装",
+    "按页面指引领取免费便携显示器"
+   ],
+   "stepsEn": [
+    "Open the link to check the promotion details",
+    "Choose a qualifying Intel notebook bundle",
+    "Follow the page instructions to claim the free portable monitor"
+   ],
+   "stepsZh": [
+    "打开链接查看促销详情",
+    "选购指定 Intel 笔记本套装",
+    "按页面指引领取免费便携显示器"
+   ],
+   "title": "Challenger Singapore Intel Notebook Bundle Promotion",
+   "titleEn": "Challenger Singapore Intel Notebook Bundle Promotion",
+   "titleZh": "Challenger Singapore Intel 笔记本套装促销",
+   "valueText": "Free 15.6\" monitor",
+   "valueTextEn": "Free 15.6\" monitor",
+   "valueTextZh": "免费 15.6 英寸显示器",
+   "valueUsd": null,
+   "vendor": "Challenger Singapore",
+   "verified": false,
+   "linkType": "source",
+   "accessUrl": "https://sg.everydayonsales.com/tag/intel-notebook-deals/",
+   "regionCodes": [
+    "sg"
    ]
   },
   {
@@ -9600,6 +9826,61 @@
    "accessUrl": "https://www.samsung.com/hk_en/apps/samsung-wallet/offers/",
    "regionCodes": [
     "hk"
+   ]
+  },
+  {
+   "category": "other",
+   "conditions": "Purchase a qualifying Intel notebook bundle in Singapore, 5–15 November 2026. Other terms were not specified in the source.",
+   "conditionsEn": "Purchase a qualifying Intel notebook bundle in Singapore, 5–15 November 2026. Other terms were not specified in the source.",
+   "conditionsZh": "2026 年 11 月 5 日至 15 日在新加坡购买符合条件的 Intel 笔记本套装。来源未注明其他条款。",
+   "endsAt": "2026-11-15",
+   "firstSeenAt": "2026-11-12T05:31:44.693Z",
+   "freeType": "混合优惠",
+   "lastVerifiedAt": "2026-11-13T07:29:24.970Z",
+   "market": "asia",
+   "offer": "Buy a qualifying Intel notebook bundle at Challenger Singapore and get a free 15.6-inch portable monitor.",
+   "offerEn": "Buy a qualifying Intel notebook bundle at Challenger Singapore and get a free 15.6-inch portable monitor.",
+   "offerZh": "在新加坡 Challenger 购买符合条件的 Intel 笔记本套装，可获赠一台免费 15.6 英寸便携显示器。",
+   "officialUrl": "",
+   "regions": "Singapore",
+   "regionsEn": "Singapore",
+   "regionsZh": "新加坡",
+   "riskEn": "A qualifying notebook bundle purchase is required; check bundle eligibility before buying.",
+   "riskNote": "A qualifying notebook bundle purchase is required; check bundle eligibility before buying.",
+   "riskZh": "需购买符合条件的笔记本套装；购买前请确认套装资格。",
+   "saved": false,
+   "sourceName": "sg.everydayonsales.com",
+   "sourceUrl": "https://sg.everydayonsales.com/tag/free-portable-monitor/",
+   "startsAt": "2026-11-05",
+   "status": "active",
+   "steps": [
+    "Open the source link and check the qualifying Intel notebook bundles.",
+    "Purchase a qualifying bundle at Challenger Singapore between 5 and 15 November 2026.",
+    "Claim the free 15.6-inch portable monitor following the promotion instructions."
+   ],
+   "stepsEn": [
+    "Open the source link and check the qualifying Intel notebook bundles.",
+    "Purchase a qualifying bundle at Challenger Singapore between 5 and 15 November 2026.",
+    "Claim the free 15.6-inch portable monitor following the promotion instructions."
+   ],
+   "stepsZh": [
+    "打开来源链接，查看符合条件的 Intel 笔记本套装。",
+    "在 2026 年 11 月 5 日至 15 日期间于新加坡 Challenger 购买符合条件的套装。",
+    "按促销指引领取免费 15.6 英寸便携显示器。"
+   ],
+   "title": "Challenger Singapore Intel Notebook Bundle Promotion – Get a FREE 15.6-Inch Portable Monitor",
+   "titleEn": "Challenger Singapore Intel Notebook Bundle Promotion – Get a FREE 15.6-Inch Portable Monitor",
+   "titleZh": "新加坡 Challenger Intel 笔记本套装促销：赠送免费 15.6 英寸便携显示器",
+   "valueText": "Free portable monitor",
+   "valueTextEn": "Free portable monitor",
+   "valueTextZh": "免费便携显示器",
+   "valueUsd": null,
+   "vendor": "Challenger Singapore",
+   "verified": false,
+   "linkType": "source",
+   "accessUrl": "https://sg.everydayonsales.com/tag/free-portable-monitor/",
+   "regionCodes": [
+    "sg"
    ]
   },
   {
@@ -10382,6 +10663,122 @@
    "accessUrl": "https://www.asiae.co.kr/en/article/economic-general/2026111208370228415",
    "regionCodes": [
     "unspecified"
+   ]
+  },
+  {
+   "category": "cnplatform",
+   "conditions": "$94 現金券僅限新用戶；10% 回贈需使用指定支付方式，具體門檻與適用範圍以頁面為準。",
+   "conditionsEn": "The $94 cash coupon is for new users only; the 10% cashback requires a designated payment method. Exact thresholds and scope are as shown on the page.",
+   "conditionsZh": "$94 現金券僅限新用戶；10% 回贈需使用指定支付方式，具體門檻與適用範圍以頁面為準。",
+   "endsAt": null,
+   "firstSeenAt": "2026-11-12T03:09:58.232Z",
+   "freeType": "混合优惠",
+   "lastVerifiedAt": "2026-11-13T03:32:13.781Z",
+   "market": "asia",
+   "offer": "香港用戶新用戶可領 $94 現金券，活用百億補貼選購，並選對信用卡可賺盡 10% 回贈，同時可避開 5% 手續費。",
+   "offerEn": "For Hong Kong users: new users can claim a $94 cash coupon, shop with the billion-subsidy programme, earn up to 10% cashback with the right credit card, and avoid the 5% handling fee.",
+   "offerZh": "香港用戶新用戶可領 $94 現金券，活用百億補貼選購，並選對信用卡可賺盡 10% 回贈，同時可避開 5% 手續費。",
+   "officialUrl": "",
+   "regions": "中國香港",
+   "regionsEn": "Hong Kong, China",
+   "regionsZh": "中國香港",
+   "riskEn": "Cash coupons and cashback may have thresholds and expiry dates; for cross-border shopping, check handling fees and return rules.",
+   "riskNote": "現金券與回贈可能有使用門檻與有效期；跨境購物需留意手續費與退換貨規則。",
+   "riskZh": "現金券與回贈可能有使用門檻與有效期；跨境購物需留意手續費與退換貨規則。",
+   "saved": false,
+   "sourceName": "miss-card.com",
+   "sourceUrl": "https://miss-card.com/%E6%8B%BC%E5%A4%9A%E5%A4%9A%E5%84%AA%E6%83%A0/",
+   "startsAt": null,
+   "status": "active",
+   "steps": [
+    "打開來源頁面查看 $94 新用戶現金券的領取方法",
+    "按指引在拼多多領取現金券並瀏覽百億補貼商品",
+    "選購時選擇可享 10% 回贈的支付方式",
+    "下單前確認手續費及優惠使用條件後完成支付"
+   ],
+   "stepsEn": [
+    "Open the source page to see how to claim the $94 new-user cash coupon",
+    "Claim the coupon on Pinduoduo as instructed and browse billion-subsidy products",
+    "Choose a payment method that earns 10% cashback when shopping",
+    "Check the handling fee and offer terms before completing the payment"
+   ],
+   "stepsZh": [
+    "打開來源頁面查看 $94 新用戶現金券的領取方法",
+    "按指引在拼多多領取現金券並瀏覽百億補貼商品",
+    "選購時選擇可享 10% 回贈的支付方式",
+    "下單前確認手續費及優惠使用條件後完成支付"
+   ],
+   "title": "拼多多優惠 2026",
+   "titleEn": "Pinduoduo Offers 2026",
+   "titleZh": "拼多多優惠 2026",
+   "valueText": "$94 現金券",
+   "valueTextEn": "$94 cash coupon",
+   "valueTextZh": "$94 現金券",
+   "valueUsd": null,
+   "vendor": "拼多多",
+   "verified": false,
+   "linkType": "source",
+   "accessUrl": "https://miss-card.com/%E6%8B%BC%E5%A4%9A%E5%A4%9A%E5%84%AA%E6%83%A0/",
+   "regionCodes": [
+    "hk"
+   ]
+  },
+  {
+   "category": "cnplatform",
+   "conditions": "適用於淘寶／天貓；優惠碼需在下單時輸入，部分支付優惠與免運費需使用指定支付方式（如 HSBC、中銀、AlipayHK、PayMe），具體以頁面為準。",
+   "conditionsEn": "Valid on Taobao / Tmall; enter the promo code at checkout. Some payment offers and free shipping require a designated payment method (such as HSBC, Bank of China, AlipayHK or PayMe); details are as shown on the page.",
+   "conditionsZh": "適用於淘寶／天貓；優惠碼需在下單時輸入，部分支付優惠與免運費需使用指定支付方式（如 HSBC、中銀、AlipayHK、PayMe），具體以頁面為準。",
+   "endsAt": null,
+   "firstSeenAt": "2026-11-12T03:09:58.206Z",
+   "freeType": "折扣优惠",
+   "lastVerifiedAt": "2026-11-13T07:33:23.197Z",
+   "market": "asia",
+   "offer": "淘寶雙11優惠碼合集（天貓通用）：活動由 2026 年 10 月 15 日晚上 8 點率先開啟預售，優惠碼可與信用卡、AlipayHK、PayMe 等支付優惠及免運費疊加使用。",
+   "offerEn": "Taobao Double 11 promo code collection (valid on Tmall): presale starts at 8 PM on 15 October 2026. Promo codes can be stacked with credit-card, AlipayHK and PayMe payment offers and free shipping.",
+   "offerZh": "淘寶雙11優惠碼合集（天貓通用）：活動由 2026 年 10 月 15 日晚上 8 點率先開啟預售，優惠碼可與信用卡、AlipayHK、PayMe 等支付優惠及免運費疊加使用。",
+   "officialUrl": "",
+   "regions": "中國香港",
+   "regionsEn": "Hong Kong, China",
+   "regionsZh": "中國香港",
+   "riskEn": "Promo codes may have validity periods and minimum-spend thresholds; payment cashback is subject to the bank or payment platform rules.",
+   "riskNote": "優惠碼可能有時效與使用門檻，支付回贈以銀行／支付平台規則為準。",
+   "riskZh": "優惠碼可能有時效與使用門檻，支付回贈以銀行／支付平台規則為準。",
+   "saved": false,
+   "sourceName": "mrmiles.hk",
+   "sourceUrl": "https://www.mrmiles.hk/taobao-code/",
+   "startsAt": "2026-10-15",
+   "status": "active",
+   "steps": [
+    "打開官方連結查看淘寶雙11優惠碼合集及輸入方法",
+    "選擇適用的優惠碼並複製",
+    "在淘寶／天貓選購商品並在下單時輸入優惠碼",
+    "選擇適用的支付方式結算，確認折扣與免運費已生效"
+   ],
+   "stepsEn": [
+    "Open the official link to view the Taobao Double 11 promo code collection and how to enter the codes",
+    "Choose an applicable promo code and copy it",
+    "Shop on Taobao / Tmall and enter the promo code at checkout",
+    "Choose an applicable payment method and confirm that the discount and free shipping have been applied"
+   ],
+   "stepsZh": [
+    "打開官方連結查看淘寶雙11優惠碼合集及輸入方法",
+    "選擇適用的優惠碼並複製",
+    "在淘寶／天貓選購商品並在下單時輸入優惠碼",
+    "選擇適用的支付方式結算，確認折扣與免運費已生效"
+   ],
+   "title": "淘寶雙11優惠碼（天貓通用）",
+   "titleEn": "Taobao Double 11 Promo Codes (Valid on Tmall)",
+   "titleZh": "淘寶雙11優惠碼（天貓通用）",
+   "valueText": "",
+   "valueTextEn": "",
+   "valueTextZh": "",
+   "valueUsd": null,
+   "vendor": "淘宝",
+   "verified": false,
+   "linkType": "source",
+   "accessUrl": "https://www.mrmiles.hk/taobao-code/",
+   "regionCodes": [
+    "hk"
    ]
   },
   {
@@ -11626,7 +12023,7 @@
    "endsAt": null,
    "firstSeenAt": "2026-11-11T17:33:27.164Z",
    "freeType": "真正免费",
-   "lastVerifiedAt": "2026-11-12T11:29:20.573Z",
+   "lastVerifiedAt": "2026-11-13T13:29:08.842Z",
    "market": "asia",
    "offer": "Binggrae 联同 AIRSIM 免费送出 1,000 张 AIRSIM 旅游上网卡，每张含 $20 储值额。",
    "offerEn": "Binggrae and AIRSIM are giving away 1,000 free AIRSIM travel data cards, each including $20 credit.",
@@ -11784,6 +12181,61 @@
    "accessUrl": "https://www.playstation.com/en-ca/deals/black-friday/?emcid=sp-pl-517125&dclid=CJfF9OGD_YkDFS8r-QAd0rkXNw#subscriptions",
    "regionCodes": [
     "in"
+   ]
+  },
+  {
+   "category": "food",
+   "conditions": "Exclusively on Grab; promotion runs 3–15 November 2026; other terms not stated in the source.",
+   "conditionsEn": "Exclusively on Grab; promotion runs 3–15 November 2026; other terms not stated in the source.",
+   "conditionsZh": "仅限 Grab 平台；活动时间为 2026 年 11 月 3 日至 15 日；来源未注明其他条件。",
+   "endsAt": "2026-11-15",
+   "firstSeenAt": "2026-11-11T17:33:26.145Z",
+   "freeType": "混合优惠",
+   "lastVerifiedAt": "2026-11-13T01:38:50.462Z",
+   "market": "asia",
+   "offer": "Jinjja Chicken Singapore offers $8 value meals exclusively on Grab from 3 to 15 November 2026, with free delivery.",
+   "offerEn": "Jinjja Chicken Singapore offers $8 value meals exclusively on Grab from 3 to 15 November 2026, with free delivery.",
+   "offerZh": "新加坡 Jinjja Chicken 于 2026 年 11 月 3 日至 15 日在 Grab 独家推出 8 新元超值套餐，并免配送费。",
+   "officialUrl": "",
+   "regions": "Singapore",
+   "regionsEn": "Singapore",
+   "regionsZh": "新加坡",
+   "riskEn": "",
+   "riskNote": "",
+   "riskZh": "",
+   "saved": false,
+   "sourceName": "sg.everydayonsales.com",
+   "sourceUrl": "https://sg.everydayonsales.com/3-15-november-2026-jinjja-chicken-singapore-enjoy-8-value-meals-with-exclusive-grab-deals-and-free-delivery/",
+   "startsAt": "2026-11-03",
+   "status": "active",
+   "steps": [
+    "Open the link to view the promotion details",
+    "Open Grab and find Jinjja Chicken Singapore",
+    "Order an $8 value meal and enjoy free delivery as instructed on the page"
+   ],
+   "stepsEn": [
+    "Open the link to view the promotion details",
+    "Open Grab and find Jinjja Chicken Singapore",
+    "Order an $8 value meal and enjoy free delivery as instructed on the page"
+   ],
+   "stepsZh": [
+    "打开链接查看活动详情",
+    "打开 Grab，找到新加坡 Jinjja Chicken",
+    "点单 8 新元超值套餐，并按页面指引享受免配送费"
+   ],
+   "title": "3-15 November 2026: Jinjja Chicken Singapore: Enjoy $8 Value Meals with Exclusive Grab Deals and Free Delivery",
+   "titleEn": "3-15 November 2026: Jinjja Chicken Singapore: Enjoy $8 Value Meals with Exclusive Grab Deals and Free Delivery",
+   "titleZh": "2026 年 11 月 3 日至 15 日：新加坡 Jinjja Chicken 在 Grab 独家享 8 新元超值套餐并免配送费",
+   "valueText": "$8 value meals",
+   "valueTextEn": "$8 value meals",
+   "valueTextZh": "8 新元超值套餐",
+   "valueUsd": null,
+   "vendor": "Jinjja Chicken",
+   "verified": false,
+   "linkType": "source",
+   "accessUrl": "https://sg.everydayonsales.com/3-15-november-2026-jinjja-chicken-singapore-enjoy-8-value-meals-with-exclusive-grab-deals-and-free-delivery/",
+   "regionCodes": [
+    "sg"
    ]
   },
   {
@@ -13294,61 +13746,6 @@
    ]
   },
   {
-   "category": "bank",
-   "conditions": "Not specified in source.",
-   "conditionsEn": "Not specified in source.",
-   "conditionsZh": "来源未注明",
-   "endsAt": null,
-   "firstSeenAt": "2026-11-11T09:34:09.152Z",
-   "freeType": "混合优惠",
-   "lastVerifiedAt": "2026-11-12T19:29:36.898Z",
-   "market": "western",
-   "offer": "£20 free cash for Zopa.",
-   "offerEn": "£20 free cash for Zopa.",
-   "offerZh": "Zopa 享 20 英镑免费现金。",
-   "officialUrl": "",
-   "regions": "United Kingdom",
-   "regionsEn": "United Kingdom",
-   "regionsZh": "英国",
-   "riskEn": "Reward subject to the terms on the source page; account-opening eligibility applies.",
-   "riskNote": "Reward subject to the terms on the source page; account-opening eligibility applies.",
-   "riskZh": "奖励以来源页面条款为准，开户需符合资格要求。",
-   "saved": false,
-   "sourceName": "quidsy.com",
-   "sourceUrl": "https://quidsy.com/offers/zopa/10-cash-bonus",
-   "startsAt": null,
-   "status": "active",
-   "steps": [
-    "Open the source link",
-    "Register or sign in to Zopa as instructed on the page",
-    "Follow the instructions on the page to participate"
-   ],
-   "stepsEn": [
-    "Open the source link",
-    "Register or sign in to Zopa as instructed on the page",
-    "Follow the instructions on the page to participate"
-   ],
-   "stepsZh": [
-    "打开来源链接",
-    "按页面指引注册或登录 Zopa",
-    "按页面指引参与活动"
-   ],
-   "title": "Zopa: £20 Free Cash",
-   "titleEn": "Zopa: £20 Free Cash",
-   "titleZh": "Zopa：20 英镑免费现金",
-   "valueText": "£20 free cash",
-   "valueTextEn": "£20 free cash",
-   "valueTextZh": "20 英镑免费现金",
-   "valueUsd": null,
-   "vendor": "Zopa",
-   "verified": false,
-   "linkType": "source",
-   "accessUrl": "https://quidsy.com/offers/zopa/10-cash-bonus",
-   "regionCodes": [
-    "gb"
-   ]
-  },
-  {
    "category": "lifestyle",
    "conditions": "Offer applies to the Bangkok launch; other eligibility terms not specified in source.",
    "conditionsEn": "Offer applies to the Bangkok launch; other eligibility terms not specified in source.",
@@ -13569,64 +13966,6 @@
    ]
   },
   {
-   "category": "ai",
-   "conditions": "仅限学生。来源未注明具体的学生验证方式、适用地区或续费安排。",
-   "conditionsEn": "Students only. Source does not state the exact student-verification method, applicable region, or renewal terms.",
-   "conditionsZh": "仅限学生。来源未注明具体的学生验证方式、适用地区或续费安排。",
-   "endsAt": null,
-   "firstSeenAt": "2026-11-11T09:34:06.065Z",
-   "freeType": "免费试用",
-   "lastVerifiedAt": "2026-11-11T09:34:05.753Z",
-   "market": "asia",
-   "offer": "学生可免费领取豆包订阅 3 个月。",
-   "offerEn": "Students can get a free Doubao subscription for 3 months.",
-   "offerZh": "学生可免费领取豆包订阅 3 个月。",
-   "officialUrl": "https://help.openai.com/en/articles/20001493-chatgpt-back-to-school-offer-for-students",
-   "regions": "来源未注明",
-   "regionsEn": "Not specified in source",
-   "regionsZh": "来源未注明",
-   "riskEn": "The free period may end or renew at the regular price after 3 months; check the renewal terms.",
-   "riskNote": "免费期结束后可能恢复原价或自动续费，请注意到期时间。",
-   "riskZh": "免费期结束后可能恢复原价或自动续费，请注意到期时间。",
-   "saved": false,
-   "sourceName": "acmefree.com",
-   "sourceUrl": "https://www.acmefree.com/posts/ai-membership-price-comparison-2026/",
-   "startsAt": null,
-   "status": "active",
-   "steps": [
-    "打开优惠汇总页面",
-    "按页面指引进入豆包学生优惠",
-    "完成学生身份验证",
-    "注册/登录后领取免费 3 个月订阅"
-   ],
-   "stepsEn": [
-    "Open the offer summary page",
-    "Follow the on-page guidance to the Doubao student offer",
-    "Complete student verification",
-    "Register / sign in and claim the free 3-month subscription"
-   ],
-   "stepsZh": [
-    "打开优惠汇总页面",
-    "按页面指引进入豆包学生优惠",
-    "完成学生身份验证",
-    "注册/登录后领取免费 3 个月订阅"
-   ],
-   "title": "豆包学生免费订阅 3 个月",
-   "titleEn": "Doubao Free Student Subscription for 3 Months",
-   "titleZh": "豆包学生免费订阅 3 个月",
-   "valueText": "免费 3 个月",
-   "valueTextEn": "3 months free",
-   "valueTextZh": "免费 3 个月",
-   "valueUsd": null,
-   "vendor": "豆包",
-   "verified": true,
-   "linkType": "official",
-   "accessUrl": "https://help.openai.com/en/articles/20001493-chatgpt-back-to-school-offer-for-students",
-   "regionCodes": [
-    "unspecified"
-   ]
-  },
-  {
    "category": "crypto",
    "conditions": "需在 Bybit 账户中持有 USD1；无需质押锁仓；来源未注明最低持仓金额、地区及 KYC 等其他条件，活动结束日期在摘要中未完整显示。",
    "conditionsEn": "You must hold USD1 in a Bybit account; no staking lock-up is required. The source does not state a minimum holding amount, region, KYC or other conditions, and the end date is not fully shown in the excerpt.",
@@ -13802,7 +14141,7 @@
    "endsAt": null,
    "firstSeenAt": "2026-11-11T09:30:31.735Z",
    "freeType": "返现优惠",
-   "lastVerifiedAt": "2026-11-12T12:51:03.197Z",
+   "lastVerifiedAt": "2026-11-13T13:29:08.842Z",
    "market": "asia",
    "offer": "네이버페이 얼굴결제로 결제하면 최대 20% 적립 혜택을 받을 수 있다. 높은 적립률은 한시적 행사이다.",
    "offerEn": "Pay with Naver Pay face payment to earn up to 20% back in points; the high earn rate is a limited-time promotion.",
@@ -14416,6 +14755,61 @@
    "verified": false,
    "linkType": "source",
    "accessUrl": "https://airdropbuzz.com/airdrop/titan-exchange-airdrop-guide",
+   "regionCodes": [
+    "unspecified"
+   ]
+  },
+  {
+   "category": "crypto",
+   "conditions": "Eligibility criteria are described in the guide; the search summary does not state the specific qualifying actions.",
+   "conditionsEn": "Eligibility criteria are described in the guide; the search summary does not state the specific qualifying actions.",
+   "conditionsZh": "资格标准见指南页面；搜索摘要未注明具体资格条件。",
+   "endsAt": null,
+   "firstSeenAt": "2026-11-11T07:34:27.691Z",
+   "freeType": "真正免费",
+   "lastVerifiedAt": "2026-11-13T11:29:19.090Z",
+   "market": "global",
+   "offer": "Push Chain is allocating 10% to the community distribution; the guide explains who qualifies.",
+   "offerEn": "Push Chain is allocating 10% to the community distribution; the guide explains who qualifies.",
+   "offerZh": "Push Chain 将 10% 分配给社区，该指南说明了谁有资格获得分配。",
+   "officialUrl": "",
+   "regions": "来源未注明",
+   "regionsEn": "Not specified in source",
+   "regionsZh": "来源未注明",
+   "riskEn": "Token allocation and eligibility may change; airdrop value is uncertain.",
+   "riskNote": "Token allocation and eligibility may change; airdrop value is uncertain.",
+   "riskZh": "代币分配与资格条件可能变化，空投价值不确定。",
+   "saved": false,
+   "sourceName": "earlyairdrops.com",
+   "sourceUrl": "https://earlyairdrops.com/push-chain-airdrop-guide-who-qualifies-for-the-10-community-distribution/",
+   "startsAt": null,
+   "status": "active",
+   "steps": [
+    "Open the official link",
+    "Check the eligibility criteria in the guide",
+    "Follow the guide to complete the qualifying actions"
+   ],
+   "stepsEn": [
+    "Open the official link",
+    "Check the eligibility criteria in the guide",
+    "Follow the guide to complete the qualifying actions"
+   ],
+   "stepsZh": [
+    "打开链接",
+    "查看指南中的资格标准",
+    "按指南完成符合资格的操作"
+   ],
+   "title": "Push Chain Airdrop Guide: Who Qualifies for the 10% Allocation?",
+   "titleEn": "Push Chain Airdrop Guide: Who Qualifies for the 10% Allocation?",
+   "titleZh": "Push Chain 空投指南：谁有资格获得 10% 分配？",
+   "valueText": "10% community allocation",
+   "valueTextEn": "10% community allocation",
+   "valueTextZh": "10% 社区分配",
+   "valueUsd": null,
+   "vendor": "Push Chain",
+   "verified": false,
+   "linkType": "source",
+   "accessUrl": "https://earlyairdrops.com/push-chain-airdrop-guide-who-qualifies-for-the-10-community-distribution/",
    "regionCodes": [
     "unspecified"
    ]
@@ -17059,6 +17453,61 @@
   },
   {
    "category": "travel",
+   "conditions": "僅限指定出發日；部分行程價格需洽客服，其他條件來源未注明。",
+   "conditionsEn": "Selected departure dates only; prices for some tours require contacting customer service, and other terms are not specified in the source.",
+   "conditionsZh": "僅限指定出發日；部分行程價格需洽客服，其他條件來源未注明。",
+   "endsAt": null,
+   "firstSeenAt": "2026-11-10T17:34:33.985Z",
+   "freeType": "折扣优惠",
+   "lastVerifiedAt": "2026-11-11T13:32:43.629Z",
+   "market": "asia",
+   "offer": "東南旅遊清倉特惠旅行團推出東南亞限量優惠：星宇航空直飛清邁雙城 5 日遊，指定日第二人省 $2,000；另有指定日一口價優惠。",
+   "offerEn": "Southeast Travel's clearance tour sale offers limited Southeast Asia deals, including a 5-day Starlux Airlines direct-flight tour to Chiang Mai, with the second traveller saving $2,000 on selected dates, plus flat-price offers on selected dates.",
+   "offerZh": "東南旅遊清倉特惠旅行團推出東南亞限量優惠：星宇航空直飛清邁雙城 5 日遊，指定日第二人省 $2,000；另有指定日一口價優惠。",
+   "officialUrl": "https://settour.com.tw/act/mkt/giftwine/clearancesale.html?a=ADV0000001405&s=21869",
+   "regions": "東南亞（泰國清邁、曼谷、芭達雅等）",
+   "regionsEn": "Southeast Asia (Chiang Mai, Bangkok and Pattaya, Thailand, etc.)",
+   "regionsZh": "東南亞（泰國清邁、曼谷、芭達雅等）",
+   "riskEn": "Offers are limited to selected dates and availability; confirm the itinerary and change and cancellation rules before booking.",
+   "riskNote": "優惠僅限指定日期與名額，預訂前請確認行程內容與退改規定。",
+   "riskZh": "優惠僅限指定日期與名額，預訂前請確認行程內容與退改規定。",
+   "saved": false,
+   "sourceName": "東南旅遊",
+   "sourceUrl": "https://settour.com.tw/act/mkt/giftwine/clearancesale.html?a=ADV0000001405&s=21869",
+   "startsAt": null,
+   "status": "active",
+   "steps": [
+    "打開官方連結",
+    "進入清倉特惠旅行團頁面",
+    "選擇指定日的東南亞行程並按頁面指引預訂，或洽客服確認"
+   ],
+   "stepsEn": [
+    "Open the official link",
+    "Go to the clearance special tour sale page",
+    "Choose a Southeast Asia tour on a selected date and book following the instructions on the page, or contact customer service to confirm"
+   ],
+   "stepsZh": [
+    "打開官方連結",
+    "進入清倉特惠旅行團頁面",
+    "選擇指定日的東南亞行程並按頁面指引預訂，或洽客服確認"
+   ],
+   "title": "清倉特惠旅行團",
+   "titleEn": "Clearance Special Tour Sale",
+   "titleZh": "清倉特惠旅行團",
+   "valueText": "第二人省 $2,000",
+   "valueTextEn": "$2,000 off 2nd traveller",
+   "valueTextZh": "第二人省 $2,000",
+   "valueUsd": null,
+   "vendor": "東南旅遊",
+   "verified": true,
+   "linkType": "official",
+   "accessUrl": "https://settour.com.tw/act/mkt/giftwine/clearancesale.html?a=ADV0000001405&s=21869",
+   "regionCodes": [
+    "th"
+   ]
+  },
+  {
+   "category": "travel",
    "conditions": "Four-day 11.11 event as reported; specific flight/hotel eligibility not detailed in the source excerpt",
    "conditionsEn": "Four-day 11.11 event as reported; specific flight/hotel eligibility not detailed in the source excerpt",
    "conditionsZh": "据报道为为期四天的双11活动；来源摘要未详细说明具体航班/酒店资格",
@@ -17782,61 +18231,6 @@
    ]
   },
   {
-   "category": "telecom",
-   "conditions": "Applies to unlimited eSIM plans; other terms not specified in source",
-   "conditionsEn": "Applies to unlimited eSIM plans; other terms not specified in source",
-   "conditionsZh": "仅适用于无限流量 eSIM 套餐；其他条件来源未注明",
-   "endsAt": null,
-   "firstSeenAt": "2026-11-10T15:12:36.707Z",
-   "freeType": "折扣优惠",
-   "lastVerifiedAt": "2026-11-12T21:33:28.162Z",
-   "market": "global",
-   "offer": "Get 20% off Maya Mobile’s unlimited eSIM plans covering 165+ countries, with no roaming fees.",
-   "offerEn": "Get 20% off Maya Mobile’s unlimited eSIM plans covering 165+ countries, with no roaming fees.",
-   "offerZh": "Maya Mobile 无限流量 eSIM 套餐 8 折，覆盖 165+ 个国家/地区，无漫游费。",
-   "officialUrl": "",
-   "regions": "165+ countries",
-   "regionsEn": "165+ countries",
-   "regionsZh": "165+ 个国家/地区",
-   "riskEn": "",
-   "riskNote": "",
-   "riskZh": "",
-   "saved": false,
-   "sourceName": "thechampagnemile.com.au",
-   "sourceUrl": "https://thechampagnemile.com.au/deals/esim-promo-codes/",
-   "startsAt": null,
-   "status": "active",
-   "steps": [
-    "Open the source link",
-    "Find the Maya Mobile deal",
-    "Follow the page instructions to purchase an unlimited eSIM plan"
-   ],
-   "stepsEn": [
-    "Open the source link",
-    "Find the Maya Mobile deal",
-    "Follow the page instructions to purchase an unlimited eSIM plan"
-   ],
-   "stepsZh": [
-    "打开来源链接",
-    "找到 Maya Mobile 的优惠",
-    "按页面指引购买无限流量 eSIM 套餐"
-   ],
-   "title": "Get 20% off Maya Mobile’s unlimited eSIM plans",
-   "titleEn": "Get 20% off Maya Mobile’s unlimited eSIM plans",
-   "titleZh": "Maya Mobile 无限流量 eSIM 套餐 8 折优惠",
-   "valueText": "20% OFF",
-   "valueTextEn": "20% OFF",
-   "valueTextZh": "8 折",
-   "valueUsd": null,
-   "vendor": "Maya Mobile",
-   "verified": false,
-   "linkType": "source",
-   "accessUrl": "https://thechampagnemile.com.au/deals/esim-promo-codes/",
-   "regionCodes": [
-    "other"
-   ]
-  },
-  {
    "category": "travel",
    "conditions": "須先啟用優惠；須從指定官方渠道訂房；至少連住兩晚；每人最多五次回饋；僅限93間指定酒店。",
    "conditionsEn": "Offer must be activated first; booking via designated official channels required; minimum two-night stay; maximum five rewards per person; only 93 designated hotels.",
@@ -18398,6 +18792,61 @@
    ]
   },
   {
+   "category": "lifestyle",
+   "conditions": "The source does not specify the discount rates, eligibility requirements, purchase limits, or validity period in the available content.",
+   "conditionsEn": "The source does not specify the discount rates, eligibility requirements, purchase limits, or validity period in the available content.",
+   "conditionsZh": "来源未注明折扣幅度、参与资格、购买限制及有效期。",
+   "endsAt": null,
+   "firstSeenAt": "2026-11-10T15:12:35.725Z",
+   "freeType": "折扣优惠",
+   "lastVerifiedAt": "2026-11-13T02:48:27.955Z",
+   "market": "asia",
+   "offer": "XYZ in Central, Hong Kong, is bringing Black Friday forward with deals on class packs and unlimited passes, described as its biggest such deals of the year.",
+   "offerEn": "XYZ in Central, Hong Kong, is bringing Black Friday forward with deals on class packs and unlimited passes, described as its biggest such deals of the year.",
+   "offerZh": "位于中国香港中环的 XYZ 提前开启黑五活动，课包与无限通行证推出优惠，号称为其全年最大力度同类优惠。",
+   "officialUrl": "",
+   "regions": "中国香港",
+   "regionsEn": "Hong Kong, China",
+   "regionsZh": "中国香港",
+   "riskEn": "Class packs and unlimited passes may have validity periods and usage restrictions; check the terms before buying.",
+   "riskNote": "Class packs and unlimited passes may have validity periods and usage restrictions; check the terms before buying.",
+   "riskZh": "课包与无限通行证可能有有效期及使用限制，购买前请核对条款。",
+   "saved": false,
+   "sourceName": "csptimes.com",
+   "sourceUrl": "https://www.csptimes.com/post/xyz-brings-black-friday-early-with-its-biggest-class-pack-unlimited-pass-deals-of-the-year",
+   "startsAt": null,
+   "status": "active",
+   "steps": [
+    "Open the source link",
+    "Check the class pack and unlimited pass deal details",
+    "Follow the page instructions to purchase or book"
+   ],
+   "stepsEn": [
+    "Open the source link",
+    "Check the class pack and unlimited pass deal details",
+    "Follow the page instructions to purchase or book"
+   ],
+   "stepsZh": [
+    "打开来源链接",
+    "查看课包与无限通行证的优惠详情",
+    "按页面指引购买或预约"
+   ],
+   "title": "XYZ Brings Black Friday Early With Its Biggest Class Pack & Unlimited Pass Deals of the Year",
+   "titleEn": "XYZ Brings Black Friday Early With Its Biggest Class Pack & Unlimited Pass Deals of the Year",
+   "titleZh": "XYZ 提前开启黑五：全年最大力度课包与无限通行证优惠",
+   "valueText": "",
+   "valueTextEn": "",
+   "valueTextZh": "",
+   "valueUsd": null,
+   "vendor": "XYZ",
+   "verified": false,
+   "linkType": "source",
+   "accessUrl": "https://www.csptimes.com/post/xyz-brings-black-friday-early-with-its-biggest-class-pack-unlimited-pass-deals-of-the-year",
+   "regionCodes": [
+    "hk"
+   ]
+  },
+  {
    "category": "food",
    "conditions": "Dine-in only at the Novena Square outlet in Singapore; other eligibility details not stated in source.",
    "conditionsEn": "Dine-in only at the Novena Square outlet in Singapore; other eligibility details not stated in source.",
@@ -18741,7 +19190,7 @@
    "endsAt": null,
    "firstSeenAt": "2026-11-10T13:32:58.784Z",
    "freeType": "混合优惠",
-   "lastVerifiedAt": "2026-11-12T12:51:03.197Z",
+   "lastVerifiedAt": "2026-11-13T13:29:08.842Z",
    "market": "global",
    "offer": "Spaceship 推出多款域名注册优惠：使用优惠码，.com 首年低至 3.60 美元，.net 首年 4.78 美元，.xyz 低至 0.75 美元/年。此外，Shared Essential 虚拟主机、EasyWP Turbo WordPress 主机和 Spacemail Pro 邮箱均提供 30 天免费试用。",
    "offerEn": "Spaceship is offering several domain registration deals: with a coupon code, .com is as low as $3.60 for the first year, .net is $4.78 for the first year, and .xyz is as low as $0.75 per year. Shared Essential hosting, EasyWP Turbo WordPress hosting, and Spacemail Pro email also offer a 30-day free trial.",
