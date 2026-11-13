@@ -34,10 +34,10 @@ https://cdn.jsdelivr.net/gh/huluohu/global-deal-hunter-feed@main/deals.json
 
 ```json
 {
-  "generatedAt": "2026-11-13T17:54:43Z",
+  "generatedAt": "2026-11-13T21:55:02Z",
   "source": "GLOBAL DEAL HUNTER 情报中心",
   "version": 1,
-  "count": 345,
+  "count": 344,
   "categories": [
     { "key": "ai", "zh": "AI 工具", "en": "AI tools", "tab": "ai" }
   ],
