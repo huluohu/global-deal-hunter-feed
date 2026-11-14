@@ -101,6 +101,7 @@ https://cdn.jsdelivr.net/gh/huluohu/global-deal-hunter-feed@main/deals.json
 | `conditions` / `conditionsZh` / `conditionsEn` | 参与条件 |
 | `steps` / `stepsZh` / `stepsEn` | 参与步骤（字符串数组） |
 | `regions` / `regionsZh` / `regionsEn` | 适用地区 |
+| `regionCodes` | 适用地区代码（数组，如 `["cn"]`、`["global"]`、`["unspecified"]`，由适用地区文本派生，供看板筛选） |
 | `valueText` / `valueTextZh` / `valueTextEn` | 价值的原文表述，如「€20」「省 $35/月」 |
 | `valueUsd` | 折算美元估值（数字或 null；奖池类为总奖池金额） |
 | `freeType` | 真正免费 / 免费试用 / 需要充值 / 需要交易量 / 需要邀请 / 混合优惠 / 折扣优惠 / 返现优惠 |
