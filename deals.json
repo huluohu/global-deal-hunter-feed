@@ -1,8 +1,8 @@
 {
- "generatedAt": "2026-11-15T23:55:06Z",
+ "generatedAt": "2026-11-16T01:55:14Z",
  "source": "GLOBAL DEAL HUNTER 情报中心",
  "version": 1,
- "count": 349,
+ "count": 382,
  "categories": [
   {
    "key": "ai",
@@ -1453,6 +1453,64 @@
    ]
   },
   {
+   "category": "bank",
+   "conditions": "需开设 Moomoo 美国版新账户并入金 $500 起；其他资格、持仓或交易要求与细则来源未注明。",
+   "conditionsEn": "You must open a new Moomoo US account and deposit $500 or more; other eligibility, holding or trading requirements and details were not stated in the source.",
+   "conditionsZh": "需开设 Moomoo 美国版新账户并入金 $500 起；其他资格、持仓或交易要求与细则来源未注明。",
+   "endsAt": "2026-11-30",
+   "firstSeenAt": "2026-11-12T23:33:56.865Z",
+   "freeType": "需要充值",
+   "lastVerifiedAt": "2026-11-14T07:29:20.769Z",
+   "market": "western",
+   "offer": "入金 $500 起，送 Anthropic 股票，最高价值 $1,000。",
+   "offerEn": "Deposit $500 or more to receive Anthropic stock worth up to $1,000.",
+   "offerZh": "入金 $500 起，送 Anthropic 股票，最高价值 $1,000。",
+   "officialUrl": "",
+   "regions": "美国",
+   "regionsEn": "United States",
+   "regionsZh": "美国",
+   "riskEn": "The value of the stock reward may fluctuate with Anthropic's share price; note the funds tied up by the deposit and the offer terms.",
+   "riskNote": "股票奖励价值随 Anthropic 股价波动；需注意入金资金占用与活动细则。",
+   "riskZh": "股票奖励价值随 Anthropic 股价波动；需注意入金资金占用与活动细则。",
+   "saved": false,
+   "sourceName": "uscard.io",
+   "sourceUrl": "https://uscard.io/brokers/posts/moomoo-review",
+   "startsAt": null,
+   "status": "active",
+   "steps": [
+    "打开官方链接",
+    "注册并开设 Moomoo 美国版账户",
+    "入金 $500 起",
+    "按页面指引领取 Anthropic 股票奖励"
+   ],
+   "stepsEn": [
+    "Open the official link",
+    "Register and open a Moomoo US account",
+    "Deposit $500 or more",
+    "Claim the Anthropic stock reward following the page instructions"
+   ],
+   "stepsZh": [
+    "打开官方链接",
+    "注册并开设 Moomoo 美国版账户",
+    "入金 $500 起",
+    "按页面指引领取 Anthropic 股票奖励"
+   ],
+   "title": "Moomoo 富途牛牛（美国版）评测：入金 $500 起送 Anthropic 股票，最高 $1,000，11/30 截止",
+   "titleEn": "Moomoo (US) Review: Deposit $500+ to Get Anthropic Stock, Up to $1,000, Ends 11/30",
+   "titleZh": "Moomoo 富途牛牛（美国版）评测：入金 $500 起送 Anthropic 股票，最高 $1,000，11/30 截止",
+   "valueText": "最高 $1,000",
+   "valueTextEn": "Up to $1,000",
+   "valueTextZh": "最高 $1,000",
+   "valueUsd": 1000,
+   "vendor": "Moomoo",
+   "verified": false,
+   "linkType": "source",
+   "accessUrl": "https://uscard.io/brokers/posts/moomoo-review",
+   "regionCodes": [
+    "us"
+   ]
+  },
+  {
    "category": "other",
    "conditions": "For new clients with a live trading account; a deposit is required. Minimum deposit, bonus tiers and withdrawal terms are not specified in source. Regulated by FSB South Africa, FSP: 45695.",
    "conditionsEn": "For new clients with a live trading account; a deposit is required. Minimum deposit, bonus tiers and withdrawal terms are not specified in source. Regulated by FSB South Africa, FSP: 45695.",
@@ -2464,6 +2522,64 @@
    ]
   },
   {
+   "category": "bank",
+   "conditions": "需使用兌換碼 DE0011，並入金 HK$10,000 或 HK$150,000 以享相應獎賞；來源未註明獎賞領取期限及具體持倉／交易要求。",
+   "conditionsEn": "Use redemption code DE0011 and deposit HK$10,000 or HK$150,000 for the corresponding reward; the source does not specify the reward claim period or any holding/trading requirements.",
+   "conditionsZh": "需使用兌換碼 DE0011，並入金 HK$10,000 或 HK$150,000 以享相應獎賞；來源未註明獎賞領取期限及具體持倉／交易要求。",
+   "endsAt": null,
+   "firstSeenAt": "2026-11-10T17:34:34.276Z",
+   "freeType": "需要充值",
+   "lastVerifiedAt": "2026-11-15T23:38:49.048Z",
+   "market": "asia",
+   "offer": "使用兌換碼 DE0011 可享 HK$200；入金 HK$10,000 可享 HK$800，入金 HK$10,000 可四選一，包括約 HK$600 英偉達、約 HK$600 比特幣、HK$400 超市禮券或 4 股匯豐；另據摘要，入金 HK$80,000 可再三選一，官方總值 HK$1,600；入金 HK$150,000 可享 HK$2,300。另享港股終身免佣，現金寶年化收益約 3.9%（過往數據，不代表未來表現）。",
+   "offerEn": "Use redemption code DE0011 for HK$200; deposit HK$10,000 for HK$800, with a choice of one of four rewards for a HK$10,000 deposit, including about HK$600 in Nvidia, about HK$600 in Bitcoin, a HK$400 supermarket voucher, or 4 HSBC shares; according to the summary, a HK$80,000 deposit offers another choice of three, with an official total value of HK$1,600; deposit HK$150,000 for HK$2,300. Also includes lifetime zero commission on Hong Kong stocks, and Cash Plus with an annualised return of about 3.9% (historical data, not indicative of future performance).",
+   "offerZh": "使用兌換碼 DE0011 可享 HK$200；入金 HK$10,000 可享 HK$800，入金 HK$10,000 可四選一，包括約 HK$600 英偉達、約 HK$600 比特幣、HK$400 超市禮券或 4 股匯豐；另據摘要，入金 HK$80,000 可再三選一，官方總值 HK$1,600；入金 HK$150,000 可享 HK$2,300。另享港股終身免佣，現金寶年化收益約 3.9%（過往數據，不代表未來表現）。",
+   "officialUrl": "",
+   "regions": "中國香港",
+   "regionsEn": "Hong Kong, China",
+   "regionsZh": "中國香港",
+   "riskEn": "Investing involves risk; shares and Bitcoin can be volatile. The Cash Plus annualised return of about 3.9% is historical data and does not represent future performance. Rewards require meeting the deposit conditions; refer to the official terms.",
+   "riskNote": "投資涉及風險，股票及比特幣價值波動較大；現金寶年化收益約 3.9% 為過往數據，不代表未來表現；獎賞須達入金條件，具體條款以官方頁面為準。",
+   "riskZh": "投資涉及風險，股票及比特幣價值波動較大；現金寶年化收益約 3.9% 為過往數據，不代表未來表現；獎賞須達入金條件，具體條款以官方頁面為準。",
+   "saved": false,
+   "sourceName": "debitbaba.com",
+   "sourceUrl": "https://debitbaba.com/brokers-futu/",
+   "startsAt": null,
+   "status": "active",
+   "steps": [
+    "打開來源連結，前往富途牛牛開戶頁面",
+    "使用兌換碼 DE0011 註冊／開戶",
+    "按指引入金 HK$10,000 或 HK$150,000",
+    "按頁面指引選擇並領取相應獎賞"
+   ],
+   "stepsEn": [
+    "Open the source link and go to the Futu (Futubull) account-opening page",
+    "Register / open an account using redemption code DE0011",
+    "Follow the instructions to deposit HK$10,000 or HK$150,000",
+    "Choose and claim the corresponding reward as instructed on the page"
+   ],
+   "stepsZh": [
+    "打開來源連結，前往富途牛牛開戶頁面",
+    "使用兌換碼 DE0011 註冊／開戶",
+    "按指引入金 HK$10,000 或 HK$150,000",
+    "按頁面指引選擇並領取相應獎賞"
+   ],
+   "title": "富途牛牛開戶優惠：兌換碼DE0011送$200，入金$1萬享$800、$15萬享$2,300",
+   "titleEn": "Futu (Futubull) Account Opening Offer: Redemption Code DE0011 for HK$200, Deposit HK$10,000 for HK$800, HK$150,000 for HK$2,300",
+   "titleZh": "富途牛牛開戶優惠：兌換碼DE0011送$200，入金$1萬享$800、$15萬享$2,300",
+   "valueText": "高達 HK$2,300",
+   "valueTextEn": "Up to HK$2,300",
+   "valueTextZh": "高達 HK$2,300",
+   "valueUsd": 295,
+   "vendor": "富途牛牛",
+   "verified": false,
+   "linkType": "source",
+   "accessUrl": "https://debitbaba.com/brokers-futu/",
+   "regionCodes": [
+    "hk"
+   ]
+  },
+  {
    "category": "entertainment",
    "conditions": "来源未注明；需购买捆绑包。",
    "conditionsEn": "Not specified in source; bundle purchase required.",
@@ -2514,6 +2630,61 @@
    "verified": false,
    "linkType": "source",
    "accessUrl": "https://www.notebookcheck.net/New-Humble-Bundle-offers-9-Resident-Evil-games-worth-290-for-40.1449013.0.html",
+   "regionCodes": [
+    "unspecified"
+   ]
+  },
+  {
+   "category": "cloud",
+   "conditions": "Promo code AFFILIATE-RESOURIFY250 is required; other eligibility is not specified in the source.",
+   "conditionsEn": "Promo code AFFILIATE-RESOURIFY250 is required; other eligibility is not specified in the source.",
+   "conditionsZh": "需要使用优惠码 AFFILIATE-RESOURIFY250；其他资格来源未注明。",
+   "endsAt": null,
+   "firstSeenAt": "2026-11-15T21:35:47.681Z",
+   "freeType": "真正免费",
+   "lastVerifiedAt": "2026-11-15T23:38:49.048Z",
+   "market": "global",
+   "offer": "Use promo code AFFILIATE-RESOURIFY250 to get $250 in free cloud server credits to build, test and host websites or applications.",
+   "offerEn": "Use promo code AFFILIATE-RESOURIFY250 to get $250 in free cloud server credits to build, test and host websites or applications.",
+   "offerZh": "使用优惠码 AFFILIATE-RESOURIFY250 可获得 $250 免费云服务器额度，用于搭建、测试和托管网站或应用。",
+   "officialUrl": "",
+   "regions": "Not specified in source",
+   "regionsEn": "Not specified in source",
+   "regionsZh": "来源未注明",
+   "riskEn": "Cloud credits may have expiry or usage limits; confirm the terms on the signup page.",
+   "riskNote": "Cloud credits may have expiry or usage limits; confirm the terms on the signup page.",
+   "riskZh": "云额度可能有有效期或使用限制，请在注册页面确认条款。",
+   "saved": false,
+   "sourceName": "resourify.com",
+   "sourceUrl": "https://resourify.com/category/trials",
+   "startsAt": null,
+   "status": "active",
+   "steps": [
+    "Open the Resourify free trials page",
+    "Sign up for UpCloud",
+    "Apply promo code AFFILIATE-RESOURIFY250 and use the $250 in free credits following the page instructions"
+   ],
+   "stepsEn": [
+    "Open the Resourify free trials page",
+    "Sign up for UpCloud",
+    "Apply promo code AFFILIATE-RESOURIFY250 and use the $250 in free credits following the page instructions"
+   ],
+   "stepsZh": [
+    "打开 Resourify 免费试用页面",
+    "注册 UpCloud",
+    "使用优惠码 AFFILIATE-RESOURIFY250 并按页面指引使用 $250 免费额度"
+   ],
+   "title": "UpCloud $250 Free Cloud Credits",
+   "titleEn": "UpCloud $250 Free Cloud Credits",
+   "titleZh": "UpCloud 250 美元免费云额度",
+   "valueText": "$250 cloud credits",
+   "valueTextEn": "$250 cloud credits",
+   "valueTextZh": "250 美元云额度",
+   "valueUsd": 250,
+   "vendor": "UpCloud",
+   "verified": false,
+   "linkType": "source",
+   "accessUrl": "https://resourify.com/category/trials",
    "regionCodes": [
     "unspecified"
    ]
@@ -2972,7 +3143,7 @@
    "endsAt": null,
    "firstSeenAt": "2026-11-13T07:33:26.173Z",
    "freeType": "折扣优惠",
-   "lastVerifiedAt": "2026-11-14T03:32:48.272Z",
+   "lastVerifiedAt": "2026-11-16T01:29:57.254Z",
    "market": "asia",
    "offer": "拼多多百亿补贴叠加国家以旧换新补贴：海尔553升对开门冰箱实付价 ¥1265.65",
    "offerEn": "Pinduoduo Billion-Yuan Subsidy plus national trade-in subsidy: Haier 553L side-by-side refrigerator for ¥1,265.65",
@@ -4486,6 +4657,61 @@
    ]
   },
   {
+   "category": "cloud",
+   "conditions": "Eligibility, applicable regions and expiry are not stated in the review excerpt; check Alibaba Cloud's official free-trial terms.",
+   "conditionsEn": "Eligibility, applicable regions and expiry are not stated in the review excerpt; check Alibaba Cloud's official free-trial terms.",
+   "conditionsZh": "评测摘要未注明资格、适用地区与有效期；请查看阿里云官方免费试用条款。",
+   "endsAt": null,
+   "firstSeenAt": "2026-11-10T09:31:31.433Z",
+   "freeType": "免费试用",
+   "lastVerifiedAt": "2026-11-15T01:36:52.724Z",
+   "market": "global",
+   "offer": "A $90 ECS credit under Alibaba Cloud's free trial and free tier, as described in the review.",
+   "offerEn": "A $90 ECS credit under Alibaba Cloud's free trial and free tier, as described in the review.",
+   "offerZh": "阿里云免费试用及免费套餐提供 $90 ECS 额度（见评测介绍）。",
+   "officialUrl": "",
+   "regions": "Not specified in the source",
+   "regionsEn": "Not specified in the source",
+   "regionsZh": "来源未注明",
+   "riskEn": "The credit may expire and usage beyond the credit is billed; check the official terms.",
+   "riskNote": "The credit may expire and usage beyond the credit is billed; check the official terms.",
+   "riskZh": "额度可能过期，超出额度部分的用量需付费；请以官方条款为准。",
+   "saved": false,
+   "sourceName": "theproofdesk.com",
+   "sourceUrl": "https://theproofdesk.com/alibaba-cloud-review",
+   "startsAt": null,
+   "status": "active",
+   "steps": [
+    "Open the source page",
+    "Follow the page to Alibaba Cloud's official free-trial page",
+    "Register or log in and claim the $90 ECS credit as instructed"
+   ],
+   "stepsEn": [
+    "Open the source page",
+    "Follow the page to Alibaba Cloud's official free-trial page",
+    "Register or log in and claim the $90 ECS credit as instructed"
+   ],
+   "stepsZh": [
+    "打开来源页面",
+    "通过该页面进入阿里云官方免费试用页面",
+    "注册或登录后按页面指引领取 $90 ECS 额度"
+   ],
+   "title": "Alibaba Cloud $90 ECS Credit",
+   "titleEn": "Alibaba Cloud $90 ECS Credit",
+   "titleZh": "阿里云 $90 ECS 额度",
+   "valueText": "$90 ECS credit",
+   "valueTextEn": "$90 ECS credit",
+   "valueTextZh": "90 美元 ECS 额度",
+   "valueUsd": 90,
+   "vendor": "Alibaba Cloud",
+   "verified": false,
+   "linkType": "source",
+   "accessUrl": "https://theproofdesk.com/alibaba-cloud-review",
+   "regionCodes": [
+    "unspecified"
+   ]
+  },
+  {
    "category": "ecommerce",
    "conditions": "黑五活动售价；移动端专享；下单1件",
    "conditionsEn": "Black Friday sale price; mobile-only offer; buy 1 item",
@@ -5492,6 +5718,61 @@
   },
   {
    "category": "food",
+   "conditions": "Eligible U.S. Prime members only; Uber Eats orders of $25 or more for $0 delivery fees; Prime membership required.",
+   "conditionsEn": "Eligible U.S. Prime members only; Uber Eats orders of $25 or more for $0 delivery fees; Prime membership required.",
+   "conditionsZh": "仅限符合条件的美国 Prime 会员；Uber Eats 订单满 $25 方可享 $0 配送费；需持有 Prime 会员资格。",
+   "endsAt": null,
+   "firstSeenAt": "2026-11-12T01:34:29.192Z",
+   "freeType": "混合优惠",
+   "lastVerifiedAt": "2026-11-15T23:38:49.048Z",
+   "market": "western",
+   "offer": "Eligible U.S. Prime members can get $0 delivery fees on Uber Eats orders of $25 or more, plus $40 in welcome discounts, after Amazon replaced Grubhub with Uber Eats in the Prime bundle starting November 5, 2026.",
+   "offerEn": "Eligible U.S. Prime members can get $0 delivery fees on Uber Eats orders of $25 or more, plus $40 in welcome discounts, after Amazon replaced Grubhub with Uber Eats in the Prime bundle starting November 5, 2026.",
+   "offerZh": "符合条件的美国 Prime 会员自 2026 年 11 月 5 日起，可在 Uber Eats 订单满 $25 时享受 $0 配送费，并获得 $40 迎新优惠；Amazon Prime 已将原 Grubhub 外卖权益替换为 Uber Eats。",
+   "officialUrl": "",
+   "regions": "United States",
+   "regionsEn": "United States",
+   "regionsZh": "美国",
+   "riskEn": "Prime membership is paid; delivery fee waiver applies only to orders of $25 or more.",
+   "riskNote": "Prime membership is paid; delivery fee waiver applies only to orders of $25 or more.",
+   "riskZh": "Prime 为付费会员；$0 配送费仅适用于满 $25 的订单。",
+   "saved": false,
+   "sourceName": "usa.ntlivenews.com",
+   "sourceUrl": "https://usa.ntlivenews.com/amazon-adds-uber-eats-to-prime-how-members-can-get-0-delivery-fees-and-40-in-welcome-discounts/",
+   "startsAt": "2026-11-05",
+   "status": "active",
+   "steps": [
+    "Open the official link and sign in to Amazon Prime",
+    "Link / activate the Uber Eats benefit in Prime",
+    "Order on Uber Eats with an order of $25 or more and apply the welcome discounts at checkout"
+   ],
+   "stepsEn": [
+    "Open the official link and sign in to Amazon Prime",
+    "Link / activate the Uber Eats benefit in Prime",
+    "Order on Uber Eats with an order of $25 or more and apply the welcome discounts at checkout"
+   ],
+   "stepsZh": [
+    "打开官方链接并登录 Amazon Prime",
+    "在 Prime 内关联/激活 Uber Eats 权益",
+    "在 Uber Eats 下单满 $25，并在结算时使用迎新优惠"
+   ],
+   "title": "Amazon Adds Uber Eats to Prime: How Members Can Get $0 Delivery Fees and $40 in Welcome Discounts",
+   "titleEn": "Amazon Adds Uber Eats to Prime: How Members Can Get $0 Delivery Fees and $40 in Welcome Discounts",
+   "titleZh": "Amazon Prime 新增 Uber Eats 外卖权益：会员可享 $0 配送费及 $40 迎新优惠",
+   "valueText": "$40 welcome discounts",
+   "valueTextEn": "$40 welcome discounts",
+   "valueTextZh": "$40 迎新优惠",
+   "valueUsd": 40,
+   "vendor": "Amazon Prime",
+   "verified": false,
+   "linkType": "source",
+   "accessUrl": "https://usa.ntlivenews.com/amazon-adds-uber-eats-to-prime-how-members-can-get-0-delivery-fees-and-40-in-welcome-discounts/",
+   "regionCodes": [
+    "us"
+   ]
+  },
+  {
+   "category": "food",
    "conditions": "Eligible U.S. Prime subscribers only; $0 delivery fees require orders of $25 or more. Other terms not stated in source.",
    "conditionsEn": "Eligible U.S. Prime subscribers only; $0 delivery fees require orders of $25 or more. Other terms not stated in source.",
    "conditionsZh": "仅限符合条件的美国 Prime 会员；$0 配送费需订单满 $25。其他条款来源未注明。",
@@ -6167,6 +6448,64 @@
    "verified": false,
    "linkType": "source",
    "accessUrl": "https://www.smzdm.com/p/186035556/",
+   "regionCodes": [
+    "cn"
+   ]
+  },
+  {
+   "category": "cnplatform",
+   "conditions": "需购买两件休闲裤/工装裤，叠加¥101专属优惠券及淘金币抵扣；来源未注明其他资格限制",
+   "conditionsEn": "Two pairs of casual/work pants are required; stack the ¥101 exclusive coupon and Taobao Gold Coins for the discount; no other eligibility is stated in the source",
+   "conditionsZh": "需购买两件休闲裤/工装裤，叠加¥101专属优惠券及淘金币抵扣；来源未注明其他资格限制",
+   "endsAt": null,
+   "firstSeenAt": "2026-11-13T02:49:54.843Z",
+   "freeType": "折扣优惠",
+   "lastVerifiedAt": "2026-11-14T17:30:32.160Z",
+   "market": "asia",
+   "offer": "森马天猫官方旗舰店限时钜惠：店内休闲裤、工装裤日常售价每条¥100，下单两件立减¥30，叠加¥101专属优惠券及淘金币抵扣后实付¥64.5，折合单条¥32.25。",
+   "offerEn": "Semir's Tmall Official Flagship Store limited-time sale: casual and work pants are normally ¥100 each. Buy two for ¥30 off, then stack the ¥101 exclusive coupon and Taobao Gold Coins to pay ¥64.5 in total, or ¥32.25 per pair.",
+   "offerZh": "森马天猫官方旗舰店限时钜惠：店内休闲裤、工装裤日常售价每条¥100，下单两件立减¥30，叠加¥101专属优惠券及淘金币抵扣后实付¥64.5，折合单条¥32.25。",
+   "officialUrl": "",
+   "regions": "中国大陆",
+   "regionsEn": "Mainland China",
+   "regionsZh": "中国大陆",
+   "riskEn": "",
+   "riskNote": "",
+   "riskZh": "",
+   "saved": false,
+   "sourceName": "news.zol.com.cn",
+   "sourceUrl": "https://news.zol.com.cn/1269/12695640.html",
+   "startsAt": null,
+   "status": "active",
+   "steps": [
+    "打开天猫森马官方旗舰店活动页",
+    "登录淘宝/天猫账号",
+    "领取¥101专属优惠券",
+    "选购两件休闲裤/工装裤，使用优惠券及淘金币抵扣后下单"
+   ],
+   "stepsEn": [
+    "Open the Tmall Semir Official Flagship Store promotion page",
+    "Sign in to your Taobao/Tmall account",
+    "Claim the ¥101 exclusive coupon",
+    "Select two pairs of casual/work pants and check out with the coupon and Taobao Gold Coins applied"
+   ],
+   "stepsZh": [
+    "打开天猫森马官方旗舰店活动页",
+    "登录淘宝/天猫账号",
+    "领取¥101专属优惠券",
+    "选购两件休闲裤/工装裤，使用优惠券及淘金币抵扣后下单"
+   ],
+   "title": "天猫｜森马官方旗舰店限时钜惠",
+   "titleEn": "Tmall | Semir Official Flagship Store Limited-Time Sale",
+   "titleZh": "天猫｜森马官方旗舰店限时钜惠",
+   "valueText": "两件立减¥30叠加¥101券",
+   "valueTextEn": "¥30 off 2 items",
+   "valueTextZh": "两件立减¥30叠加¥101券",
+   "valueUsd": 18.19,
+   "vendor": "森马",
+   "verified": false,
+   "linkType": "source",
+   "accessUrl": "https://news.zol.com.cn/1269/12695640.html",
    "regionCodes": [
     "cn"
    ]
@@ -7071,11 +7410,124 @@
    "valueTextZh": "$10 现金奖励",
    "valueUsd": 10,
    "vendor": "MyBambu",
-   "verified": false,
+   "verified": true,
    "linkType": "official",
    "accessUrl": "https://www.getbamboo.io/us/legal/promotions/",
    "regionCodes": [
     "unspecified"
+   ]
+  },
+  {
+   "category": "ecommerce",
+   "conditions": "For select Walmart accounts only; the order must be $35 or more and eligible; free pickup or delivery requires Walmart+.",
+   "conditionsEn": "For select Walmart accounts only; the order must be $35 or more and eligible; free pickup or delivery requires Walmart+.",
+   "conditionsZh": "仅限 Walmart 指定账户；订单须满 $35 且符合条件；免费自提或配送需为 Walmart+ 会员。",
+   "endsAt": null,
+   "firstSeenAt": "2026-11-11T07:34:28.381Z",
+   "freeType": "折扣优惠",
+   "lastVerifiedAt": "2026-11-15T05:29:24.554Z",
+   "market": "western",
+   "offer": "$10 off a $35+ eligible order at Walmart for select accounts, plus free pickup or delivery with Walmart+.",
+   "offerEn": "$10 off a $35+ eligible order at Walmart for select accounts, plus free pickup or delivery with Walmart+.",
+   "offerZh": "Walmart 指定账户符合条件的订单满 $35 可立减 $10，Walmart+ 会员还可享免费自提或配送。",
+   "officialUrl": "",
+   "regions": "United States",
+   "regionsEn": "United States",
+   "regionsZh": "美国",
+   "riskEn": "This offer is limited to select accounts and may not be available to all users; eligibility and exclusions may apply.",
+   "riskNote": "This offer is limited to select accounts and may not be available to all users; eligibility and exclusions may apply.",
+   "riskZh": "该优惠仅限指定账户，并非所有用户都能享受；可能适用资格和排除条款。",
+   "saved": false,
+   "sourceName": "slickdeals.net",
+   "sourceUrl": "https://slickdeals.net/sh/thread-20279970/e/3/c/deal-details/au/319e42c0dcd011f1b5bd32f120d64c66/",
+   "startsAt": null,
+   "status": "active",
+   "steps": [
+    "Open the Slickdeals deal link",
+    "Sign in to your Walmart account and check eligibility",
+    "Add $35 or more in eligible items to your cart",
+    "Apply the offer and complete checkout"
+   ],
+   "stepsEn": [
+    "Open the Slickdeals deal link",
+    "Sign in to your Walmart account and check eligibility",
+    "Add $35 or more in eligible items to your cart",
+    "Apply the offer and complete checkout"
+   ],
+   "stepsZh": [
+    "打开 Slickdeals 优惠链接",
+    "登录 Walmart 账户并确认资格",
+    "将 $35 或以上符合条件的商品加入购物车",
+    "使用优惠并完成结账"
+   ],
+   "title": "$10 Off $35+ Eligible Order",
+   "titleEn": "$10 Off $35+ Eligible Order",
+   "titleZh": "Walmart 符合条件订单满 $35 立减 $10",
+   "valueText": "$10 off $35+",
+   "valueTextEn": "$10 off $35+",
+   "valueTextZh": "满 $35 立减 $10",
+   "valueUsd": 10,
+   "vendor": "Walmart",
+   "verified": false,
+   "linkType": "source",
+   "accessUrl": "https://slickdeals.net/sh/thread-20279970/e/3/c/deal-details/au/319e42c0dcd011f1b5bd32f120d64c66/",
+   "regionCodes": [
+    "us"
+   ]
+  },
+  {
+   "category": "ecommerce",
+   "conditions": "Limited to select Walmart accounts; a $35+ eligible order is required; free pickup or delivery requires Walmart+. Source does not specify the exact eligibility criteria or expiry date.",
+   "conditionsEn": "Limited to select Walmart accounts; a $35+ eligible order is required; free pickup or delivery requires Walmart+. Source does not specify the exact eligibility criteria or expiry date.",
+   "conditionsZh": "仅限部分沃尔玛账户；需满 35 美元的合格订单；免费自提或配送需 Walmart+ 会员；来源未注明具体适用账户标准与到期日。",
+   "endsAt": null,
+   "firstSeenAt": "2026-11-11T03:34:52.751Z",
+   "freeType": "混合优惠",
+   "lastVerifiedAt": "2026-11-15T01:29:33.396Z",
+   "market": "western",
+   "offer": "Select Walmart accounts get $10 off a $35+ eligible order, plus free pickup or delivery with Walmart+.",
+   "offerEn": "Select Walmart accounts get $10 off a $35+ eligible order, plus free pickup or delivery with Walmart+.",
+   "offerZh": "部分沃尔玛账户满 35 美元的合格订单可立减 10 美元，Walmart+ 会员享免费自提或配送。",
+   "officialUrl": "",
+   "regions": "United States",
+   "regionsEn": "United States",
+   "regionsZh": "美国",
+   "riskEn": "Only select accounts are eligible, and free pickup or delivery requires Walmart+.",
+   "riskNote": "Only select accounts are eligible, and free pickup or delivery requires Walmart+.",
+   "riskZh": "仅限部分账户参与，免费自提或配送需 Walmart+ 会员。",
+   "saved": false,
+   "sourceName": "slickdeals.net",
+   "sourceUrl": "https://slickdeals.net/sh/thread-20279970/e/3/c/deal-details/au/7892b82edcd411f1824f6ef21c045c17/",
+   "startsAt": null,
+   "status": "active",
+   "steps": [
+    "Open the Slickdeals deal page",
+    "Check whether your Walmart account is eligible for the offer",
+    "Place a $35+ eligible order and use Walmart+ for free pickup or delivery if applicable"
+   ],
+   "stepsEn": [
+    "Open the Slickdeals deal page",
+    "Check whether your Walmart account is eligible for the offer",
+    "Place a $35+ eligible order and use Walmart+ for free pickup or delivery if applicable"
+   ],
+   "stepsZh": [
+    "打开 Slickdeals 的优惠页面",
+    "确认自己的沃尔玛账户是否符合参与条件",
+    "下单满 35 美元的合格订单，如适用可使用 Walmart+ 享受免费自提或配送"
+   ],
+   "title": "$10 Off $35+ Eligible Order + Free Pickup or Delivery w/ Walmart+ at Walmart",
+   "titleEn": "$10 Off $35+ Eligible Order + Free Pickup or Delivery w/ Walmart+ at Walmart",
+   "titleZh": "满 35 美元立减 10 美元，Walmart+ 会员享免费自提或配送",
+   "valueText": "$10 off $35+",
+   "valueTextEn": "$10 off $35+",
+   "valueTextZh": "满 $35 减 $10",
+   "valueUsd": 10,
+   "vendor": "Walmart",
+   "verified": false,
+   "linkType": "source",
+   "accessUrl": "https://slickdeals.net/sh/thread-20279970/e/3/c/deal-details/au/7892b82edcd411f1824f6ef21c045c17/",
+   "regionCodes": [
+    "us"
    ]
   },
   {
@@ -7132,6 +7584,116 @@
    "verified": false,
    "linkType": "source",
    "accessUrl": "https://www.maximizingmoney.com/banking-bonuses/mybambu/",
+   "regionCodes": [
+    "us"
+   ]
+  },
+  {
+   "category": "ecommerce",
+   "conditions": "For select Walmart accounts only; $35+ eligible order required; Walmart+ required for free pickup or delivery.",
+   "conditionsEn": "For select Walmart accounts only; $35+ eligible order required; Walmart+ required for free pickup or delivery.",
+   "conditionsZh": "仅限指定 Walmart 账户；需购买满 $35 的符合条件订单；免费自提或配送需 Walmart+ 会员。",
+   "endsAt": null,
+   "firstSeenAt": "2026-11-10T19:33:44.322Z",
+   "freeType": "折扣优惠",
+   "lastVerifiedAt": "2026-11-15T23:29:10.557Z",
+   "market": "western",
+   "offer": "$10 off a $35+ eligible order at Walmart, plus free pickup or delivery with Walmart+ for select accounts.",
+   "offerEn": "$10 off a $35+ eligible order at Walmart, plus free pickup or delivery with Walmart+ for select accounts.",
+   "offerZh": "指定 Walmart 账户订单满 $35 可立减 $10，Walmart+ 会员还可享免费自提或配送。",
+   "officialUrl": "",
+   "regions": "Source not specified",
+   "regionsEn": "Source not specified",
+   "regionsZh": "来源未注明",
+   "riskEn": "Limited to select accounts; eligibility and eligible items may vary.",
+   "riskNote": "Limited to select accounts; eligibility and eligible items may vary.",
+   "riskZh": "仅限指定账户；适用资格与商品范围可能有所不同。",
+   "saved": false,
+   "sourceName": "slickdeals.net",
+   "sourceUrl": "https://slickdeals.net/sh/thread-20279970/e/3/c/deal-details/au/eeca903edd1511f1847e0e2a9c335bf4/",
+   "startsAt": null,
+   "status": "active",
+   "steps": [
+    "Open the official link",
+    "Check whether your account is eligible",
+    "Place a $35+ eligible order and apply the offer at checkout"
+   ],
+   "stepsEn": [
+    "Open the official link",
+    "Check whether your account is eligible",
+    "Place a $35+ eligible order and apply the offer at checkout"
+   ],
+   "stepsZh": [
+    "打开官方链接",
+    "确认本人账户是否符合条件",
+    "下单满 $35 的符合条件商品并在结账时使用优惠"
+   ],
+   "title": "$10 Off $35+ Eligible Order at Walmart",
+   "titleEn": "$10 Off $35+ Eligible Order at Walmart",
+   "titleZh": "Walmart 满 $35 立减 $10",
+   "valueText": "$10 off $35+",
+   "valueTextEn": "$10 off $35+",
+   "valueTextZh": "满 $35 减 $10",
+   "valueUsd": 10,
+   "vendor": "Walmart",
+   "verified": false,
+   "linkType": "source",
+   "accessUrl": "https://slickdeals.net/sh/thread-20279970/e/3/c/deal-details/au/eeca903edd1511f1847e0e2a9c335bf4/",
+   "regionCodes": [
+    "unspecified"
+   ]
+  },
+  {
+   "category": "ecommerce",
+   "conditions": "Minimum spend $35; delivery or pickup orders only; limited to the next 3 orders; code availability may change.",
+   "conditionsEn": "Minimum spend $35; delivery or pickup orders only; limited to the next 3 orders; code availability may change.",
+   "conditionsZh": "需满 35 美元；仅限配送/自提订单；限接下来 3 单；促销码可能变更。",
+   "endsAt": null,
+   "firstSeenAt": "2026-11-10T15:34:11.919Z",
+   "freeType": "折扣优惠",
+   "lastVerifiedAt": "2026-11-15T19:38:25.771Z",
+   "market": "western",
+   "offer": "$10 off orders of $35 or more with promo code MARKET10 (updated 11/9/26; earlier codes SAVE3X, FAST30, DOUBLE10 and TRIPLE10 were also listed), valid for the next 3 delivery or pickup orders.",
+   "offerEn": "$10 off orders of $35 or more with promo code MARKET10 (updated 11/9/26; earlier codes SAVE3X, FAST30, DOUBLE10 and TRIPLE10 were also listed), valid for the next 3 delivery or pickup orders.",
+   "offerZh": "使用促销码 MARKET10，满 35 美元立减 10 美元，适用于接下来 3 单配送/自提订单；2026 年 11 月 9 日更新，之前公布的 SAVE3X、FAST30、DOUBLE10、TRIPLE10 等码也在文中提及。",
+   "officialUrl": "",
+   "regions": "United States",
+   "regionsEn": "United States",
+   "regionsZh": "美国",
+   "riskEn": "Promo codes may expire or stop working; confirm the $10 discount is applied before placing the order.",
+   "riskNote": "Promo codes may expire or stop working; confirm the $10 discount is applied before placing the order.",
+   "riskZh": "促销码可能过期或失效，下单前请确认 10 美元折扣已生效。",
+   "saved": false,
+   "sourceName": "doctorofcredit.com",
+   "sourceUrl": "https://www.doctorofcredit.com/walmart-10-off-35-with-promo-code-fast30-next-3-delivery-pickup-orders/",
+   "startsAt": null,
+   "status": "active",
+   "steps": [
+    "Open the Doctor of Credit Walmart offer page",
+    "Copy the current promo code MARKET10",
+    "Place a Walmart delivery or pickup order of $35 or more and apply the code at checkout"
+   ],
+   "stepsEn": [
+    "Open the Doctor of Credit Walmart offer page",
+    "Copy the current promo code MARKET10",
+    "Place a Walmart delivery or pickup order of $35 or more and apply the code at checkout"
+   ],
+   "stepsZh": [
+    "打开 Doctor of Credit 的 Walmart 优惠页面",
+    "复制当前促销码 MARKET10",
+    "在 Walmart 下一单 35 美元及以上的配送/自提订单，并在结账时输入该码"
+   ],
+   "title": "Walmart: $10 Off $35+ With Promo Code SAVE3X/FAST30/DOUBLE10/TRIPLE10 (Next 3 Delivery/Pickup Orders)",
+   "titleEn": "Walmart: $10 Off $35+ With Promo Code SAVE3X/FAST30/DOUBLE10/TRIPLE10 (Next 3 Delivery/Pickup Orders)",
+   "titleZh": "Walmart：满 35 美元立减 10 美元（促销码 SAVE3X / MARKET10 等，接下来 3 单配送/自提可用）",
+   "valueText": "$10 off $35+",
+   "valueTextEn": "$10 off $35+",
+   "valueTextZh": "满 $35 立减 $10",
+   "valueUsd": 10,
+   "vendor": "Walmart",
+   "verified": false,
+   "linkType": "source",
+   "accessUrl": "https://www.doctorofcredit.com/walmart-10-off-35-with-promo-code-fast30-next-3-delivery-pickup-orders/",
    "regionCodes": [
     "us"
    ]
@@ -7706,6 +8268,64 @@
    "verified": false,
    "linkType": "source",
    "accessUrl": "https://www.smzdm.com/p/186129590/",
+   "regionCodes": [
+    "cn"
+   ]
+  },
+  {
+   "category": "cnplatform",
+   "conditions": "App 内领取/需登录；需在领券中心领取对应品类大额券，满100元方可使用满100减50券，满200元可用满200减80券；来源未注明其他资格限制。",
+   "conditionsEn": "App-only claim / sign-in required; claim the relevant category big-value coupon in the Coupon Center — ¥50 off requires a ¥100 order and ¥80 off requires a ¥200 order; no other eligibility limits stated in the source.",
+   "conditionsZh": "App 内领取/需登录；需在领券中心领取对应品类大额券，满100元方可使用满100减50券，满200元可用满200减80券；来源未注明其他资格限制。",
+   "endsAt": null,
+   "firstSeenAt": "2026-11-12T03:09:58.885Z",
+   "freeType": "折扣优惠",
+   "lastVerifiedAt": "2026-11-15T17:37:34.834Z",
+   "market": "asia",
+   "offer": "满100减50、满200减80等大额券通常不在商品页直接展示，须经领券中心领取后叠加下单抵扣，可直接降低实付价。",
+   "offerEn": "Big-value coupons such as ¥50 off on ¥100 orders and ¥80 off on ¥200 orders are usually not shown on product pages; they must be claimed through the Coupon Center and applied at checkout to lower the final price.",
+   "offerZh": "满100减50、满200减80等大额券通常不在商品页直接展示，须经领券中心领取后叠加下单抵扣，可直接降低实付价。",
+   "officialUrl": "",
+   "regions": "中国大陆",
+   "regionsEn": "Mainland China",
+   "regionsZh": "中国大陆",
+   "riskEn": "",
+   "riskNote": "",
+   "riskZh": "",
+   "saved": false,
+   "sourceName": "insight.xiaoduoai.com",
+   "sourceUrl": "https://insight.xiaoduoai.com/e-commerce-information/pinduoduo-information/pinduoduo-large-coupon-how-to-homjou.html",
+   "startsAt": null,
+   "status": "active",
+   "steps": [
+    "打开拼多多 App，点右下角“个人中心”",
+    "进入“优惠券”，点“前往领券中心”",
+    "按品类领取满100减50或满200减80大额券",
+    "返回商品页凑满门槛后下单，结算时使用优惠券"
+   ],
+   "stepsEn": [
+    "Open the Pinduoduo App and tap “Personal Center” at the bottom right.",
+    "Go to “Coupons” and tap “Go to Coupon Center”.",
+    "Claim the relevant category coupon, such as ¥50 off on ¥100 or ¥80 off on ¥200.",
+    "Return to the product page, meet the spending threshold, and apply the coupon at checkout."
+   ],
+   "stepsZh": [
+    "打开拼多多 App，点右下角“个人中心”",
+    "进入“优惠券”，点“前往领券中心”",
+    "按品类领取满100减50或满200减80大额券",
+    "返回商品页凑满门槛后下单，结算时使用优惠券"
+   ],
+   "title": "拼多多大额券领取（满100减50）",
+   "titleEn": "Pinduoduo Big-Value Coupons (¥50 off on ¥100 Orders)",
+   "titleZh": "拼多多大额券领取（满100减50）",
+   "valueText": "满100减50优惠券",
+   "valueTextEn": "¥50 off on ¥100 orders",
+   "valueTextZh": "满100减50优惠券",
+   "valueUsd": 6.94,
+   "vendor": "拼多多",
+   "verified": false,
+   "linkType": "source",
+   "accessUrl": "https://insight.xiaoduoai.com/e-commerce-information/pinduoduo-information/pinduoduo-large-coupon-how-to-homjou.html",
    "regionCodes": [
     "cn"
    ]
@@ -8506,6 +9126,64 @@
    "verified": false,
    "linkType": "source",
    "accessUrl": "https://www.smzdm.com/p/186062125/",
+   "regionCodes": [
+    "cn"
+   ]
+  },
+  {
+   "category": "cnplatform",
+   "conditions": "需通过淘宝APP扫码进入商品页，使用淘金币大额补贴下单；App 内领取/需登录；来源未注明其他门槛",
+   "conditionsEn": "Enter the product page by scanning the QR code in the Taobao app and check out with the Taobao Coins large subsidy; App-only claim / sign-in required; no other thresholds stated in the source.",
+   "conditionsZh": "需通过淘宝APP扫码进入商品页，使用淘金币大额补贴下单；App 内领取/需登录；来源未注明其他门槛",
+   "endsAt": null,
+   "firstSeenAt": "2026-11-13T17:34:35.095Z",
+   "freeType": "混合优惠",
+   "lastVerifiedAt": "2026-11-15T15:29:38.375Z",
+   "market": "asia",
+   "offer": "天猫高露洁棕榄官方旗舰店：高露洁牙膏四支装标价 ¥63.9，买一赠一，叠加平台官方限时补贴 ¥26.1 后到手价低至 ¥28.71，下单额外赠送漱口水及漱口杯各一份。",
+   "offerEn": "Tmall Colgate-Palmolive Flagship Store: Colgate toothpaste 4-pack, listed at ¥63.9, buy one get one free; after a ¥26.1 platform subsidy, the final price is as low as ¥28.71, with an extra mouthwash and a mouthwash cup included with the order.",
+   "offerZh": "天猫高露洁棕榄官方旗舰店：高露洁牙膏四支装标价 ¥63.9，买一赠一，叠加平台官方限时补贴 ¥26.1 后到手价低至 ¥28.71，下单额外赠送漱口水及漱口杯各一份。",
+   "officialUrl": "",
+   "regions": "中国大陆",
+   "regionsEn": "Mainland China",
+   "regionsZh": "中国大陆",
+   "riskEn": "Limited-time offer; the promotion and gifts are subject to the actual product page.",
+   "riskNote": "限时优惠，活动与赠品以页面实际为准",
+   "riskZh": "限时优惠，活动与赠品以页面实际为准",
+   "saved": false,
+   "sourceName": "news.zol.com.cn",
+   "sourceUrl": "https://news.zol.com.cn/1271/12712466.html",
+   "startsAt": null,
+   "status": "active",
+   "steps": [
+    "打开淘宝APP，扫描指定二维码进入天猫高露洁棕榄官方旗舰店商品页",
+    "在详情页点击“淘金币大额补贴下单”",
+    "确认买一赠一及补贴后价格为 ¥28.71 后完成下单",
+    "下单后获赠漱口水及漱口杯各一份"
+   ],
+   "stepsEn": [
+    "Open the Taobao app and scan the designated QR code to enter the Tmall Colgate-Palmolive Flagship Store product page",
+    "On the product details page, tap to check out with the Taobao Coins large subsidy",
+    "Confirm the buy-one-get-one-free and subsidised price of ¥28.71, then complete the purchase",
+    "Receive one mouthwash and one mouthwash cup with the order"
+   ],
+   "stepsZh": [
+    "打开淘宝APP，扫描指定二维码进入天猫高露洁棕榄官方旗舰店商品页",
+    "在详情页点击“淘金币大额补贴下单”",
+    "确认买一赠一及补贴后价格为 ¥28.71 后完成下单",
+    "下单后获赠漱口水及漱口杯各一份"
+   ],
+   "title": "天猫｜高露洁牙膏四支装 买一赠一到手价 ¥28.71",
+   "titleEn": "Tmall | Colgate Toothpaste 4-Pack, Buy One Get One Free, Final Price ¥28.71",
+   "titleZh": "天猫｜高露洁牙膏四支装 买一赠一到手价 ¥28.71",
+   "valueText": "¥28.71，买一赠一补贴价",
+   "valueTextEn": "¥28.71, buy-one-get-one",
+   "valueTextZh": "¥28.71，买一赠一补贴价",
+   "valueUsd": 3.99,
+   "vendor": "高露洁",
+   "verified": false,
+   "linkType": "source",
+   "accessUrl": "https://news.zol.com.cn/1271/12712466.html",
    "regionCodes": [
     "cn"
    ]
@@ -10839,7 +11517,7 @@
    "endsAt": null,
    "firstSeenAt": "2026-11-14T01:35:16.334Z",
    "freeType": "折扣优惠",
-   "lastVerifiedAt": "2026-11-14T03:32:48.272Z",
+   "lastVerifiedAt": "2026-11-16T01:29:57.254Z",
    "market": "asia",
    "offer": "京东秒杀价 ¥4.10，参与满2件打5折，下单2件实付低至 ¥4.10，折合每件 ¥2.05。",
    "offerEn": "JD flash-sale price ¥4.10; buy 2 for 50% off, pay as low as ¥4.10 for 2 pieces, about ¥2.05 each.",
@@ -11165,65 +11843,6 @@
    "accessUrl": "https://www.v2ex.com/t/1252209",
    "regionCodes": [
     "unspecified"
-   ]
-  },
-  {
-   "category": "cloud",
-   "conditions": "来源未注明。",
-   "conditionsEn": "Not specified in the source.",
-   "conditionsZh": "来源未注明。",
-   "endsAt": "2026-12-01",
-   "firstSeenAt": "2026-11-15T21:35:49.363Z",
-   "freeType": "折扣优惠",
-   "lastVerifiedAt": "2026-11-15T21:35:46.058Z",
-   "market": "asia",
-   "offer": "双 11 云服务器 2.2 折起，¥32/月起；香港、洛杉矶、东京、新加坡、韩国等 14 个机房可选，免备案。",
-   "offerEn": "Double 11 cloud servers from 22% of the list price, starting at ¥32/month; 14 data centers available, including Hong Kong, Los Angeles, Tokyo, Singapore and South Korea, with no ICP filing required.",
-   "offerZh": "双 11 云服务器 2.2 折起，¥32/月起；香港、洛杉矶、东京、新加坡、韩国等 14 个机房可选，免备案。",
-   "officialUrl": "",
-   "regions": "中国香港、美国洛杉矶、日本东京、新加坡、韩国等 14 个地区",
-   "regionsEn": "Hong Kong, Los Angeles, Tokyo, Singapore, South Korea and 9 other regions",
-   "regionsZh": "中国香港、美国洛杉矶、日本东京、新加坡、韩国等 14 个地区",
-   "riskEn": "Double 11 prices are promotional; confirm the renewal price after the promotion ends.",
-   "riskNote": "双 11 价格为促销价，下单前请确认活动结束后的续费价格。",
-   "riskZh": "双 11 价格为促销价，下单前请确认活动结束后的续费价格。",
-   "saved": false,
-   "sourceName": "daniao.org",
-   "sourceUrl": "https://www.daniao.org/30727.html",
-   "startsAt": "2026-10-20",
-   "status": "active",
-   "steps": [
-    "打开链接的活动页面",
-    "选择香港、东京、新加坡等机房的云服务器套餐",
-    "注册/登录后按页面指引下单"
-   ],
-   "stepsEn": [
-    "Open the linked promotion page",
-    "Choose a cloud server plan in Hong Kong, Tokyo, Singapore or another available region",
-    "Sign up or log in and place an order as instructed on the page"
-   ],
-   "stepsZh": [
-    "打开链接的活动页面",
-    "选择香港、东京、新加坡等机房的云服务器套餐",
-    "注册/登录后按页面指引下单"
-   ],
-   "title": "恒创科技双 11：云服务器 2.2 折起 ¥32/月，香港/洛杉矶/东京/新加坡/韩国等14机房可选",
-   "titleEn": "Hengchuang Technology Double 11: Cloud Servers From 22% of List Price at ¥32/Month, With 14 Data Centers Including Hong Kong, Los Angeles, Tokyo, Singapore and South Korea",
-   "titleZh": "恒创科技双 11：云服务器 2.2 折起 ¥32/月，香港/洛杉矶/东京/新加坡/韩国等14机房可选",
-   "valueText": "¥32/月起",
-   "valueTextEn": "From ¥32/month",
-   "valueTextZh": "¥32/月起",
-   "valueUsd": null,
-   "vendor": "恒创科技",
-   "verified": false,
-   "linkType": "source",
-   "accessUrl": "https://www.daniao.org/30727.html",
-   "regionCodes": [
-    "hk",
-    "us",
-    "sg",
-    "jp",
-    "kr"
    ]
   },
   {
@@ -11850,6 +12469,61 @@
    ]
   },
   {
+   "category": "membership",
+   "conditions": "来源未注明；首年优惠，具体资格、适用产品与条款以官方页面为准。",
+   "conditionsEn": "Not specified in source; first-year offer — eligibility, applicable products and terms are as shown on the official page.",
+   "conditionsZh": "来源未注明；首年优惠，具体资格、适用产品与条款以官方页面为准。",
+   "endsAt": null,
+   "firstSeenAt": "2026-11-15T17:37:42.352Z",
+   "freeType": "折扣优惠",
+   "lastVerifiedAt": "2026-11-15T17:37:34.834Z",
+   "market": "global",
+   "offer": "黑色星期五期间，旗舰级创意应用程式组合包 Creative Cloud Pro 首年半价。",
+   "offerEn": "During Black Friday, the flagship Creative Cloud Pro bundle is 50% off for the first year.",
+   "offerZh": "黑色星期五期间，旗舰级创意应用程式组合包 Creative Cloud Pro 首年半价。",
+   "officialUrl": "",
+   "regions": "来源未注明",
+   "regionsEn": "Not specified in source",
+   "regionsZh": "来源未注明",
+   "riskEn": "The subscription may renew at the full price after the first year; confirm the renewal price and terms before subscribing.",
+   "riskNote": "订阅到期后可能按原价自动续费，购买前请确认续费价格与条款。",
+   "riskZh": "订阅到期后可能按原价自动续费，购买前请确认续费价格与条款。",
+   "saved": false,
+   "sourceName": "otco.io",
+   "sourceUrl": "https://otco.io/technology/47596/",
+   "startsAt": null,
+   "status": "active",
+   "steps": [
+    "打开活动来源页面",
+    "按页面指引前往 Adobe 官方活动页",
+    "注册/登录 Adobe 账号并按页面指引订阅 Creative Cloud Pro"
+   ],
+   "stepsEn": [
+    "Open the source page for the promotion",
+    "Follow the link to Adobe's official promotion page",
+    "Sign in or create an Adobe account and subscribe to Creative Cloud Pro as instructed"
+   ],
+   "stepsZh": [
+    "打开活动来源页面",
+    "按页面指引前往 Adobe 官方活动页",
+    "注册/登录 Adobe 账号并按页面指引订阅 Creative Cloud Pro"
+   ],
+   "title": "奧多比黑色星期五促銷",
+   "titleEn": "Adobe Black Friday Promotion",
+   "titleZh": "奧多比黑色星期五促銷",
+   "valueText": "首年半价",
+   "valueTextEn": "50% off first year",
+   "valueTextZh": "首年半价",
+   "valueUsd": null,
+   "vendor": "Adobe",
+   "verified": false,
+   "linkType": "source",
+   "accessUrl": "https://otco.io/technology/47596/",
+   "regionCodes": [
+    "unspecified"
+   ]
+  },
+  {
    "category": "ai",
    "conditions": "需注册账号；来源未注明地区、KYC或绑卡等其他条件",
    "conditionsEn": "Account registration required; no region, KYC or card-binding requirements specified in the source.",
@@ -12073,6 +12747,64 @@
    "accessUrl": "https://lozza64.wixsite.com/philippine-shop-on-l/post/-lazada-11-11-trending-picks-global-brands-lifestyle--tech-blowout-",
    "regionCodes": [
     "ph"
+   ]
+  },
+  {
+   "category": "other",
+   "conditions": "Use Toss FacePay for payment; 20% accumulation applies with a cap of ₩60,000. Source does not specify other eligibility details.",
+   "conditionsEn": "Use Toss FacePay for payment; 20% accumulation applies with a cap of ₩60,000. Source does not specify other eligibility details.",
+   "conditionsZh": "须使用 Toss FacePay 支付；20% 返还最高累计 6 万韩元。来源未注明其他资格条件。",
+   "endsAt": "2026-12-31",
+   "firstSeenAt": "2026-11-15T15:35:50.966Z",
+   "freeType": "返现优惠",
+   "lastVerifiedAt": "2026-11-15T15:35:43.268Z",
+   "market": "asia",
+   "offer": "Pay with Toss FacePay and get 20% of the payment amount back, up to ₩60,000, through the end of 2026.",
+   "offerEn": "Pay with Toss FacePay and get 20% of the payment amount back, up to ₩60,000, through the end of 2026.",
+   "offerZh": "使用 Toss FacePay 支付可获得支付金额 20% 的返还，最高 6 万韩元，活动持续至 2026 年底。",
+   "officialUrl": "",
+   "regions": "South Korea",
+   "regionsEn": "South Korea",
+   "regionsZh": "韩国",
+   "riskEn": "The 20% rate is a limited-time promotion; the ₩60,000 cap applies. Check the promotion page for any exclusions or expiry of accumulated rewards.",
+   "riskNote": "The 20% rate is a limited-time promotion; the ₩60,000 cap applies. Check the promotion page for any exclusions or expiry of accumulated rewards.",
+   "riskZh": "20% 为限时活动，返还上限为 6 万韩元；请在活动页面确认适用范围及返还的有效期。",
+   "saved": false,
+   "sourceName": "global.newspim.com",
+   "sourceUrl": "https://global.newspim.com/news/view/20261026000133",
+   "startsAt": null,
+   "status": "active",
+   "steps": [
+    "Open the official link and check the FacePay promotion details",
+    "Register for and set up Toss FacePay",
+    "Pay with FacePay",
+    "Receive 20% back, up to ₩60,000, through year-end"
+   ],
+   "stepsEn": [
+    "Open the official link and check the FacePay promotion details",
+    "Register for and set up Toss FacePay",
+    "Pay with FacePay",
+    "Receive 20% back, up to ₩60,000, through year-end"
+   ],
+   "stepsZh": [
+    "打开官方链接，查看 FacePay 活动详情",
+    "注册并开通 Toss FacePay",
+    "使用 FacePay 进行支付",
+    "获得 20% 返还，最高 6 万韩元，活动至年底"
+   ],
+   "title": "Toss Runs 20% Face Pay Cashback Promotion Through Year-End",
+   "titleEn": "Toss Runs 20% Face Pay Cashback Promotion Through Year-End",
+   "titleZh": "Toss Face Pay 年底前 20% 返现活动",
+   "valueText": "20% back, up to ₩60,000",
+   "valueTextEn": "20% back, up to ₩60,000",
+   "valueTextZh": "20% 返现，最高 6 万韩元",
+   "valueUsd": null,
+   "vendor": "Toss",
+   "verified": false,
+   "linkType": "source",
+   "accessUrl": "https://global.newspim.com/news/view/20261026000133",
+   "regionCodes": [
+    "kr"
    ]
   },
   {
@@ -12682,64 +13414,6 @@
   },
   {
    "category": "software",
-   "conditions": "限时优惠；须在首次开启 App 时完成引导设置，并在最后一页选择 $0.00 终身 Premium 方案。",
-   "conditionsEn": "Limited-time offer; available on first launch after completing onboarding and selecting the $0.00 lifetime Premium option on the final slide.",
-   "conditionsZh": "限时优惠；须在首次开启 App 时完成引导设置，并在最后一页选择 $0.00 终身 Premium 方案。",
-   "endsAt": null,
-   "firstSeenAt": "2026-11-15T13:37:01.295Z",
-   "freeType": "真正免费",
-   "lastVerifiedAt": "2026-11-15T17:37:34.834Z",
-   "market": "global",
-   "offer": "限时优惠：首次开启 App 并完成引导设置，在最后一页引导幻灯片上选择 $0.00 终身 Premium 方案，即可免费解锁进阶功能。",
-   "offerEn": "For a limited time, complete the first-launch onboarding and select the $0.00 lifetime Premium plan on the final onboarding slide to unlock Premium features for free.",
-   "offerZh": "限时优惠：首次开启 App 并完成引导设置，在最后一页引导幻灯片上选择 $0.00 终身 Premium 方案，即可免费解锁进阶功能。",
-   "officialUrl": "",
-   "regions": "来源未注明",
-   "regionsEn": "Not specified",
-   "regionsZh": "来源未注明",
-   "riskEn": "Limited-time offer; it may end at any time.",
-   "riskNote": "限时优惠，随时可能结束",
-   "riskZh": "限时优惠，随时可能结束",
-   "saved": false,
-   "sourceName": "thethingstech.com",
-   "sourceUrl": "https://thethingstech.com/blog/p/mealify-2-0-lifetime-premium-free-2026-11-13",
-   "startsAt": null,
-   "status": "active",
-   "steps": [
-    "打开来源链接了解领取方式",
-    "下载并首次开启 Mealify 2.0",
-    "完成引导设置",
-    "在最后一页选择 $0.00 终身 Premium 方案并确认解锁"
-   ],
-   "stepsEn": [
-    "Open the source link for the redemption details",
-    "Download and open Mealify 2.0 for the first time",
-    "Complete the onboarding setup",
-    "On the final slide, select the $0.00 lifetime Premium plan and confirm the unlock"
-   ],
-   "stepsZh": [
-    "打开来源链接了解领取方式",
-    "下载并首次开启 Mealify 2.0",
-    "完成引导设置",
-    "在最后一页选择 $0.00 终身 Premium 方案并确认解锁"
-   ],
-   "title": "Mealify 2.0 限時免費取得終身 Premium 資格",
-   "titleEn": "Mealify 2.0: Get Lifetime Premium for Free for a Limited Time",
-   "titleZh": "Mealify 2.0 限時免費取得終身 Premium 資格",
-   "valueText": "终身 Premium 免费",
-   "valueTextEn": "Lifetime Premium free",
-   "valueTextZh": "终身 Premium 免费",
-   "valueUsd": null,
-   "vendor": "Mealify",
-   "verified": false,
-   "linkType": "source",
-   "accessUrl": "https://thethingstech.com/blog/p/mealify-2-0-lifetime-premium-free-2026-11-13",
-   "regionCodes": [
-    "unspecified"
-   ]
-  },
-  {
-   "category": "software",
    "conditions": "For Windows and Mac; for Allavsoft Video and Music Downloader version 3.29.7.9809.",
    "conditionsEn": "For Windows and Mac; for Allavsoft Video and Music Downloader version 3.29.7.9809.",
    "conditionsZh": "适用于 Windows 与 Mac；适用于 Allavsoft Video and Music Downloader 3.29.7.9809 版本。",
@@ -12792,6 +13466,61 @@
    "verified": false,
    "linkType": "source",
    "accessUrl": "https://www.sawahits.com/allavsoft-downloader-free-license-giveaway/",
+   "regionCodes": [
+    "unspecified"
+   ]
+  },
+  {
+   "category": "membership",
+   "conditions": "需复制口令 $7naa6r3407f339$ 并在网易云音乐 App 内打开领取；随机约 7 天，先到先得；该帖分享的名额共 128 天；11 月黑胶会员卡，领取享 20+ 会员权益；具体截止日期来源未注明，适用范围来源未注明",
+   "conditionsEn": "Copy code $7naa6r3407f339$ and open it in the 网易云音乐 app to claim; random duration of about 7 days, first come, first served; the total quota shared in this post is 128 days; November 黑胶会员 card with 20+ membership benefits; no specific deadline stated in the source; applicable regions not specified in the source.",
+   "conditionsZh": "需复制口令 $7naa6r3407f339$ 并在网易云音乐 App 内打开领取；随机约 7 天，先到先得；该帖分享的名额共 128 天；11 月黑胶会员卡，领取享 20+ 会员权益；具体截止日期来源未注明，适用范围来源未注明",
+   "endsAt": null,
+   "firstSeenAt": "2026-11-15T11:31:07.562Z",
+   "freeType": "需要邀请",
+   "lastVerifiedAt": "2026-11-15T11:31:03.667Z",
+   "market": "asia",
+   "offer": "复制口令在网易云音乐 App 内领取 11 月黑胶会员卡，随机约 7 天，享 20+ 会员权益",
+   "offerEn": "Copy the code and claim the November 黑胶会员 card in the 网易云音乐 app; random duration of about 7 days, with 20+ membership benefits.",
+   "offerZh": "复制口令在网易云音乐 App 内领取 11 月黑胶会员卡，随机约 7 天，享 20+ 会员权益",
+   "officialUrl": "",
+   "regions": "来源未注明",
+   "regionsEn": "Not specified in the source",
+   "regionsZh": "来源未注明",
+   "riskEn": "Limited quota, first come, first served until gone; activity rules are subject to the organizer's page.",
+   "riskNote": "名额有限，先到先得，抢完即止；活动规则以主办方页面为准",
+   "riskZh": "名额有限，先到先得，抢完即止；活动规则以主办方页面为准",
+   "saved": false,
+   "sourceName": "V2EX",
+   "sourceUrl": "https://www.v2ex.com/t/1253682",
+   "startsAt": null,
+   "status": "active",
+   "steps": [
+    "复制整段文案及口令 $7naa6r3407f339$",
+    "打开「网易云音乐」App",
+    "领取 11 月黑胶会员卡"
+   ],
+   "stepsEn": [
+    "Copy the full text and code $7naa6r3407f339$",
+    "Open the 网易云音乐 app",
+    "Claim the November 黑胶会员 card"
+   ],
+   "stepsZh": [
+    "复制整段文案及口令 $7naa6r3407f339$",
+    "打开「网易云音乐」App",
+    "领取 11 月黑胶会员卡"
+   ],
+   "title": "网易云音乐领免费黑胶会员（随机约 7 天）",
+   "titleEn": "网易云音乐 Claim Free 黑胶会员 (Random ~7 Days)",
+   "titleZh": "网易云音乐领免费黑胶会员（随机约 7 天）",
+   "valueText": "随机约7天黑胶会员",
+   "valueTextEn": "Random ~7-day 黑胶会员",
+   "valueTextZh": "随机约7天黑胶会员",
+   "valueUsd": null,
+   "vendor": "网易云音乐",
+   "verified": false,
+   "linkType": "source",
+   "accessUrl": "https://www.v2ex.com/t/1253682",
    "regionCodes": [
     "unspecified"
    ]
@@ -13020,6 +13749,61 @@
    ]
   },
   {
+   "category": "membership",
+   "conditions": "需通过邀请链接或分享文案在网易云音乐 App 内领取；为 11 月黑胶会员卡，天数随机；来源未注明其他资格与限量条件。",
+   "conditionsEn": "Claim it in the NetEase Cloud Music app via the invitation link or shared text; it is a November Black Vinyl membership card and the number of days is random; other eligibility or quota limits are not specified in the source.",
+   "conditionsZh": "需通过邀请链接或分享文案在网易云音乐 App 内领取；为 11 月黑胶会员卡，天数随机；来源未注明其他资格与限量条件。",
+   "endsAt": null,
+   "firstSeenAt": "2026-11-15T09:31:54.528Z",
+   "freeType": "需要邀请",
+   "lastVerifiedAt": "2026-11-15T09:31:48.749Z",
+   "market": "asia",
+   "offer": "通过邀请分享领取网易云音乐 11 月黑胶会员卡，享 20+ 会员权益，天数随机。",
+   "offerEn": "Claim a November Black Vinyl membership card for NetEase Cloud Music via an invitation share, with 20+ membership benefits; the number of days is random.",
+   "offerZh": "通过邀请分享领取网易云音乐 11 月黑胶会员卡，享 20+ 会员权益，天数随机。",
+   "officialUrl": "",
+   "regions": "中国大陆",
+   "regionsEn": "Mainland China",
+   "regionsZh": "中国大陆",
+   "riskEn": "The number of days is random, and the invitation link may be time-limited or subject to quotas; the event rules are subject to the organiser's page.",
+   "riskNote": "天数随机，邀请链接可能有时效或限量，活动规则以主办方页面为准。",
+   "riskZh": "天数随机，邀请链接可能有时效或限量，活动规则以主办方页面为准。",
+   "saved": false,
+   "sourceName": "V2EX",
+   "sourceUrl": "https://www.v2ex.com/t/1253648",
+   "startsAt": null,
+   "status": "active",
+   "steps": [
+    "复制帖子中的分享文案或打开邀请链接",
+    "打开「网易云音乐」App",
+    "按提示领取 11 月黑胶会员卡"
+   ],
+   "stepsEn": [
+    "Copy the shared text in the post or open the invitation link",
+    "Open the NetEase Cloud Music app",
+    "Follow the prompts to claim the November Black Vinyl membership card"
+   ],
+   "stepsZh": [
+    "复制帖子中的分享文案或打开邀请链接",
+    "打开「网易云音乐」App",
+    "按提示领取 11 月黑胶会员卡"
+   ],
+   "title": "网易云音乐黑胶会员领取",
+   "titleEn": "NetEase Cloud Music Black Vinyl Membership Claim",
+   "titleZh": "网易云音乐黑胶会员领取",
+   "valueText": "黑胶会员",
+   "valueTextEn": "Black Vinyl membership",
+   "valueTextZh": "黑胶会员",
+   "valueUsd": null,
+   "vendor": "网易云音乐",
+   "verified": false,
+   "linkType": "source",
+   "accessUrl": "https://www.v2ex.com/t/1253648",
+   "regionCodes": [
+    "cn"
+   ]
+  },
+  {
    "category": "travel",
    "conditions": "For eligible visitors only; specific eligibility and booking requirements were not fully stated in the source excerpt.",
    "conditionsEn": "For eligible visitors only; specific eligibility and booking requirements were not fully stated in the source excerpt.",
@@ -13130,6 +13914,61 @@
    "accessUrl": "https://classpass.fr/refer/VBOOAFUO10",
    "regionCodes": [
     "unspecified"
+   ]
+  },
+  {
+   "category": "food",
+   "conditions": "For users in Australia; promo code, minimum spend and expiry were not specified in the source excerpt.",
+   "conditionsEn": "For users in Australia; promo code, minimum spend and expiry were not specified in the source excerpt.",
+   "conditionsZh": "仅限澳大利亚用户；来源摘要未注明优惠码、最低消费与截止日期。",
+   "endsAt": null,
+   "firstSeenAt": "2026-11-15T09:31:50.651Z",
+   "freeType": "折扣优惠",
+   "lastVerifiedAt": "2026-11-15T13:36:58.155Z",
+   "market": "western",
+   "offer": "$20 off DoorDash for Australians, listed among the site's favourite food-delivery codes for 2026.",
+   "offerEn": "$20 off DoorDash for Australians, listed among the site's favourite food-delivery codes for 2026.",
+   "offerZh": "澳大利亚用户在 DoorDash 可享 $20 优惠，为该站 2026 年推荐的外卖优惠之一。",
+   "officialUrl": "",
+   "regions": "Australia",
+   "regionsEn": "Australia",
+   "regionsZh": "澳大利亚",
+   "riskEn": "Terms may change; check the minimum spend, code and expiry on the deal page before ordering.",
+   "riskNote": "Terms may change; check the minimum spend, code and expiry on the deal page before ordering.",
+   "riskZh": "条款可能变更，下单前请在优惠页面确认最低消费、优惠码与有效期。",
+   "saved": false,
+   "sourceName": "flighthacks.com.au",
+   "sourceUrl": "http://flighthacks.com.au/food-and-drink-deals/",
+   "startsAt": null,
+   "status": "active",
+   "steps": [
+    "Open the source link and find the $20 DoorDash discount for Australians",
+    "Copy the code shown on the page",
+    "Apply the code at DoorDash checkout and confirm the $20 discount"
+   ],
+   "stepsEn": [
+    "Open the source link and find the $20 DoorDash discount for Australians",
+    "Copy the code shown on the page",
+    "Apply the code at DoorDash checkout and confirm the $20 discount"
+   ],
+   "stepsZh": [
+    "打开来源链接，找到面向澳大利亚用户的 DoorDash $20 优惠",
+    "复制页面上显示的优惠码",
+    "在 DoorDash 结算时使用该优惠码并确认已减 $20"
+   ],
+   "title": "$20 DoorDash Discount For Australians",
+   "titleEn": "$20 DoorDash Discount For Australians",
+   "titleZh": "澳大利亚用户享 DoorDash $20 优惠",
+   "valueText": "$20 OFF",
+   "valueTextEn": "$20 OFF",
+   "valueTextZh": "立减 $20",
+   "valueUsd": null,
+   "vendor": "DoorDash",
+   "verified": false,
+   "linkType": "source",
+   "accessUrl": "http://flighthacks.com.au/food-and-drink-deals/",
+   "regionCodes": [
+    "au"
    ]
   },
   {
@@ -13359,6 +14198,64 @@
    ]
   },
   {
+   "category": "travel",
+   "conditions": "Targeted members only; source does not state other eligibility details.",
+   "conditionsEn": "Targeted members only; source does not state other eligibility details.",
+   "conditionsZh": "僅限指定會員；來源未註明其他資格詳情。",
+   "endsAt": "2026-11-23",
+   "firstSeenAt": "2026-11-15T05:32:49.492Z",
+   "freeType": "折扣优惠",
+   "lastVerifiedAt": "2026-11-15T05:32:45.168Z",
+   "market": "global",
+   "offer": "Through November 23, 2026, targeted members can buy a multiple of the miles they recently earned, with a 50% bonus, up to 16x their recent miles.",
+   "offerEn": "Through November 23, 2026, targeted members can buy a multiple of the miles they recently earned, with a 50% bonus, up to 16x their recent miles.",
+   "offerZh": "至 2026 年 11 月 23 日，指定會員可購買其近期累積哩程的倍數，享 50% 獎勵，最高可達近期哩程的 16 倍。",
+   "officialUrl": "",
+   "regions": "Not stated in the source",
+   "regionsEn": "Not stated in the source",
+   "regionsZh": "來源未註明",
+   "riskEn": "Buying miles is a paid purchase; check the per-mile cost and redemption value before buying.",
+   "riskNote": "Buying miles is a paid purchase; check the per-mile cost and redemption value before buying.",
+   "riskZh": "購買哩程為付費消費，購買前請先確認每哩成本與兌換價值。",
+   "saved": false,
+   "sourceName": "pointsfrog.com",
+   "sourceUrl": "https://www.pointsfrog.com/news/flying-blue-multiply-your-miles-16x-50-percent-bonus-november-23-2026",
+   "startsAt": null,
+   "status": "active",
+   "steps": [
+    "Open the official link",
+    "Log in to your Flying Blue account",
+    "Check whether you are eligible for the Multiply Your Miles offer",
+    "Follow the on-page instructions to buy miles"
+   ],
+   "stepsEn": [
+    "Open the official link",
+    "Log in to your Flying Blue account",
+    "Check whether you are eligible for the Multiply Your Miles offer",
+    "Follow the on-page instructions to buy miles"
+   ],
+   "stepsZh": [
+    "打開官方連結",
+    "登入 Flying Blue 帳戶",
+    "確認是否符合 Multiply Your Miles 活動資格",
+    "按頁面指引購買哩程"
+   ],
+   "title": "Flying Blue lets some members buy up to 16x their recent miles with a 50% bonus, through Nov. 23",
+   "titleEn": "Flying Blue lets some members buy up to 16x their recent miles with a 50% bonus, through Nov. 23",
+   "titleZh": "Flying Blue 讓部分會員以 50% 獎勵購買最高 16 倍近期哩程，至 11 月 23 日",
+   "valueText": "50% bonus miles",
+   "valueTextEn": "50% bonus miles",
+   "valueTextZh": "50% 獎勵哩程",
+   "valueUsd": null,
+   "vendor": "Flying Blue",
+   "verified": false,
+   "linkType": "source",
+   "accessUrl": "https://www.pointsfrog.com/news/flying-blue-multiply-your-miles-16x-50-percent-bonus-november-23-2026",
+   "regionCodes": [
+    "unspecified"
+   ]
+  },
+  {
    "category": "entertainment",
    "conditions": "Activation of a new Windows computer is required; no other conditions specified in the source.",
    "conditionsEn": "Activation of a new Windows computer is required; no other conditions specified in the source.",
@@ -13582,6 +14479,61 @@
    ]
   },
   {
+   "category": "membership",
+   "conditions": "需复制帖内口令 $NzyYj2343199ae$ 自取领取，需在网易云音乐 App 内领取；帖子称名额快过期，先到先得，领完即止；11 月黑胶会员卡，领取享 20+ 会员权益；适用地区与具体截止日期来源未注明。",
+   "conditionsEn": "Copy the code $NzyYj2343199ae$ from the post to claim it yourself in the NetEase Cloud Music app; the post says the quota is expiring soon, first come, first served until it runs out; November Black Vinyl membership card with 20+ membership benefits; applicable regions and exact end date are not specified in the source.",
+   "conditionsZh": "需复制帖内口令 $NzyYj2343199ae$ 自取领取，需在网易云音乐 App 内领取；帖子称名额快过期，先到先得，领完即止；11 月黑胶会员卡，领取享 20+ 会员权益；适用地区与具体截止日期来源未注明。",
+   "endsAt": null,
+   "firstSeenAt": "2026-11-15T03:33:28.069Z",
+   "freeType": "需要邀请",
+   "lastVerifiedAt": "2026-11-15T03:33:17.401Z",
+   "market": "asia",
+   "offer": "通过黑胶邀请官口令自取领取网易云音乐 11 月黑胶会员卡，享 20+ 会员权益；帖子称名额快过期，先到先得。",
+   "offerEn": "Claim a NetEase Cloud Music November Black Vinyl membership card via a Black Vinyl inviter code, with 20+ membership benefits; the post says the quota is expiring soon, first come, first served.",
+   "offerZh": "通过黑胶邀请官口令自取领取网易云音乐 11 月黑胶会员卡，享 20+ 会员权益；帖子称名额快过期，先到先得。",
+   "officialUrl": "",
+   "regions": "来源未注明",
+   "regionsEn": "Not specified in source",
+   "regionsZh": "来源未注明",
+   "riskEn": "The quota is expiring soon and limited, first come, first served until it runs out; the organizer's page governs the activity rules.",
+   "riskNote": "名额快过期，数量有限，先到先得，领完即止；活动规则以主办方页面为准。",
+   "riskZh": "名额快过期，数量有限，先到先得，领完即止；活动规则以主办方页面为准。",
+   "saved": false,
+   "sourceName": "V2EX",
+   "sourceUrl": "https://www.v2ex.com/t/1254653",
+   "startsAt": null,
+   "status": "active",
+   "steps": [
+    "复制帖内整段文案，含口令 $NzyYj2343199ae$",
+    "打开「网易云音乐」App",
+    "按提示领取 11 月黑胶会员卡"
+   ],
+   "stepsEn": [
+    "Copy the full text from the post, including the code $NzyYj2343199ae$",
+    "Open the NetEase Cloud Music app",
+    "Follow the prompts to claim the November Black Vinyl membership card"
+   ],
+   "stepsZh": [
+    "复制帖内整段文案，含口令 $NzyYj2343199ae$",
+    "打开「网易云音乐」App",
+    "按提示领取 11 月黑胶会员卡"
+   ],
+   "title": "网易云音乐领黑胶会员（名额快过期）",
+   "titleEn": "NetEase Cloud Music Black Vinyl Membership (Quota Expiring Soon)",
+   "titleZh": "网易云音乐领黑胶会员（名额快过期）",
+   "valueText": "黑胶会员卡",
+   "valueTextEn": "Black Vinyl card",
+   "valueTextZh": "黑胶会员卡",
+   "valueUsd": null,
+   "vendor": "网易云音乐",
+   "verified": false,
+   "linkType": "source",
+   "accessUrl": "https://www.v2ex.com/t/1254653",
+   "regionCodes": [
+    "unspecified"
+   ]
+  },
+  {
    "category": "cloud",
    "conditions": "適用於新客首年優惠；來源摘要提及有效期至11月2日，但未寫明完整年份與其他適用條件，截止日期不作推測。",
    "conditionsEn": "For new customers' first-year offers; the source snippet mentions validity until 2 November but does not give the complete date or other eligibility details, so no end date is inferred.",
@@ -13753,6 +14705,64 @@
    ]
   },
   {
+   "category": "bank",
+   "conditions": "Play the 'Find the Jelly' game in Toss Bank. Source did not specify coupon value, quantity, eligibility or promotion period.",
+   "conditionsEn": "Play the 'Find the Jelly' game in Toss Bank. Source did not specify coupon value, quantity, eligibility or promotion period.",
+   "conditionsZh": "在 Toss Bank 参与「Find the Jelly」游戏；来源未注明优惠券面额、数量、参与资格或活动期限。",
+   "endsAt": null,
+   "firstSeenAt": "2026-11-15T03:33:24.699Z",
+   "freeType": "混合优惠",
+   "lastVerifiedAt": "2026-11-15T03:33:17.401Z",
+   "market": "asia",
+   "offer": "Play the 'Find the Jelly' game in Toss Bank to receive Tous les Jours coupons.",
+   "offerEn": "Play the 'Find the Jelly' game in Toss Bank to receive Tous les Jours coupons.",
+   "offerZh": "在 Toss Bank 参与「Find the Jelly」游戏，可获得 Tous les Jours 优惠券。",
+   "officialUrl": "",
+   "regions": "韩国",
+   "regionsEn": "South Korea",
+   "regionsZh": "韩国",
+   "riskEn": "Coupons may have usage periods and store restrictions; check the page / app for the terms.",
+   "riskNote": "优惠券可能有使用期限与门店限制，以页面/App 说明为准。",
+   "riskZh": "优惠券可能有使用期限与门店限制，以页面/App 说明为准。",
+   "saved": false,
+   "sourceName": "global.newspim.com",
+   "sourceUrl": "https://global.newspim.com/news/view/20261030000235",
+   "startsAt": "2026-10-30",
+   "status": "active",
+   "steps": [
+    "打开活动链接查看详情",
+    "打开 Toss Bank 应用并登录",
+    "参与「Find the Jelly」游戏",
+    "按页面指引领取 Tous les Jours 优惠券"
+   ],
+   "stepsEn": [
+    "Open the promotion link for details",
+    "Open the Toss Bank app and sign in",
+    "Play the 'Find the Jelly' game",
+    "Follow the page instructions to claim the Tous les Jours coupons"
+   ],
+   "stepsZh": [
+    "打开活动链接查看详情",
+    "打开 Toss Bank 应用并登录",
+    "参与「Find the Jelly」游戏",
+    "按页面指引领取 Tous les Jours 优惠券"
+   ],
+   "title": "Toss Bank Offers Tous les Jours Coupons for Playing 'Find the Jelly' Game",
+   "titleEn": "Toss Bank Offers Tous les Jours Coupons for Playing 'Find the Jelly' Game",
+   "titleZh": "Toss Bank 玩「Find the Jelly」游戏可得 Tous les Jours 优惠券",
+   "valueText": "",
+   "valueTextEn": "",
+   "valueTextZh": "",
+   "valueUsd": null,
+   "vendor": "Toss Bank",
+   "verified": false,
+   "linkType": "source",
+   "accessUrl": "https://global.newspim.com/news/view/20261030000235",
+   "regionCodes": [
+    "kr"
+   ]
+  },
+  {
    "category": "other",
    "conditions": "Purchase required; minimum spend and end date not specified in source.",
    "conditionsEn": "Purchase required; minimum spend and end date not specified in source.",
@@ -13860,6 +14870,64 @@
    "accessUrl": "https://classpass.fr/refer/3F6V18L222?utm_source=hoobe&utm_medium=social",
    "regionCodes": [
     "unspecified"
+   ]
+  },
+  {
+   "category": "telecom",
+   "conditions": "Enter code NEWTOAIRALO15 at sign-up or checkout; source does not state other eligibility restrictions.",
+   "conditionsEn": "Enter code NEWTOAIRALO15 at sign-up or checkout; source does not state other eligibility restrictions.",
+   "conditionsZh": "在注册或结账时输入优惠码 NEWTOAIRALO15；来源未注明其他资格限制。",
+   "endsAt": null,
+   "firstSeenAt": "2026-11-15T03:33:23.072Z",
+   "freeType": "折扣优惠",
+   "lastVerifiedAt": "2026-11-15T03:33:17.401Z",
+   "market": "global",
+   "offer": "Use promo code NEWTOAIRALO15 to get 15% off Airalo eSIMs, covering more than 200 destinations.",
+   "offerEn": "Use promo code NEWTOAIRALO15 to get 15% off Airalo eSIMs, covering more than 200 destinations.",
+   "offerZh": "使用优惠码 NEWTOAIRALO15 购买 Airalo eSIM 可享 85 折，覆盖 200 多个目的地。",
+   "officialUrl": "",
+   "regions": "Global",
+   "regionsEn": "Global",
+   "regionsZh": "全球",
+   "riskEn": "Discount is applied at checkout; prices and availability vary by destination — verify the final price before paying.",
+   "riskNote": "Discount is applied at checkout; prices and availability vary by destination — verify the final price before paying.",
+   "riskZh": "折扣在结账时生效；价格与可用性因目的地而异，付款前请确认最终价格。",
+   "saved": false,
+   "sourceName": "dailystoke.com",
+   "sourceUrl": "https://dailystoke.com/esim/airalo-review/",
+   "startsAt": null,
+   "status": "active",
+   "steps": [
+    "Open the source link and go to Airalo",
+    "Choose an eSIM plan for your destination",
+    "Enter promo code NEWTOAIRALO15 at sign-up or checkout",
+    "Complete payment and install the eSIM as instructed"
+   ],
+   "stepsEn": [
+    "Open the source link and go to Airalo",
+    "Choose an eSIM plan for your destination",
+    "Enter promo code NEWTOAIRALO15 at sign-up or checkout",
+    "Complete payment and install the eSIM as instructed"
+   ],
+   "stepsZh": [
+    "打开来源链接并进入 Airalo",
+    "选择目的地对应的 eSIM 套餐",
+    "在注册或结账时输入优惠码 NEWTOAIRALO15",
+    "完成付款并按指引安装 eSIM"
+   ],
+   "title": "Airalo Promo Code NEWTOAIRALO15: 15% Off eSIMs (2026)",
+   "titleEn": "Airalo Promo Code NEWTOAIRALO15: 15% Off eSIMs (2026)",
+   "titleZh": "Airalo 优惠码 NEWTOAIRALO15：eSIM 立减 15%（2026）",
+   "valueText": "15% OFF",
+   "valueTextEn": "15% OFF",
+   "valueTextZh": "立减 15%",
+   "valueUsd": null,
+   "vendor": "Airalo",
+   "verified": false,
+   "linkType": "source",
+   "accessUrl": "https://dailystoke.com/esim/airalo-review/",
+   "regionCodes": [
+    "global"
    ]
   },
   {
@@ -14414,6 +15482,61 @@
    ]
   },
   {
+   "category": "membership",
+   "conditions": "需在网易云音乐 App 内自取领取；复制帖内整段文案并使用口令 1http:/$vyA32q34339fba$ 打开 App 领取；领取天数随机，先到先得，领完即止；帖子未注明新老用户等其他限制。",
+   "conditionsEn": "Claim it yourself inside the NetEase Cloud Music app; copy the full text in the post and use the code 1http:/$vyA32q34339fba$ to open the app and claim it. The duration is random, first come, first served until gone. The post does not specify other restrictions such as new or existing users.",
+   "conditionsZh": "需在网易云音乐 App 内自取领取；复制帖内整段文案并使用口令 1http:/$vyA32q34339fba$ 打开 App 领取；领取天数随机，先到先得，领完即止；帖子未注明新老用户等其他限制。",
+   "endsAt": null,
+   "firstSeenAt": "2026-11-14T19:35:33.449Z",
+   "freeType": "需要邀请",
+   "lastVerifiedAt": "2026-11-14T19:35:30.399Z",
+   "market": "asia",
+   "offer": "通过分享的口令自取领取网易云音乐11月黑胶会员卡，随机天数，享20+会员权益。",
+   "offerEn": "Claim a NetEase Cloud Music November Black VIP membership card yourself via the shared code, for a random number of days, with 20+ membership benefits.",
+   "offerZh": "通过分享的口令自取领取网易云音乐11月黑胶会员卡，随机天数，享20+会员权益。",
+   "officialUrl": "",
+   "regions": "中国大陆",
+   "regionsEn": "Mainland China",
+   "regionsZh": "中国大陆",
+   "riskEn": "Limited quota, first come, first served until gone; the organizer's page governs the activity rules.",
+   "riskNote": "名额有限，先到先得，领完即止；活动规则以主办方页面为准。",
+   "riskZh": "名额有限，先到先得，领完即止；活动规则以主办方页面为准。",
+   "saved": false,
+   "sourceName": "V2EX",
+   "sourceUrl": "https://www.v2ex.com/t/1254708",
+   "startsAt": null,
+   "status": "active",
+   "steps": [
+    "复制帖内整段文案（含口令 1http:/$vyA32q34339fba$）",
+    "打开「网易云音乐」App",
+    "按提示领取11月黑胶会员卡"
+   ],
+   "stepsEn": [
+    "Copy the full text in the post, including the code 1http:/$vyA32q34339fba$",
+    "Open the NetEase Cloud Music app",
+    "Follow the prompts to claim the November Black VIP membership card"
+   ],
+   "stepsZh": [
+    "复制帖内整段文案（含口令 1http:/$vyA32q34339fba$）",
+    "打开「网易云音乐」App",
+    "按提示领取11月黑胶会员卡"
+   ],
+   "title": "网易云音乐免费领黑胶会员（随机天数）",
+   "titleEn": "NetEase Cloud Music: Claim Free Black VIP Membership (Random Duration)",
+   "titleZh": "网易云音乐免费领黑胶会员（随机天数）",
+   "valueText": "随机天数黑胶VIP",
+   "valueTextEn": "Random-day Black VIP",
+   "valueTextZh": "随机天数黑胶VIP",
+   "valueUsd": null,
+   "vendor": "网易云音乐",
+   "verified": false,
+   "linkType": "source",
+   "accessUrl": "https://www.v2ex.com/t/1254708",
+   "regionCodes": [
+    "cn"
+   ]
+  },
+  {
    "category": "telecom",
    "conditions": "Use code NEWTOAIRALO15 at checkout; the source does not specify other eligibility details.",
    "conditionsEn": "Use code NEWTOAIRALO15 at checkout; the source does not specify other eligibility details.",
@@ -14579,6 +15702,64 @@
    "accessUrl": "https://medium.com/@johndallansi/freedom24-welcome-bonus-free-stocks-what-you-should-know-b09b9ccbd36c",
    "regionCodes": [
     "unspecified"
+   ]
+  },
+  {
+   "category": "bank",
+   "conditions": "First opening of a Bfor+ savings account; the 3.5% rate is gross and the source did not state the full promotional period in the excerpt.",
+   "conditionsEn": "First opening of a Bfor+ savings account; the 3.5% rate is gross and the source did not state the full promotional period in the excerpt.",
+   "conditionsZh": "需首次开设 Bfor+ 储蓄账户；3.5% 为毛利率，来源摘录未完整注明优惠期限。",
+   "endsAt": null,
+   "firstSeenAt": "2026-11-14T15:35:03.347Z",
+   "freeType": "混合优惠",
+   "lastVerifiedAt": "2026-11-14T15:35:00.855Z",
+   "market": "western",
+   "offer": "Open a Bfor+ savings account for the first time and get a 3.5% gross interest rate; the promotion runs until December 3.",
+   "offerEn": "Open a Bfor+ savings account for the first time and get a 3.5% gross interest rate; the promotion runs until December 3.",
+   "offerZh": "首次开设 Bfor+ 储蓄账户，可享 3.5% 毛利率；优惠截至 12 月 3 日。",
+   "officialUrl": "",
+   "regions": "France",
+   "regionsEn": "France",
+   "regionsZh": "法国",
+   "riskEn": "The 3.5% rate is gross and promotional; the rate may change after the promotional period and tax may apply.",
+   "riskNote": "The 3.5% rate is gross and promotional; the rate may change after the promotional period and tax may apply.",
+   "riskZh": "3.5% 为毛利率且为限时优惠，优惠期后利率可能变化，并可能涉及税费。",
+   "saved": false,
+   "sourceName": "notitiaplatform.com",
+   "sourceUrl": "https://www.notitiaplatform.com/en/article/wfrax9w",
+   "startsAt": null,
+   "status": "active",
+   "steps": [
+    "Open the source link",
+    "Find the official BforBank Bfor+ link on the page",
+    "Open a Bfor+ savings account for the first time",
+    "Follow the instructions to activate the promotional rate"
+   ],
+   "stepsEn": [
+    "Open the source link",
+    "Find the official BforBank Bfor+ link on the page",
+    "Open a Bfor+ savings account for the first time",
+    "Follow the instructions to activate the promotional rate"
+   ],
+   "stepsZh": [
+    "打开来源链接",
+    "在页面中找到 BforBank Bfor+ 官方链接",
+    "首次开设 Bfor+ 储蓄账户",
+    "按指引激活优惠利率"
+   ],
+   "title": "BforBank Bfor+ Savings Account Promotion",
+   "titleEn": "BforBank Bfor+ Savings Account Promotion",
+   "titleZh": "BforBank Bfor+ 储蓄账户优惠",
+   "valueText": "3.5% interest",
+   "valueTextEn": "3.5% interest",
+   "valueTextZh": "3.5% 利率",
+   "valueUsd": null,
+   "vendor": "BforBank",
+   "verified": false,
+   "linkType": "source",
+   "accessUrl": "https://www.notitiaplatform.com/en/article/wfrax9w",
+   "regionCodes": [
+    "other"
    ]
   },
   {
@@ -15300,61 +16481,6 @@
    ]
   },
   {
-   "category": "ecommerce",
-   "conditions": "11.11 Sale offer; eligible models, purchase requirements and trip-draw terms are not specified in source.",
-   "conditionsEn": "11.11 Sale offer; eligible models, purchase requirements and trip-draw terms are not specified in source.",
-   "conditionsZh": "为 11.11 大促优惠；适用机型、购买要求与抽奖细则来源未注明。",
-   "endsAt": null,
-   "firstSeenAt": "2026-11-14T07:32:29.744Z",
-   "freeType": "混合优惠",
-   "lastVerifiedAt": "2026-11-14T21:32:32.950Z",
-   "market": "asia",
-   "offer": "OPPO's 11.11 Sale offers savings of up to Php 8,000 and a chance to win a trip to Hong Kong Disneyland.",
-   "offerEn": "OPPO's 11.11 Sale offers savings of up to Php 8,000 and a chance to win a trip to Hong Kong Disneyland.",
-   "offerZh": "OPPO 11.11 大促最高可省 Php 8,000，并有机会赢取香港迪士尼乐园之旅。",
-   "officialUrl": "",
-   "regions": "Philippines",
-   "regionsEn": "Philippines",
-   "regionsZh": "菲律宾",
-   "riskEn": "The trip is a prize draw, not a guaranteed reward; savings vary by product.",
-   "riskNote": "The trip is a prize draw, not a guaranteed reward; savings vary by product.",
-   "riskZh": "旅行奖励为抽奖，并非人人可得；优惠金额因产品而异。",
-   "saved": false,
-   "sourceName": "som2nynetwork.com",
-   "sourceUrl": "https://som2nynetwork.com/uncategorized/win-a-trip-to-hong-kong-disneyland-at-oppos-11-11-sale/",
-   "startsAt": null,
-   "status": "active",
-   "steps": [
-    "Open the OPPO 11.11 Sale page",
-    "Browse eligible OPPO products and savings of up to Php 8,000",
-    "Purchase as instructed and follow the page instructions for the Hong Kong Disneyland trip draw"
-   ],
-   "stepsEn": [
-    "Open the OPPO 11.11 Sale page",
-    "Browse eligible OPPO products and savings of up to Php 8,000",
-    "Purchase as instructed and follow the page instructions for the Hong Kong Disneyland trip draw"
-   ],
-   "stepsZh": [
-    "打开 OPPO 11.11 大促页面",
-    "浏览符合条件的 OPPO 产品及最高 Php 8,000 的优惠",
-    "按页面指引购买，并按指引参与香港迪士尼乐园之旅抽奖"
-   ],
-   "title": "Win a Trip to Hong Kong Disneyland at OPPO’s 11.11 Sale",
-   "titleEn": "Win a Trip to Hong Kong Disneyland at OPPO’s 11.11 Sale",
-   "titleZh": "OPPO 11.11 大促：赢取香港迪士尼乐园之旅",
-   "valueText": "Up to Php 8,000 off",
-   "valueTextEn": "Up to Php 8,000 off",
-   "valueTextZh": "最高省 Php 8,000",
-   "valueUsd": null,
-   "vendor": "OPPO",
-   "verified": false,
-   "linkType": "source",
-   "accessUrl": "https://som2nynetwork.com/uncategorized/win-a-trip-to-hong-kong-disneyland-at-oppos-11-11-sale/",
-   "regionCodes": [
-    "ph"
-   ]
-  },
-  {
    "category": "ucard",
    "conditions": "须在 2026 年 11 月 30 日前办理 PayMe 银联虚拟卡并在日本消费；具体回赠上限与立减条款以官方页面为准。",
    "conditionsEn": "Apply for a PayMe UnionPay virtual card and use it for spending in Japan by 30 November 2026; cashback caps and discount terms are subject to the official page.",
@@ -15863,6 +16989,116 @@
    ]
   },
   {
+   "category": "entertainment",
+   "conditions": "Not specified in source",
+   "conditionsEn": "Not specified in source",
+   "conditionsZh": "来源未注明",
+   "endsAt": null,
+   "firstSeenAt": "2026-11-14T05:32:38.342Z",
+   "freeType": "折扣优惠",
+   "lastVerifiedAt": "2026-11-15T09:31:48.749Z",
+   "market": "global",
+   "offer": "Bandai Namco Entertainment games are up to 87% off on PlayStation Store and Nintendo Store.",
+   "offerEn": "Bandai Namco Entertainment games are up to 87% off on PlayStation Store and Nintendo Store.",
+   "offerZh": "万代南梦宫娱乐游戏在 PlayStation Store 与 Nintendo Store 最高 87% OFF。",
+   "officialUrl": "",
+   "regions": "Not specified in source",
+   "regionsEn": "Not specified in source",
+   "regionsZh": "来源未注明",
+   "riskEn": "Discounts vary by game and the sale may end without notice.",
+   "riskNote": "Discounts vary by game and the sale may end without notice.",
+   "riskZh": "折扣因游戏而异，促销可能随时结束。",
+   "saved": false,
+   "sourceName": "nqbrief.com",
+   "sourceUrl": "https://nqbrief.com/en/games/bandai-namco-playstation-nintendo-sale/",
+   "startsAt": null,
+   "status": "active",
+   "steps": [
+    "Open the source link to view the Bandai Namco sale.",
+    "Go to PlayStation Store or Nintendo Store and find an eligible Bandai Namco game.",
+    "Purchase at the discounted price shown on the store."
+   ],
+   "stepsEn": [
+    "Open the source link to view the Bandai Namco sale.",
+    "Go to PlayStation Store or Nintendo Store and find an eligible Bandai Namco game.",
+    "Purchase at the discounted price shown on the store."
+   ],
+   "stepsZh": [
+    "打开来源链接查看万代南梦宫促销。",
+    "前往 PlayStation Store 或 Nintendo Store，找到适用的万代南梦宫游戏。",
+    "按商店显示的折扣价购买。"
+   ],
+   "title": "Bandai Namco cuts up to 87% in PlayStation and Nintendo sales",
+   "titleEn": "Bandai Namco cuts up to 87% in PlayStation and Nintendo sales",
+   "titleZh": "万代南梦宫在 PlayStation 与 Nintendo 商店最高降价 87%",
+   "valueText": "Up to 87% off",
+   "valueTextEn": "Up to 87% off",
+   "valueTextZh": "最高 87% OFF",
+   "valueUsd": null,
+   "vendor": "Bandai Namco Entertainment",
+   "verified": false,
+   "linkType": "source",
+   "accessUrl": "https://nqbrief.com/en/games/bandai-namco-playstation-nintendo-sale/",
+   "regionCodes": [
+    "unspecified"
+   ]
+  },
+  {
+   "category": "food",
+   "conditions": "Minimum spend of $30; applies to Yakiniku bentos and rice bowls ordered via Grab delivery.",
+   "conditionsEn": "Minimum spend of $30; applies to Yakiniku bentos and rice bowls ordered via Grab delivery.",
+   "conditionsZh": "最低消费 $30；仅适用于通过 Grab 外卖订购的烧肉便当及饭类。",
+   "endsAt": "2026-11-29",
+   "firstSeenAt": "2026-11-14T05:32:38.173Z",
+   "freeType": "折扣优惠",
+   "lastVerifiedAt": "2026-11-15T23:38:49.048Z",
+   "market": "asia",
+   "offer": "Yakiniku LIKE Singapore offers 20% off Grab delivery orders until 29 November 2026, with a minimum spend of $30 on Yakiniku bentos and rice bowls.",
+   "offerEn": "Yakiniku LIKE Singapore offers 20% off Grab delivery orders until 29 November 2026, with a minimum spend of $30 on Yakiniku bentos and rice bowls.",
+   "offerZh": "新加坡 Yakiniku LIKE 于 2026 年 11 月 14 日至 29 日通过 Grab 提供外卖 20% 折扣，烧肉便当及饭类订单满 $30 可用。",
+   "officialUrl": "",
+   "regions": "Singapore",
+   "regionsEn": "Singapore",
+   "regionsZh": "新加坡",
+   "riskEn": "Discount applies only to the specified items and orders meeting the minimum spend.",
+   "riskNote": "Discount applies only to the specified items and orders meeting the minimum spend.",
+   "riskZh": "折扣仅适用于指定商品且须满足最低消费。",
+   "saved": false,
+   "sourceName": "sg.everydayonsales.com",
+   "sourceUrl": "https://sg.everydayonsales.com/14-29-november-2026-yakiniku-like-singapore-enjoy-20-off-grab-delivery-orders-with-minimum-spend-of-30-on-yakiniku-bentos-rice-bowls/",
+   "startsAt": "2026-11-14",
+   "status": "active",
+   "steps": [
+    "Open the official link",
+    "Open Grab and find Yakiniku LIKE Singapore",
+    "Order Yakiniku bentos or rice bowls for at least $30 and apply the 20% off at checkout"
+   ],
+   "stepsEn": [
+    "Open the official link",
+    "Open Grab and find Yakiniku LIKE Singapore",
+    "Order Yakiniku bentos or rice bowls for at least $30 and apply the 20% off at checkout"
+   ],
+   "stepsZh": [
+    "打开官方链接",
+    "打开 Grab，搜索新加坡 Yakiniku LIKE",
+    "订购满 $30 的烧肉便当或饭类，并在结算时使用 20% 折扣"
+   ],
+   "title": "14-29 November 2026: Yakiniku LIKE Singapore: Enjoy 20% OFF Grab Delivery Orders With Minimum Spend of $30 on Yakiniku Bentos & Rice Bowls",
+   "titleEn": "14-29 November 2026: Yakiniku LIKE Singapore: Enjoy 20% OFF Grab Delivery Orders With Minimum Spend of $30 on Yakiniku Bentos & Rice Bowls",
+   "titleZh": "2026 年 11 月 14-29 日：新加坡 Yakiniku LIKE Grab 外卖订单满 $30 享 20% OFF（烧肉便当及饭类）",
+   "valueText": "20% off",
+   "valueTextEn": "20% off",
+   "valueTextZh": "立享 20% 折扣",
+   "valueUsd": null,
+   "vendor": "Yakiniku LIKE",
+   "verified": false,
+   "linkType": "source",
+   "accessUrl": "https://sg.everydayonsales.com/14-29-november-2026-yakiniku-like-singapore-enjoy-20-off-grab-delivery-orders-with-minimum-spend-of-30-on-yakiniku-bentos-rice-bowls/",
+   "regionCodes": [
+    "sg"
+   ]
+  },
+  {
    "category": "travel",
    "conditions": "Not specified in source; the sale covers flights, hotels and attractions.",
    "conditionsEn": "Not specified in source; the sale covers flights, hotels and attractions.",
@@ -16093,7 +17329,7 @@
    "endsAt": null,
    "firstSeenAt": "2026-11-14T03:32:53.546Z",
    "freeType": "真正免费",
-   "lastVerifiedAt": "2026-11-14T03:32:48.272Z",
+   "lastVerifiedAt": "2026-11-16T01:29:57.254Z",
    "market": "global",
    "offer": "In the Xbox anniversary giveaway, Gears of War: E-Day players can claim 13 free DLC rewards, including weapon rewards.",
    "offerEn": "In the Xbox anniversary giveaway, Gears of War: E-Day players can claim 13 free DLC rewards, including weapon rewards.",
@@ -16648,6 +17884,61 @@
    ]
   },
   {
+   "category": "other",
+   "conditions": "Source does not state the required purchase amount, eligible Colgate products, or end date.",
+   "conditionsEn": "Source does not state the required purchase amount, eligible Colgate products, or end date.",
+   "conditionsZh": "来源未注明所需消费金额、适用高露洁产品及截止日期。",
+   "endsAt": null,
+   "firstSeenAt": "2026-11-14T01:35:14.802Z",
+   "freeType": "混合优惠",
+   "lastVerifiedAt": "2026-11-15T19:38:25.771Z",
+   "market": "asia",
+   "offer": "ParknShop Colgate deals offering free rice cookers, pans and household basics.",
+   "offerEn": "ParknShop Colgate deals offering free rice cookers, pans and household basics.",
+   "offerZh": "百佳 ParknShop 高露洁优惠，免费赠送电饭煲、平底锅及家居日用品。",
+   "officialUrl": "",
+   "regions": "Hong Kong",
+   "regionsEn": "Hong Kong",
+   "regionsZh": "中国香港",
+   "riskEn": "Gift availability may be limited; check the in-store terms.",
+   "riskNote": "Gift availability may be limited; check the in-store terms.",
+   "riskZh": "赠品数量可能有限，请核对店内条款。",
+   "saved": false,
+   "sourceName": "lolleroll.com",
+   "sourceUrl": "https://lolleroll.com/parknshop-colgate-deals-free-rice-cookers-pans-and-household-basics/",
+   "startsAt": null,
+   "status": "active",
+   "steps": [
+    "Open the source link",
+    "Check the ParknShop Colgate deals and eligible products",
+    "Follow the in-store instructions to claim the free gifts"
+   ],
+   "stepsEn": [
+    "Open the source link",
+    "Check the ParknShop Colgate deals and eligible products",
+    "Follow the in-store instructions to claim the free gifts"
+   ],
+   "stepsZh": [
+    "打开来源链接",
+    "查看百佳高露洁优惠及适用产品",
+    "按店内指引领取免费赠品"
+   ],
+   "title": "ParknShop Colgate Deals: Free Rice Cookers, Pans, and Household Basics",
+   "titleEn": "ParknShop Colgate Deals: Free Rice Cookers, Pans, and Household Basics",
+   "titleZh": "百佳高露洁优惠：免费电饭煲、平底锅及家居日用品",
+   "valueText": "",
+   "valueTextEn": "",
+   "valueTextZh": "",
+   "valueUsd": null,
+   "vendor": "ParknShop",
+   "verified": false,
+   "linkType": "source",
+   "accessUrl": "https://lolleroll.com/parknshop-colgate-deals-free-rice-cookers-pans-and-household-basics/",
+   "regionCodes": [
+    "hk"
+   ]
+  },
+  {
    "category": "lifestyle",
    "conditions": "Sale ends tonight; no specific end date or other conditions given in source",
    "conditionsEn": "Sale ends tonight; no specific end date or other conditions given in source",
@@ -16710,7 +18001,7 @@
    "endsAt": null,
    "firstSeenAt": "2026-11-14T01:35:14.674Z",
    "freeType": "真正免费",
-   "lastVerifiedAt": "2026-11-14T03:32:48.272Z",
+   "lastVerifiedAt": "2026-11-16T01:29:57.254Z",
    "market": "global",
    "offer": "New ZCode users get 100M free GLM-5.3-Flash tokens under the 'Global Build' welcome program.",
    "offerEn": "New ZCode users get 100M free GLM-5.3-Flash tokens under the 'Global Build' welcome program.",
@@ -17482,6 +18773,119 @@
    ]
   },
   {
+   "category": "ucard",
+   "conditions": "New users only; free cash on sign-up.",
+   "conditionsEn": "New users only; free cash on sign-up.",
+   "conditionsZh": "仅限新用户；注册即可获得免费现金。",
+   "endsAt": null,
+   "firstSeenAt": "2026-11-13T17:34:33.937Z",
+   "freeType": "真正免费",
+   "lastVerifiedAt": "2026-11-15T21:35:46.058Z",
+   "market": "western",
+   "offer": "New Zilch users can get £10 free cash on sign-up, usable straight away.",
+   "offerEn": "New Zilch users can get £10 free cash on sign-up, usable straight away.",
+   "offerZh": "Zilch 新用户注册即可获得 £10 免费现金，可立即使用。",
+   "officialUrl": "",
+   "regions": "United Kingdom",
+   "regionsEn": "United Kingdom",
+   "regionsZh": "英国",
+   "riskEn": "",
+   "riskNote": "",
+   "riskZh": "",
+   "saved": false,
+   "sourceName": "starfreebies.co.uk",
+   "sourceUrl": "https://starfreebies.co.uk/free-10-new-users-zilch-4/",
+   "startsAt": null,
+   "status": "active",
+   "steps": [
+    "Open the source link",
+    "Sign up as a new Zilch user",
+    "Follow the page instructions to claim the £10"
+   ],
+   "stepsEn": [
+    "Open the source link",
+    "Sign up as a new Zilch user",
+    "Follow the page instructions to claim the £10"
+   ],
+   "stepsZh": [
+    "打开来源链接",
+    "以新用户身份注册 Zilch",
+    "按页面指引领取 £10"
+   ],
+   "title": "Free £10 (new users) [Zilch]",
+   "titleEn": "Free £10 (new users) [Zilch]",
+   "titleZh": "Zilch 新用户免费得 £10",
+   "valueText": "£10",
+   "valueTextEn": "£10",
+   "valueTextZh": "£10",
+   "valueUsd": null,
+   "vendor": "Zilch",
+   "verified": false,
+   "linkType": "source",
+   "accessUrl": "https://starfreebies.co.uk/free-10-new-users-zilch-4/",
+   "regionCodes": [
+    "gb"
+   ]
+  },
+  {
+   "category": "travel",
+   "conditions": "僅限長榮航空無限萬哩遊會員；來源未註明其他資格或地區限制。",
+   "conditionsEn": "EVA Air Infinity MileageLands members only; no other eligibility or regional restrictions stated in the source.",
+   "conditionsZh": "僅限長榮航空無限萬哩遊會員；來源未註明其他資格或地區限制。",
+   "endsAt": "2026-11-25",
+   "firstSeenAt": "2026-11-13T15:33:30.432Z",
+   "freeType": "折扣优惠",
+   "lastVerifiedAt": "2026-11-15T05:32:45.168Z",
+   "market": "asia",
+   "offer": "台灣時間2026年11月10日00:00至11月25日23:59，長榮航空無限萬哩遊會員購買或加值哩程，最高可獲50%額外哩程。",
+   "offerEn": "From 00:00 on November 10 to 23:59 on November 25, 2026 (Taiwan time), EVA Air Infinity MileageLands members who buy or top up miles can receive up to 50% extra miles.",
+   "offerZh": "台灣時間2026年11月10日00:00至11月25日23:59，長榮航空無限萬哩遊會員購買或加值哩程，最高可獲50%額外哩程。",
+   "officialUrl": "",
+   "regions": "來源未註明",
+   "regionsEn": "Not stated in the source",
+   "regionsZh": "來源未註明",
+   "riskEn": "Buying miles is a paid purchase; redemption value varies by route and redemption rules, so assess value before buying.",
+   "riskNote": "購買哩程為付費消費，兌換價值因航線與兌換規則而異，請先評估是否划算。",
+   "riskZh": "購買哩程為付費消費，兌換價值因航線與兌換規則而異，請先評估是否划算。",
+   "saved": false,
+   "sourceName": "the-frequent-traveler.com.tw",
+   "sourceUrl": "https://www.the-frequent-traveler.com.tw/eva-air-buy-miles-promo-2026-11/",
+   "startsAt": "2026-11-10",
+   "status": "active",
+   "steps": [
+    "打開官方連結",
+    "登入長榮航空無限萬哩遊帳戶",
+    "選擇購買或加值哩程",
+    "按頁面指引完成購買並確認額外哩程"
+   ],
+   "stepsEn": [
+    "Open the official link",
+    "Log in to your EVA Air Infinity MileageLands account",
+    "Choose to buy or top up miles",
+    "Follow the on-page instructions to complete the purchase and confirm the extra miles"
+   ],
+   "stepsZh": [
+    "打開官方連結",
+    "登入長榮航空無限萬哩遊帳戶",
+    "選擇購買或加值哩程",
+    "按頁面指引完成購買並確認額外哩程"
+   ],
+   "title": "長榮雙11購買哩程最高加贈50%（至11/25）｜TFT常旅客",
+   "titleEn": "EVA Air Double 11 Buy Miles with up to 50% Bonus Miles (until Nov. 25)",
+   "titleZh": "長榮雙11購買哩程最高加贈50%（至11/25）｜TFT常旅客",
+   "valueText": "最高 50% 額外哩程",
+   "valueTextEn": "Up to 50% extra miles",
+   "valueTextZh": "最高 50% 額外哩程",
+   "valueUsd": null,
+   "vendor": "EVA Air",
+   "verified": false,
+   "linkType": "source",
+   "accessUrl": "https://www.the-frequent-traveler.com.tw/eva-air-buy-miles-promo-2026-11/",
+   "regionCodes": [
+    "unspecified"
+   ]
+  },
+  {
    "category": "telecom",
    "conditions": "For travel to China; eligibility, cashback rate and eSIM claim method not specified in source.",
    "conditionsEn": "For travel to China; eligibility, cashback rate and eSIM claim method not specified in source.",
@@ -17712,7 +19116,7 @@
    "endsAt": null,
    "firstSeenAt": "2026-11-13T15:33:29.733Z",
    "freeType": "免费试用",
-   "lastVerifiedAt": "2026-11-14T03:32:48.272Z",
+   "lastVerifiedAt": "2026-11-16T01:29:57.254Z",
    "market": "global",
    "offer": "Qualified university students can get Google AI Plus free for 1 year in 140+ regions outside the US.",
    "offerEn": "Qualified university students can get Google AI Plus free for 1 year in 140+ regions outside the US.",
@@ -17767,7 +19171,7 @@
    "endsAt": null,
    "firstSeenAt": "2026-11-13T15:33:29.707Z",
    "freeType": "免费试用",
-   "lastVerifiedAt": "2026-11-14T03:32:48.272Z",
+   "lastVerifiedAt": "2026-11-16T01:29:57.254Z",
    "market": "global",
    "offer": "Get 2 weeks free with the Grok Bot free trial.",
    "offerEn": "Get 2 weeks free with the Grok Bot free trial.",
@@ -17812,6 +19216,61 @@
    "accessUrl": "https://www.bottutorials.com/answers/grok-bot-free-trial-14-days",
    "regionCodes": [
     "unspecified"
+   ]
+  },
+  {
+   "category": "crypto",
+   "conditions": "Rewards are for deposits of crypto from rival exchanges; detailed eligibility, reward tiers and caps are not specified in the source. Check the linked page for the full campaign terms.",
+   "conditionsEn": "Rewards are for deposits of crypto from rival exchanges; detailed eligibility, reward tiers and caps are not specified in the source. Check the linked page for the full campaign terms.",
+   "conditionsZh": "奖励面向从竞争对手交易所存入加密资产的用户；具体资格、奖励档位与上限来源未注明，以链接页面的完整活动条款为准。",
+   "endsAt": null,
+   "firstSeenAt": "2026-11-13T15:33:29.322Z",
+   "freeType": "需要充值",
+   "lastVerifiedAt": "2026-11-15T23:38:49.048Z",
+   "market": "asia",
+   "offer": "Bithumb has launched a 16-day campaign offering rewards of up to ₩200M to customers who deposit crypto from rival exchanges.",
+   "offerEn": "Bithumb has launched a 16-day campaign offering rewards of up to ₩200M to customers who deposit crypto from rival exchanges.",
+   "offerZh": "Bithumb 推出为期 16 天的活动，向从竞争对手交易所存入加密资产的用户提供高达 ₩2 亿韩元的奖励。",
+   "officialUrl": "",
+   "regions": "South Korea",
+   "regionsEn": "South Korea",
+   "regionsZh": "韩国",
+   "riskEn": "Crypto deposits are exposed to price volatility and transfer risk; rewards depend on the campaign terms and may change.",
+   "riskNote": "Crypto deposits are exposed to price volatility and transfer risk; rewards depend on the campaign terms and may change.",
+   "riskZh": "加密资产存款面临价格波动与转账风险；奖励取决于活动条款，条款可能变化。",
+   "saved": false,
+   "sourceName": "davefinances.com",
+   "sourceUrl": "https://davefinances.com/bithumb-offers-up-to-%E2%82%A9200m-for-rival-crypto-deposits/",
+   "startsAt": null,
+   "status": "active",
+   "steps": [
+    "Open the linked page and read the campaign terms",
+    "Deposit crypto from a rival exchange to Bithumb as instructed on the page",
+    "Claim or receive the reward according to the instructions on the page"
+   ],
+   "stepsEn": [
+    "Open the linked page and read the campaign terms",
+    "Deposit crypto from a rival exchange to Bithumb as instructed on the page",
+    "Claim or receive the reward according to the instructions on the page"
+   ],
+   "stepsZh": [
+    "打开链接页面并阅读活动条款",
+    "按页面指引从竞争对手交易所向 Bithumb 存入加密资产",
+    "按页面指引领取或接收奖励"
+   ],
+   "title": "Bithumb offers up to ₩200M for rival crypto deposits",
+   "titleEn": "Bithumb offers up to ₩200M for rival crypto deposits",
+   "titleZh": "Bithumb：向竞争对手交易所存款用户提供高达 2 亿韩元奖励",
+   "valueText": "Up to ₩200M",
+   "valueTextEn": "Up to ₩200M",
+   "valueTextZh": "最高 ₩2亿",
+   "valueUsd": null,
+   "vendor": "Bithumb",
+   "verified": false,
+   "linkType": "source",
+   "accessUrl": "https://davefinances.com/bithumb-offers-up-to-%E2%82%A9200m-for-rival-crypto-deposits/",
+   "regionCodes": [
+    "kr"
    ]
   },
   {
@@ -17928,6 +19387,119 @@
    "accessUrl": "https://www.gravityforms.com/blog/black-friday-is-coming-2026/",
    "regionCodes": [
     "unspecified"
+   ]
+  },
+  {
+   "category": "ai",
+   "conditions": "来源未注明",
+   "conditionsEn": "Not specified in source",
+   "conditionsZh": "来源未注明",
+   "endsAt": null,
+   "firstSeenAt": "2026-11-13T07:33:25.444Z",
+   "freeType": "折扣优惠",
+   "lastVerifiedAt": "2026-11-14T23:30:18.852Z",
+   "market": "asia",
+   "offer": "火山引擎方舟 Coding Plan 限时低价，活动期内可获得 deepseek-v4.1-flash 可用量。",
+   "offerEn": "Volcano Engine Ark Coding Plan is available at a limited-time low price, with deepseek-v4.1-flash usage available during the promotional period.",
+   "offerZh": "火山引擎方舟 Coding Plan 限时低价，活动期内可获得 deepseek-v4.1-flash 可用量。",
+   "officialUrl": "https://ark.volcengine.com/region:cn-beijing/docs/coding-plan-personal-new-user-promotion",
+   "regions": "中国大陆",
+   "regionsEn": "Mainland China",
+   "regionsZh": "中国大陆",
+   "riskEn": "",
+   "riskNote": "",
+   "riskZh": "",
+   "saved": false,
+   "sourceName": "saibodan.com",
+   "sourceUrl": "https://saibodan.com/deals/ark-coding-plan?from=rank",
+   "startsAt": null,
+   "status": "active",
+   "steps": [
+    "打开官方链接查看 Coding Plan 活动页",
+    "注册/登录火山引擎方舟账号",
+    "按页面指引选择 Coding Plan 并参与"
+   ],
+   "stepsEn": [
+    "Open the link to view the Coding Plan event page",
+    "Sign up / sign in to your Volcano Engine Ark account",
+    "Follow the page instructions to choose the Coding Plan and participate"
+   ],
+   "stepsZh": [
+    "打开官方链接查看 Coding Plan 活动页",
+    "注册/登录火山引擎方舟账号",
+    "按页面指引选择 Coding Plan 并参与"
+   ],
+   "title": "火山引擎方舟 Coding Plan 限时低价",
+   "titleEn": "Volcano Engine Ark Coding Plan Limited-Time Low Price",
+   "titleZh": "火山引擎方舟 Coding Plan 限时低价",
+   "valueText": "",
+   "valueTextEn": "",
+   "valueTextZh": "",
+   "valueUsd": null,
+   "vendor": "火山引擎方舟",
+   "verified": true,
+   "linkType": "official",
+   "accessUrl": "https://ark.volcengine.com/region:cn-beijing/docs/coding-plan-personal-new-user-promotion",
+   "regionCodes": [
+    "cn"
+   ]
+  },
+  {
+   "category": "cnplatform",
+   "conditions": "家电 6 类、数码 4 类；按扣除所有优惠后的最终售价补 15%，家电单件封顶 ¥1,500，数码单件封顶 ¥500；中央资金截止 2026 年 12 月 31 日。",
+   "conditionsEn": "Applies to 6 categories of home appliances and 4 categories of digital products; the subsidy is 15% of the final price after all other discounts, capped at ¥1,500 per home appliance and ¥500 per digital product. Central funding ends on 31 December 2026.",
+   "conditionsZh": "家电 6 类、数码 4 类；按扣除所有优惠后的最终售价补 15%，家电单件封顶 ¥1,500，数码单件封顶 ¥500；中央资金截止 2026 年 12 月 31 日。",
+   "endsAt": "2026-12-31",
+   "firstSeenAt": "2026-11-13T07:33:25.081Z",
+   "freeType": "折扣优惠",
+   "lastVerifiedAt": "2026-11-14T23:30:18.852Z",
+   "market": "asia",
+   "offer": "京东双11第四批国补火热申领：家电 6 类、数码 4 类按扣除所有优惠后的最终售价补 15%，家电单件封顶 ¥1,500，数码单件封顶 ¥500；中央资金截止 2026 年 12 月 31 日。",
+   "offerEn": "The fourth batch of the national subsidy is available via JD Double 11: 6 categories of home appliances and 4 categories of digital products receive a 15% subsidy on the final price after all other discounts, capped at ¥1,500 per home appliance and ¥500 per digital product. Central funding ends on 31 December 2026.",
+   "offerZh": "京东双11第四批国补火热申领：家电 6 类、数码 4 类按扣除所有优惠后的最终售价补 15%，家电单件封顶 ¥1,500，数码单件封顶 ¥500；中央资金截止 2026 年 12 月 31 日。",
+   "officialUrl": "",
+   "regions": "中国大陆",
+   "regionsEn": "Mainland China",
+   "regionsZh": "中国大陆",
+   "riskEn": "National subsidy quotas and funding are limited and available on a first-come, first-served basis; check the eligible categories and caps.",
+   "riskNote": "国补名额与资金有限，先到先得；需按官方流程申领，留意适用品类与封顶金额。",
+   "riskZh": "国补名额与资金有限，先到先得；需按官方流程申领，留意适用品类与封顶金额。",
+   "saved": false,
+   "sourceName": "news.e23.cn",
+   "sourceUrl": "http://news.e23.cn/caijing/2026-11-08/2026B0800148.html",
+   "startsAt": null,
+   "status": "active",
+   "steps": [
+    "打开官方链接查看国补活动时间、满减规则与申领全流程",
+    "按页面指引申领国补资格",
+    "在京东选购指定家电或数码商品",
+    "结算时按页面指引叠加国补与其他优惠"
+   ],
+   "stepsEn": [
+    "Open the official link to view the subsidy period, rules and application process",
+    "Apply for the national subsidy eligibility as shown on the page",
+    "Choose eligible home appliances or digital products on JD",
+    "Stack the national subsidy with other offers at checkout as shown on the page"
+   ],
+   "stepsZh": [
+    "打开官方链接查看国补活动时间、满减规则与申领全流程",
+    "按页面指引申领国补资格",
+    "在京东选购指定家电或数码商品",
+    "结算时按页面指引叠加国补与其他优惠"
+   ],
+   "title": "京东双11第四批国补",
+   "titleEn": "JD Double 11 National Subsidy",
+   "titleZh": "京东双11第四批国补",
+   "valueText": "15% 补贴，单件最高 ¥1500",
+   "valueTextEn": "15% off, up to ¥1,500",
+   "valueTextZh": "15% 补贴，单件最高 ¥1500",
+   "valueUsd": null,
+   "vendor": "京东",
+   "verified": false,
+   "linkType": "source",
+   "accessUrl": "http://news.e23.cn/caijing/2026-11-08/2026B0800148.html",
+   "regionCodes": [
+    "cn"
    ]
   },
   {
@@ -19055,6 +20627,64 @@
    ]
   },
   {
+   "category": "food",
+   "conditions": "Minimum spend of $60 per transaction; Scan-To-Pay with SimplyGo is required; only at Chinatown and Changi outlets",
+   "conditionsEn": "Minimum spend of $60 per transaction; Scan-To-Pay with SimplyGo is required; only at Chinatown and Changi outlets",
+   "conditionsZh": "单次消费满 $60；需使用 SimplyGo 扫码支付；仅限牛车水与樟宜门店",
+   "endsAt": "2026-12-31",
+   "firstSeenAt": "2026-11-13T01:38:52.045Z",
+   "freeType": "返现优惠",
+   "lastVerifiedAt": "2026-11-14T17:30:32.160Z",
+   "market": "asia",
+   "offer": "Enjoy 5% cashback and complimentary Salted Egg Chips when you Scan-To-Pay with a minimum spend of $60 at Chinatown and Changi outlets",
+   "offerEn": "Enjoy 5% cashback and complimentary Salted Egg Chips when you Scan-To-Pay with a minimum spend of $60 at Chinatown and Changi outlets",
+   "offerZh": "在牛车水与樟宜门店扫码支付满 $60，可享 5% 返现及免费咸蛋薯片",
+   "officialUrl": "",
+   "regions": "Singapore",
+   "regionsEn": "Singapore",
+   "regionsZh": "新加坡",
+   "riskEn": "Cashback terms and free-gift availability are subject to the promotion terms",
+   "riskNote": "Cashback terms and free-gift availability are subject to the promotion terms",
+   "riskZh": "返现规则与免费赠品供应以活动条款为准",
+   "saved": false,
+   "sourceName": "sg.everydayonsales.com",
+   "sourceUrl": "https://sg.everydayonsales.com/15-october-31-december-2026-simplygo-x-yum-cha-singapore-enjoy-5-cashback-free-salted-egg-chips-when-you-scan-to-pay-with-a-minimum-spend-of-60-at-chinatown-and-changi-outlets/",
+   "startsAt": "2026-10-15",
+   "status": "active",
+   "steps": [
+    "Visit a Yum Cha outlet in Chinatown or Changi",
+    "Spend at least $60",
+    "Pay by Scan-To-Pay with SimplyGo",
+    "Receive 5% cashback and the free Salted Egg Chips"
+   ],
+   "stepsEn": [
+    "Visit a Yum Cha outlet in Chinatown or Changi",
+    "Spend at least $60",
+    "Pay by Scan-To-Pay with SimplyGo",
+    "Receive 5% cashback and the free Salted Egg Chips"
+   ],
+   "stepsZh": [
+    "前往牛车水或樟宜的 Yum Cha 门店",
+    "消费满 $60",
+    "使用 SimplyGo 扫码支付",
+    "领取 5% 返现及免费咸蛋薯片"
+   ],
+   "title": "SimplyGo x Yum Cha Singapore: Enjoy 5% Cashback & Free Salted Egg Chips When You Scan-To-Pay with a Minimum Spend of $60 at Chinatown and Changi Outlets",
+   "titleEn": "SimplyGo x Yum Cha Singapore: Enjoy 5% Cashback & Free Salted Egg Chips When You Scan-To-Pay with a Minimum Spend of $60 at Chinatown and Changi Outlets",
+   "titleZh": "SimplyGo x Yum Cha 新加坡：扫码支付满 $60 享 5% 返现及免费咸蛋薯片",
+   "valueText": "5% cashback",
+   "valueTextEn": "5% cashback",
+   "valueTextZh": "5% 返现",
+   "valueUsd": null,
+   "vendor": "SimplyGo x Yum Cha",
+   "verified": false,
+   "linkType": "source",
+   "accessUrl": "https://sg.everydayonsales.com/15-october-31-december-2026-simplygo-x-yum-cha-singapore-enjoy-5-cashback-free-salted-egg-chips-when-you-scan-to-pay-with-a-minimum-spend-of-60-at-chinatown-and-changi-outlets/",
+   "regionCodes": [
+    "sg"
+   ]
+  },
+  {
    "category": "entertainment",
    "conditions": "仅限 O2 Priority 会员；新兑换码自 11 月 6 日起每周发放，来源未注明其他限制。",
    "conditionsEn": "O2 Priority members only; new codes drop weekly from 6 November. No other restrictions stated in the source.",
@@ -19333,6 +20963,61 @@
    ]
   },
   {
+   "category": "food",
+   "conditions": "DBS/POSB cardholders only; promo codes, minimum spend and other terms were not specified in the source — check the page for details.",
+   "conditionsEn": "DBS/POSB cardholders only; promo codes, minimum spend and other terms were not specified in the source — check the page for details.",
+   "conditionsZh": "仅限 DBS/POSB 持卡人；优惠码、最低消费及其他条款来源未注明，请以页面为准。",
+   "endsAt": "2026-12-31",
+   "firstSeenAt": "2026-11-12T23:33:56.455Z",
+   "freeType": "折扣优惠",
+   "lastVerifiedAt": "2026-11-15T09:31:48.749Z",
+   "market": "asia",
+   "offer": "DBS/POSB cardholders can enjoy up to S$8 off foodpanda and up to S$4 off GrabFood until 31 December.",
+   "offerEn": "DBS/POSB cardholders can enjoy up to S$8 off foodpanda and up to S$4 off GrabFood until 31 December.",
+   "offerZh": "DBS/POSB 持卡人可享 foodpanda 最高立减 S$8、GrabFood 最高立减 S$4，活动截至 12 月 31 日。",
+   "officialUrl": "",
+   "regions": "Singapore",
+   "regionsEn": "Singapore",
+   "regionsZh": "新加坡",
+   "riskEn": "Check any caps, minimum spend and expiry before paying with the card.",
+   "riskNote": "Check any caps, minimum spend and expiry before paying with the card.",
+   "riskZh": "支付前请确认优惠上限、最低消费及有效期。",
+   "saved": false,
+   "sourceName": "moneydigest.sg",
+   "sourceUrl": "https://www.moneydigest.sg/dbs-posb-cardholders-can-enjoy-up-to-s8-off-foodpanda-s4-off-grabfood-till-31-december/",
+   "startsAt": null,
+   "status": "active",
+   "steps": [
+    "Open the official link and check the card offer details",
+    "Pay with an eligible DBS/POSB card on foodpanda or GrabFood",
+    "Apply the offer as shown at checkout"
+   ],
+   "stepsEn": [
+    "Open the official link and check the card offer details",
+    "Pay with an eligible DBS/POSB card on foodpanda or GrabFood",
+    "Apply the offer as shown at checkout"
+   ],
+   "stepsZh": [
+    "打开官方链接，查看持卡人优惠详情",
+    "在 foodpanda 或 GrabFood 使用符合条件的 DBS/POSB 卡支付",
+    "按页面提示在结算时使用优惠"
+   ],
+   "title": "DBS/POSB Cardholders Can Enjoy Up To S$8 Off foodpanda & S$4 Off GrabFood Till 31 December",
+   "titleEn": "DBS/POSB Cardholders Can Enjoy Up To S$8 Off foodpanda & S$4 Off GrabFood Till 31 December",
+   "titleZh": "DBS/POSB 持卡人享 foodpanda 最高立减 S$8、GrabFood 最高立减 S$4，截至 12 月 31 日",
+   "valueText": "Up to S$8 off",
+   "valueTextEn": "Up to S$8 off",
+   "valueTextZh": "最高立减 S$8",
+   "valueUsd": null,
+   "vendor": "DBS/POSB",
+   "verified": false,
+   "linkType": "source",
+   "accessUrl": "https://www.moneydigest.sg/dbs-posb-cardholders-can-enjoy-up-to-s8-off-foodpanda-s4-off-grabfood-till-31-december/",
+   "regionCodes": [
+    "sg"
+   ]
+  },
+  {
    "category": "telecom",
    "conditions": "需使用支持 eSIM 的设备；每年最多 4 次旅行，每次 100MB；免费额度用完后需另购套餐；其他细则来源未注明。",
    "conditionsEn": "Requires an eSIM-compatible device; up to 4 trips per year, 100MB per trip; additional data must be purchased separately once the free allowance is used; other terms not specified in the source.",
@@ -19501,6 +21186,67 @@
    ]
   },
   {
+   "category": "food",
+   "conditions": "来源未注明：帖子未写明具体领取内容、适用资格、数量与截止时间；需扫帖内二维码领取，帖子提到可顺手帮忙助力，表述为“可以的话”，未写明助力为必需条件。",
+   "conditionsEn": "Not specified in source: the post does not state the specific item, eligibility, quantity, or deadline. Claim by scanning the QR code in the post; the post mentions helping with a boost if you can, and does not state that a boost is required.",
+   "conditionsZh": "来源未注明：帖子未写明具体领取内容、适用资格、数量与截止时间；需扫帖内二维码领取，帖子提到可顺手帮忙助力，表述为“可以的话”，未写明助力为必需条件。",
+   "endsAt": null,
+   "firstSeenAt": "2026-11-12T17:33:55.493Z",
+   "freeType": "混合优惠",
+   "lastVerifiedAt": "2026-11-15T15:35:43.268Z",
+   "market": "asia",
+   "offer": "扫码免费领取星巴克优惠；帖子提到领取时可顺手帮忙助力。",
+   "offerEn": "Scan the QR code to claim a free Starbucks offer; the post also mentions helping with a boost if you can.",
+   "offerZh": "扫码免费领取星巴克优惠；帖子提到领取时可顺手帮忙助力。",
+   "officialUrl": "",
+   "regions": "来源未注明",
+   "regionsEn": "Not specified in source",
+   "regionsZh": "来源未注明",
+   "riskEn": "The post only provides a QR code image and does not state the specific item, quantity, or deadline. Confirm the rules on the page after scanning; the QR code image is not a Starbucks official activity page.",
+   "riskNote": "帖内仅提供二维码图片，未写明具体领取内容、数量与截止时间，领取前请在跳转页面确认活动规则；二维码图片并非星巴克官方活动页。",
+   "riskZh": "帖内仅提供二维码图片，未写明具体领取内容、数量与截止时间，领取前请在跳转页面确认活动规则；二维码图片并非星巴克官方活动页。",
+   "saved": false,
+   "sourceName": "V2EX",
+   "sourceUrl": "https://www.v2ex.com/t/1256344",
+   "startsAt": null,
+   "status": "active",
+   "steps": [
+    "查看帖内二维码图片",
+    "扫码打开领取页面",
+    "按页面提示完成领取",
+    "按页面提示使用领取到的优惠",
+    "如愿意，可按页面提示帮忙助力"
+   ],
+   "stepsEn": [
+    "Open the QR code image in the post",
+    "Scan the code to open the claim page",
+    "Follow the on-page instructions to complete the claim",
+    "Use the claimed offer as instructed on the page",
+    "If you wish, follow the on-page instructions to help with a boost"
+   ],
+   "stepsZh": [
+    "查看帖内二维码图片",
+    "扫码打开领取页面",
+    "按页面提示完成领取",
+    "按页面提示使用领取到的优惠",
+    "如愿意，可按页面提示帮忙助力"
+   ],
+   "title": "星巴克免费领取",
+   "titleEn": "Starbucks Free Claim",
+   "titleZh": "星巴克免费领取",
+   "valueText": "",
+   "valueTextEn": "",
+   "valueTextZh": "",
+   "valueUsd": null,
+   "vendor": "星巴克",
+   "verified": false,
+   "linkType": "source",
+   "accessUrl": "https://www.v2ex.com/t/1256344",
+   "regionCodes": [
+    "unspecified"
+   ]
+  },
+  {
    "category": "ecommerce",
    "conditions": "需在 Rowan 官网结账时输入优惠码 SHUAI20；来源未注明其他资格、地区或有效期限制",
    "conditionsEn": "Enter promo code SHUAI20 at checkout on the Rowan Appliance official website; no other eligibility, regional, or validity restrictions were specified in the source.",
@@ -19611,6 +21357,122 @@
    "accessUrl": "https://www.nigeriastartupact.ng/opay-sends-nigerians-sms-offers-up-to-%e2%82%a61400-in-rewards-see-how-to-get-it/",
    "regionCodes": [
     "other"
+   ]
+  },
+  {
+   "category": "cnplatform",
+   "conditions": "App 内领取/需登录；仅受邀账号可见，入口不固定；活动有效期普遍只有24小时；其他资格来源未注明",
+   "conditionsEn": "App-only claim / sign-in required; only invited accounts can see it and the entry point is not fixed; the activity is generally valid for only 24 hours; other eligibility not stated in the source.",
+   "conditionsZh": "App 内领取/需登录；仅受邀账号可见，入口不固定；活动有效期普遍只有24小时；其他资格来源未注明",
+   "endsAt": null,
+   "firstSeenAt": "2026-11-12T17:33:54.637Z",
+   "freeType": "混合优惠",
+   "lastVerifiedAt": "2026-11-15T15:35:43.268Z",
+   "market": "asia",
+   "offer": "打开拼多多App，在首页弹窗、砍价免费拿、多多视频或个人中心活动板块参与翻牌抽奖，可获得优惠券、助力碎片或小额红包",
+   "offerEn": "Open the Pinduoduo app and join the flip-card draw via the homepage pop-up, Bargain Free, Duoduo Video or the personal-centre activity section to win coupons, boost fragments or small red packets.",
+   "offerZh": "打开拼多多App，在首页弹窗、砍价免费拿、多多视频或个人中心活动板块参与翻牌抽奖，可获得优惠券、助力碎片或小额红包",
+   "officialUrl": "",
+   "regions": "中国大陆",
+   "regionsEn": "Mainland China",
+   "regionsZh": "中国大陆",
+   "riskEn": "Rewards are mostly coupons, boost fragments or small red packets; large direct cash rewards are rare; fragments must be collected by completing further tasks before they can be redeemed.",
+   "riskNote": "奖励大多为优惠券、助力碎片或小额红包，直接给大额现金的情况极少；碎片需继续做任务才能兑现",
+   "riskZh": "奖励大多为优惠券、助力碎片或小额红包，直接给大额现金的情况极少；碎片需继续做任务才能兑现",
+   "saved": false,
+   "sourceName": "fenshuake.com",
+   "sourceUrl": "https://www.fenshuake.com/a/pinduoduo/2026/1101/6897.html",
+   "startsAt": null,
+   "status": "active",
+   "steps": [
+    "打开拼多多App并登录",
+    "在首页弹窗、砍价免费拿页面、多多视频或个人中心活动板块找到翻牌入口",
+    "点击卡牌抽奖",
+    "优惠券进个人中心优惠券夹，红包进多多钱包；碎片需继续完成助力、浏览、下单等任务集齐才能兑现"
+   ],
+   "stepsEn": [
+    "Open the Pinduoduo app and sign in.",
+    "Find the flip-card entry in the homepage pop-up, Bargain Free page, Duoduo Video or personal-centre activity section.",
+    "Tap a card to draw.",
+    "Coupons go to the coupon wallet in your personal centre and red packets go to Duoduo Wallet; fragments must be collected by completing further boost, browsing and ordering tasks before they can be redeemed."
+   ],
+   "stepsZh": [
+    "打开拼多多App并登录",
+    "在首页弹窗、砍价免费拿页面、多多视频或个人中心活动板块找到翻牌入口",
+    "点击卡牌抽奖",
+    "优惠券进个人中心优惠券夹，红包进多多钱包；碎片需继续完成助力、浏览、下单等任务集齐才能兑现"
+   ],
+   "title": "拼多多翻牌奖励",
+   "titleEn": "Pinduoduo Flip Card Rewards",
+   "titleZh": "拼多多翻牌奖励",
+   "valueText": "翻牌抽优惠券/小额红包",
+   "valueTextEn": "Flip-card coupons",
+   "valueTextZh": "翻牌抽优惠券/小额红包",
+   "valueUsd": null,
+   "vendor": "拼多多",
+   "verified": false,
+   "linkType": "source",
+   "accessUrl": "https://www.fenshuake.com/a/pinduoduo/2026/1101/6897.html",
+   "regionCodes": [
+    "cn"
+   ]
+  },
+  {
+   "category": "cnplatform",
+   "conditions": "需在京东APP内申领国补资格；来源未注明具体补贴比例与适用商品门槛，国补需与优惠券叠加使用。",
+   "conditionsEn": "National subsidy eligibility must be claimed in the JD app; the source does not specify the subsidy rate or product thresholds, and the subsidy should be stacked with coupons.",
+   "conditionsZh": "需在京东APP内申领国补资格；来源未注明具体补贴比例与适用商品门槛，国补需与优惠券叠加使用。",
+   "endsAt": "2026-12-31",
+   "firstSeenAt": "2026-11-12T17:33:54.546Z",
+   "freeType": "折扣优惠",
+   "lastVerifiedAt": "2026-11-15T23:29:10.557Z",
+   "market": "asia",
+   "offer": "第四批国补火热申领中，京东双十一活动期间可领取全品类手机数码家电国补通用补贴，补贴到12月31日截止；在京东APP搜【国补606】进入领取，国补可与优惠券叠加使用。",
+   "offerEn": "The fourth round of the national subsidy is open for applications. During the JD Double 11 event, users can claim a general national subsidy for phones, digital products and home appliances, valid until 31 December. Search for 【国补606】 in the JD app to claim it, and stack it with coupons.",
+   "offerZh": "第四批国补火热申领中，京东双十一活动期间可领取全品类手机数码家电国补通用补贴，补贴到12月31日截止；在京东APP搜【国补606】进入领取，国补可与优惠券叠加使用。",
+   "officialUrl": "",
+   "regions": "中国大陆",
+   "regionsEn": "Mainland China",
+   "regionsZh": "中国大陆",
+   "riskEn": "National subsidy quotas are limited and first come, first served; the actual subsidy is as shown on the application page.",
+   "riskNote": "国补额度有限，先到先得，具体补贴以申领页面显示为准。",
+   "riskZh": "国补额度有限，先到先得，具体补贴以申领页面显示为准。",
+   "saved": false,
+   "sourceName": "news.e23.cn",
+   "sourceUrl": "http://news.e23.cn/caijing/2026-11-05/2026B0500143.html",
+   "startsAt": null,
+   "status": "active",
+   "steps": [
+    "打开来源链接查看国补申领指引",
+    "打开京东APP搜索【国补606】",
+    "按页面指引领取全品类手机数码家电国补补贴",
+    "选购适用商品并叠加优惠券下单"
+   ],
+   "stepsEn": [
+    "Open the source link to read the subsidy application guide",
+    "Open the JD app and search for 【国补606】",
+    "Claim the general national subsidy for phones, digital products and home appliances as instructed",
+    "Choose an eligible product and check out with coupons stacked"
+   ],
+   "stepsZh": [
+    "打开来源链接查看国补申领指引",
+    "打开京东APP搜索【国补606】",
+    "按页面指引领取全品类手机数码家电国补补贴",
+    "选购适用商品并叠加优惠券下单"
+   ],
+   "title": "京东双十一国补",
+   "titleEn": "JD Double 11 National Subsidy",
+   "titleZh": "京东双十一国补",
+   "valueText": "",
+   "valueTextEn": "",
+   "valueTextZh": "",
+   "valueUsd": null,
+   "vendor": "京东",
+   "verified": false,
+   "linkType": "source",
+   "accessUrl": "http://news.e23.cn/caijing/2026-11-05/2026B0500143.html",
+   "regionCodes": [
+    "cn"
    ]
   },
   {
