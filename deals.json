@@ -1,8 +1,8 @@
 {
- "generatedAt": "2026-11-17T01:56:02Z",
+ "generatedAt": "2026-11-17T03:55:01Z",
  "source": "GLOBAL DEAL HUNTER 情报中心",
  "version": 1,
- "count": 363,
+ "count": 365,
  "categories": [
   {
    "key": "ai",
@@ -2695,6 +2695,61 @@
    "accessUrl": "https://mobile.za.group/act/MGMShare/MGM_AssetAchievement/?language=en&inviteCode=JY3543&name=Jam*a",
    "regionCodes": [
     "hk"
+   ]
+  },
+  {
+   "category": "cloud",
+   "conditions": "Promo code AFFILIATE-RESOURIFY250 is required; other eligibility is not specified in the source.",
+   "conditionsEn": "Promo code AFFILIATE-RESOURIFY250 is required; other eligibility is not specified in the source.",
+   "conditionsZh": "需要使用优惠码 AFFILIATE-RESOURIFY250；其他资格来源未注明。",
+   "endsAt": null,
+   "firstSeenAt": "2026-11-15T21:35:47.681Z",
+   "freeType": "真正免费",
+   "lastVerifiedAt": "2026-11-15T23:38:49.048Z",
+   "market": "global",
+   "offer": "Use promo code AFFILIATE-RESOURIFY250 to get $250 in free cloud server credits to build, test and host websites or applications.",
+   "offerEn": "Use promo code AFFILIATE-RESOURIFY250 to get $250 in free cloud server credits to build, test and host websites or applications.",
+   "offerZh": "使用优惠码 AFFILIATE-RESOURIFY250 可获得 $250 免费云服务器额度，用于搭建、测试和托管网站或应用。",
+   "officialUrl": "",
+   "regions": "Not specified in source",
+   "regionsEn": "Not specified in source",
+   "regionsZh": "来源未注明",
+   "riskEn": "Cloud credits may have expiry or usage limits; confirm the terms on the signup page.",
+   "riskNote": "Cloud credits may have expiry or usage limits; confirm the terms on the signup page.",
+   "riskZh": "云额度可能有有效期或使用限制，请在注册页面确认条款。",
+   "saved": false,
+   "sourceName": "resourify.com",
+   "sourceUrl": "https://resourify.com/category/trials",
+   "startsAt": null,
+   "status": "active",
+   "steps": [
+    "Open the Resourify free trials page",
+    "Sign up for UpCloud",
+    "Apply promo code AFFILIATE-RESOURIFY250 and use the $250 in free credits following the page instructions"
+   ],
+   "stepsEn": [
+    "Open the Resourify free trials page",
+    "Sign up for UpCloud",
+    "Apply promo code AFFILIATE-RESOURIFY250 and use the $250 in free credits following the page instructions"
+   ],
+   "stepsZh": [
+    "打开 Resourify 免费试用页面",
+    "注册 UpCloud",
+    "使用优惠码 AFFILIATE-RESOURIFY250 并按页面指引使用 $250 免费额度"
+   ],
+   "title": "UpCloud $250 Free Cloud Credits",
+   "titleEn": "UpCloud $250 Free Cloud Credits",
+   "titleZh": "UpCloud 250 美元免费云额度",
+   "valueText": "$250 cloud credits",
+   "valueTextEn": "$250 cloud credits",
+   "valueTextZh": "250 美元云额度",
+   "valueUsd": 250,
+   "vendor": "UpCloud",
+   "verified": false,
+   "linkType": "source",
+   "accessUrl": "https://resourify.com/category/trials",
+   "regionCodes": [
+    "unspecified"
    ]
   },
   {
@@ -14433,6 +14488,61 @@
    "accessUrl": "https://www.hsbc.ae/ar-ae/credit-cards/products/live-plus/",
    "regionCodes": [
     "ae"
+   ]
+  },
+  {
+   "category": "membership",
+   "conditions": "来源未注明具体资格与截止时间；价格以活动页为准。",
+   "conditionsEn": "The source does not specify eligibility or an end date; the price is as shown on the promotion page.",
+   "conditionsZh": "来源未注明具体资格与截止时间；价格以活动页为准。",
+   "endsAt": null,
+   "firstSeenAt": "2026-11-16T05:35:28.847Z",
+   "freeType": "折扣优惠",
+   "lastVerifiedAt": "2026-11-16T05:35:21.841Z",
+   "market": "asia",
+   "offer": "11.11 期间，QQ 音乐会员年卡售价 138 元/年。",
+   "offerEn": "During the 11.11 promotion, the QQ Music annual membership is priced at ¥138 per year.",
+   "offerZh": "11.11 期间，QQ 音乐会员年卡售价 138 元/年。",
+   "officialUrl": "",
+   "regions": "来源未注明",
+   "regionsEn": "Not specified in the source",
+   "regionsZh": "来源未注明",
+   "riskEn": "Check the annual membership validity and auto-renewal settings.",
+   "riskNote": "请确认年卡有效期与自动续费设置。",
+   "riskZh": "请确认年卡有效期与自动续费设置。",
+   "saved": false,
+   "sourceName": "news.17173.com",
+   "sourceUrl": "http://news.17173.com/content/10252026/220412106.shtml",
+   "startsAt": null,
+   "status": "active",
+   "steps": [
+    "打开来源链接，找到 QQ 音乐会员年卡优惠",
+    "按页面指引前往对应会员活动页",
+    "登录账号并按页面指引完成购买"
+   ],
+   "stepsEn": [
+    "Open the source link and find the QQ Music annual membership offer",
+    "Follow the page to the corresponding membership promotion page",
+    "Sign in and complete the purchase as instructed on the page"
+   ],
+   "stepsZh": [
+    "打开来源链接，找到 QQ 音乐会员年卡优惠",
+    "按页面指引前往对应会员活动页",
+    "登录账号并按页面指引完成购买"
+   ],
+   "title": "QQ 音乐会员年卡",
+   "titleEn": "QQ Music Annual Membership",
+   "titleZh": "QQ 音乐会员年卡",
+   "valueText": "年卡 ¥138",
+   "valueTextEn": "¥138 / year",
+   "valueTextZh": "年卡 ¥138",
+   "valueUsd": null,
+   "vendor": "QQ 音乐",
+   "verified": false,
+   "linkType": "source",
+   "accessUrl": "http://news.17173.com/content/10252026/220412106.shtml",
+   "regionCodes": [
+    "unspecified"
    ]
   },
   {
