@@ -34,7 +34,7 @@ https://cdn.jsdelivr.net/gh/huluohu/global-deal-hunter-feed@main/deals.json
 
 ```json
 {
-  "generatedAt": "2026-11-16T21:55:21Z",
+  "generatedAt": "2026-11-16T23:55:26Z",
   "source": "GLOBAL DEAL HUNTER 情报中心",
   "version": 1,
   "count": 397,
