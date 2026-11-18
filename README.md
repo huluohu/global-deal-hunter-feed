@@ -114,6 +114,7 @@ https://cdn.jsdelivr.net/gh/huluohu/global-deal-hunter-feed@main/deals.json
 | `market` | `asia` / `global` / `western` / `other` |
 | `startsAt` / `endsAt` | 开始 / 截止时间（ISO 8601，未知为 null） |
 | `firstSeenAt` / `lastVerifiedAt` | 首次收录 / 最后核实时间 |
+| `collectedAt` | 采集时间：首次采纳进快照的时间（ISO 8601），已发布条目沿用原值不漂移 |
 | `riskNote` / `riskZh` / `riskEn` | 风险提示（原文 + 中英双语） |
 
 ### 数据口径
