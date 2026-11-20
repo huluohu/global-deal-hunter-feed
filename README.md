@@ -138,6 +138,26 @@ https://hub.docker.com/r/fooololo/global-deal-hunter
 
 一键部署文件就在本仓库根目录的 `docker-compose.yml`：下载后只改 `ADMIN_PASSWORD` 和 `SECRET_KEY` 两处，执行 `docker compose up -d` 即可。更新镜像：`docker compose pull && docker compose up -d`（只用 latest 标签）。
 
+## Agent 技能（用对话查羊毛）
+
+本仓库 `skill/` 目录提供一个 agent 技能包，让支持技能的 AI 助手直接对话式地操作羊毛数据：
+
+- **查询/筛选**：按关键词、分类、地区、免费类型、价值、到期时间找羊毛，看单条详情与分类清单。
+- **标记**：收藏、标记无效（与网页端实时互通，是你账号的个人标记）。
+- **更新**：触发看板从本货架拉取最新数据；也可以把你发现的羊毛链接提交为待核实线索。
+
+技能包由 `SKILL.md`（给助手的说明书）与 `scripts/gdh.py`（纯 Python 标准库命令行工具，无第三方依赖）组成。装法：把 `skill/` 放进你的助手技能目录即可。两种模式：
+
+- **服务端模式**：配置你自托管看板的地址与账号（`gdh.py setup`），功能完整；
+- **货架模式**：什么都不配，直接读本仓库的 deals.json，只能查询与筛选。
+
+```bash
+python3 skill/scripts/gdh.py setup --base-url http://<你的服务器>:3003 --username <用户名>
+python3 skill/scripts/gdh.py list --expiring 3 --sort ending     # 3 天内到期的羊毛
+python3 skill/scripts/gdh.py search Notion                       # 关键词查询
+python3 skill/scripts/gdh.py save 123                            # 收藏第 123 条
+```
+
 ## 更新节奏
 
 每 2 小时一轮：采集刷新完成后约 25 分钟内发布新快照，每次发布都是一个 git 提交，历史版本可查；另有独立的链接自检每 6 小时复核线上数据。
