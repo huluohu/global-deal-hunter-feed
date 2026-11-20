@@ -146,6 +146,10 @@ https://hub.docker.com/r/fooololo/global-deal-hunter
 - **标记**：收藏、标记无效。货架模式下标记存在助手本地（以条目链接为键、跨会话有效）；服务端模式下存你的账号、与网页端实时互通。
 - **更新**：服务端模式触发看板从本货架拉取最新数据，货架模式强制刷新本地货架缓存；也可以把你发现的羊毛链接提交为待核实线索（无服务端时存本地）。
 
+**一键接入**：把下面这句话发给你的 AI 助手，它会自己读安装文档完成安装与验证：
+
+> 请阅读 https://raw.githubusercontent.com/huluohu/global-deal-hunter-feed/main/skill/INSTALL.md ，按照步骤为我安装 GLOBAL DEAL HUNTER 羊毛查询技能（deal_hunter）。
+
 技能包由 `SKILL.md`（给助手的说明书）与 `scripts/gdh.py`（纯 Python 标准库命令行工具，无第三方依赖）组成。装法：把 `skill/` 放进你的助手技能目录即可。两种模式，标记都可持久化，区别只在存哪：
 
 - **货架模式（默认，零配置）**：直接读本仓库的 deals.json；收藏/无效标记与自提线索存在助手本机的 `~/.config/gdh-cli/` 下（以条目链接为键），跨会话有效，只对这台助手生效。
