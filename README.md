@@ -146,16 +146,16 @@ https://hub.docker.com/r/fooololo/global-deal-hunter
 - **标记**：收藏、标记无效（与网页端实时互通，是你账号的个人标记）。
 - **更新**：触发看板从本货架拉取最新数据；也可以把你发现的羊毛链接提交为待核实线索。
 
-技能包由 `SKILL.md`（给助手的说明书）与 `scripts/gdh.py`（纯 Python 标准库命令行工具，无第三方依赖）组成。装法：把 `skill/` 放进你的助手技能目录即可。两种模式：
+技能包由 `SKILL.md`（给助手的说明书）与 `scripts/gdh.py`（纯 Python 标准库命令行工具，无第三方依赖）组成。装法：把 `skill/` 放进你的助手技能目录即可。两种模式，标记都可持久化，区别只在存哪：
 
-- **服务端模式**：配置你自托管看板的地址与账号（`gdh.py setup`），功能完整；
-- **货架模式**：什么都不配，直接读本仓库的 deals.json，只能查询与筛选。
+- **货架模式（默认，零配置）**：直接读本仓库的 deals.json；收藏/无效标记与自提线索存在助手本机的 `~/.config/gdh-cli/` 下（以条目链接为键），跨会话有效，只对这台助手生效。
+- **服务端模式**：配置你自托管看板的地址与账号（`gdh.py setup`），标记存你的账号下，与网页端互通、多设备同步。
 
 ```bash
-python3 skill/scripts/gdh.py setup --base-url http://<你的服务器>:3003 --username <用户名>
 python3 skill/scripts/gdh.py list --expiring 3 --sort ending     # 3 天内到期的羊毛
 python3 skill/scripts/gdh.py search Notion                       # 关键词查询
-python3 skill/scripts/gdh.py save 123                            # 收藏第 123 条
+python3 skill/scripts/gdh.py save "https://…条目链接…"            # 收藏（本地或服务端，取决于模式）
+python3 skill/scripts/gdh.py setup --base-url http://<你的服务器>:3003 --username <用户名>   # 可选：切服务端模式
 ```
 
 ## 更新节奏
